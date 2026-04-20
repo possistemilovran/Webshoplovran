@@ -1,0 +1,323 @@
+/* Lokalni fontovi iz FONTOVI/ (javna putanja /fonts/site/). */
+
+@font-face {
+  font-family: OlivoLocalCormorantGaramond;
+  src: url("/fonts/site/cg-regular.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: OlivoLocalCormorantGaramond;
+  src: url("/fonts/site/cg-italic.otf") format("opentype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: OlivoLocalCormorantGaramond;
+  src: url("/fonts/site/cg-semibold.otf") format("opentype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: OlivoLocalCormorantGaramond;
+  src: url("/fonts/site/cg-bold.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: OlivoLocalSpectral;
+  src: url("/fonts/site/spectral-regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: OlivoLocalSpectral;
+  src: url("/fonts/site/spectral-bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: OlivoLocalBitter;
+  src: url("/fonts/site/bitter-regular.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: OlivoLocalBitter;
+  src: url("/fonts/site/bitter-bold.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: OlivoLocalDosis;
+  src: url("/fonts/site/dosis-regular.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: OlivoLocalDosis;
+  src: url("/fonts/site/dosis-semibold.otf") format("opentype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: OlivoLocalComfortaa;
+  src: url("/fonts/site/comfortaa-regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: OlivoLocalAndika;
+  src: url("/fonts/site/andika-regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: OlivoLocalSansation;
+  src: url("/fonts/site/sansation-regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: OlivoLocalCrimson;
+  src: url("/fonts/site/crimson-roman.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: OlivoLocalCrimson;
+  src: url("/fonts/site/Crimson-Italic.otf") format("opentype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: OlivoLocalUnna;
+  src: url("/fonts/site/unna-regular.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: OlivoLocalJosefinSans;
+  src: url("/fonts/site/josefinsans-regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: OlivoLocalJosefinSans;
+  src: url("/fonts/site/josefinsans-semibold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: OlivoLocalEczar;
+  src: url("/fonts/site/eczar-regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: OlivoLocalEczar;
+  src: url("/fonts/site/eczar-semibold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: OlivoLocalEczar;
+  src: url("/fonts/site/Eczar-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: OlivoLocalCaudex;
+  src: url("/fonts/site/caudex-regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: OlivoLocalCaudex;
+  src: url("/fonts/site/caudex-bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: OlivoLocalOranienbaum;
+  src: url("/fonts/site/oranienbaum-regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: OlivoLocalMagra;
+  src: url("/fonts/site/magra-regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: OlivoLocalMagra;
+  src: url("/fonts/site/magra-bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Dodatni lokalni fontovi iz public/fonts/site/ */
+
+@font-face {
+  font-family: OlivoLocalCaveat;
+  src: url("/fonts/site/caveat-bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: OlivoLocalEtchas;
+  src: url("/fonts/site/Etchas%20Regular.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: OlivoLocalEtchas;
+  src: url("/fonts/site/Etchas%20Italic.otf") format("opentype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: OlivoLocalFaitoRough;
+  src: url("/fonts/site/Faito%20Rough.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: OlivoLocalFoglihtenNo03;
+  src: url("/fonts/site/FoglihtenNo03.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: OlivoLocalGreatVibes;
+  src: url("/fonts/site/GreatVibes-Regular.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: OlivoLocalHopia;
+  src: url("/fonts/site/Hopia%20Font%20by%207NTypes.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: OlivoLocalImperiya;
+  src: url("/fonts/site/Imperiya.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: OlivoLocalItalianno;
+  src: url("/fonts/site/Italianno-Regular-OTF.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: OlivoLocalKalam;
+  src: url("/fonts/site/Kalam-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: OlivoLocalKaushanScript;
+  src: url("/fonts/site/KaushanScript-Regular.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: OlivoLocalOstrichSans;
+  src: url("/fonts/site/OstrichSans-Heavy.otf") format("opentype");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: OlivoLocalRostheroid;
+  src: url("/fonts/site/Rostheroid-nR264.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: OlivoLocalTillana;
+  src: url("/fonts/site/tillana-medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}

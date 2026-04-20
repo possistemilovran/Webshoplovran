@@ -1,0 +1,198 @@
+{
+  "lang": {
+    "picker": "Langue",
+    "hr": "Croate",
+    "en": "Anglais",
+    "de": "Allemand",
+    "fr": "Français",
+    "it": "Italien",
+    "pl": "Polonais",
+    "cs": "Tchèque",
+    "sl": "Slovène"
+  },
+  "autoTranslate": {
+    "label": "Traduction automatique",
+    "enable": "Traduire la page",
+    "enabling": "Traduction…",
+    "disable": "Original (HR)",
+    "providerLabel": "Fournisseur",
+    "providerMyMemory": "MyMemory (gratuit)",
+    "errorGeneric": "Échec de la traduction, réessayez plus tard.",
+    "warningQuota": "Quota de traduction gratuite quotidien atteint."
+  },
+  "nav": {
+    "home": "Accueil",
+    "shop": "Boutique",
+    "contact": "Contact",
+    "about": "À propos",
+    "blog": "Blog",
+    "allProducts": "Tous les articles",
+    "drawerTitle": "Menu",
+    "searchPlaceholder": "Rechercher des articles…",
+    "searchAria": "Rechercher",
+    "closeMenuAria": "Fermer le menu",
+    "closeSearchAria": "Fermer la recherche",
+    "shopSubmenuAria": "Sous-catégories",
+    "mainNav": "Navigation principale",
+    "announcements": "Annonces"
+  },
+  "categories": {
+    "stolne-lampe": "Lampes de table",
+    "zdjele-za-voce": "Coupes à fruits",
+    "zdjelice-srednje": "Bols moyens",
+    "zdjelice-male": "Petits bols",
+    "daske": "Planches à découper",
+    "kuhace": "Spatules",
+    "kuhinjski-pribor": "Ustensiles de cuisine",
+    "kutijice": "Petites boîtes",
+    "svijecnjaci": "Bougeoirs",
+    "stalci-za-case": "Supports à verres",
+    "satovi": "Horloges",
+    "pladnjevi-posluzavnici": "Plateaux et plats de service",
+    "ostalo-maslinovo": "Autres pièces uniques en bois d’olivier"
+  },
+  "announcement": {
+    "segments": [
+      "Bois d’olivier fait main — chaque pièce est unique",
+      "Livraison en Croatie",
+      "Jusqu’à 200 articles sélectionnés",
+      "Cadeau démo au-dessus de 150 €"
+    ],
+    "separator": " · "
+  },
+  "home": {
+    "eyebrow": "Bois d’olivier · fait main",
+    "heroTitle": "Pièces uniques en bois d’olivier",
+    "heroLede": "Chaque pièce est différente — chaleur du bois, veinage naturel et savoir-faire. Pour la maison, la cuisine et les cadeaux durables.",
+    "ctaPrimary": "Voir la sélection",
+    "ctaSecondary": "Tous les articles",
+    "sectionRecentTitle": "Articles en vedette",
+    "sectionRecentLink": "Collection lampes",
+    "sectionMoreTitle": "Plus de notre atelier",
+    "sectionMoreLink": "Catalogue complet",
+    "storyEyebrow": "Notre histoire",
+    "storyTitle": "Pourquoi le bois d’olivier",
+    "storyP1": "Le bois d’olivier garde longtemps sa beauté et résiste à l’usage quotidien. Nous travaillons le bois local à la main pour préserver le veinage.",
+    "storyP2": "Nous proposons des pièces uniques pour la maison et la cuisine. Contactez-nous pour des commandes sur mesure ou en volume.",
+    "storyButton": "En savoir plus",
+    "reviewsTitle": "Avis clients",
+    "ctaTitle": "Actualités et offres",
+    "ctaMuted": "Formulaire démo — aucune donnée envoyée. Connectez votre newsletter plus tard.",
+    "newsletterPlaceholder": "vous@exemple.fr",
+    "newsletterButton": "S’inscrire",
+    "newsletterLabel": "E-mail",
+    "newsletterDemoAlert": "Démo — aucun envoi de données."
+  },
+  "reviews": [
+    { "quote": "Magnifique petit objet, le bois est bien fini, on sent le travail manuel.", "author": "Ana M.", "location": "Zagreb" },
+    { "quote": "Le bol correspond exactement à ce que je voulais.", "author": "Marko P.", "location": "Split" },
+    { "quote": "Livraison rapide, article conforme à la photo.", "author": "Ivana K.", "location": "Rijeka" },
+    { "quote": "Offert en cadeau — qualité appréciée.", "author": "Petra L.", "location": "Osijek" },
+    { "quote": "Pas de série industrielle — le caractère du bois ressort.", "author": "Tomislav B.", "location": "Zadar" },
+    { "quote": "J’utilise les planches tous les jours, bois solide.", "author": "Maja S.", "location": "Pula" }
+  ],
+  "footer": {
+    "brand": "Olivo Unikat",
+    "muted": "Pièces en bois d’olivier, fait main. Contact pour commandes et questions.",
+    "copyright": "Olivo Unikat",
+    "shopHeading": "Boutique",
+    "aboutHeading": "Informations",
+    "linkLamps": "Lampes de table",
+    "linkAll": "Tous les articles",
+    "linkAbout": "À propos",
+    "linkContact": "Contact",
+    "editor": "Modifier le site"
+  },
+  "cart": {
+    "giftTitle": "Petit porte-clés en bois (cadeau démo)",
+    "giftEligible": "Félicitations ! Cadeau démo : {{gift}}.",
+    "giftBelow": "Cadeau démo pour commandes supérieures à {{amount}}.",
+    "drawerTitle": "Panier",
+    "emptyMessage": "Votre panier est vide.",
+    "checkoutButton": "Paiement",
+    "clearButton": "Vider le panier",
+    "subtotalLabel": "Sous-total",
+    "eachSuffix": "pièce",
+    "removeButton": "Retirer",
+    "decreaseQtyAria": "Diminuer la quantité",
+    "increaseQtyAria": "Augmenter la quantité",
+    "closeCartAria": "Fermer le panier"
+  },
+  "checkout": {
+    "pageTitle": "Paiement",
+    "pageNote": "Commande démo : remplir le formulaire. Paiement non connecté.",
+    "emptyTitle": "Paiement",
+    "emptyMessage": "Votre panier est vide.",
+    "browseButton": "Parcourir les articles",
+    "successTitle": "Merci — commande démo reçue",
+    "successText": "Paiement non traité. Connectez Stripe, PayPal, etc. en production.",
+    "continueButton": "Retour à la boutique",
+    "contactLegend": "Contact",
+    "shippingLegend": "Livraison",
+    "emailLabel": "E-mail",
+    "nameLabel": "Nom complet",
+    "addressLabel": "Adresse",
+    "cityLabel": "Ville",
+    "zipLabel": "Code postal",
+    "countryLabel": "Pays",
+    "submitButton": "Envoyer la commande démo",
+    "summaryTitle": "Récapitulatif",
+    "giftIncluded": "Cadeau démo inclus (seuil atteint)."
+  },
+  "blog": {
+    "pageTitle": "Blog",
+    "pageIntro": "Publiez ici des conseils d’entretien du bois et des nouvelles de l’atelier.",
+    "backHome": "Retour à l’accueil"
+  },
+  "product": {
+    "addToCart": "Ajouter au panier",
+    "soldOut": "Épuisé",
+    "soldOutShort": "Rupture de stock",
+    "fact1": "Livraison en Croatie (démo)",
+    "fact2": "Huiler légèrement avant la première utilisation",
+    "fact3": "Retours : définissez votre politique",
+    "collectionsFallback": "Olivo Unikat",
+    "imageThumb": "Image {{n}}",
+    "notFoundTitle": "Article introuvable",
+    "notFoundLink": "Retour à la boutique",
+    "slugAria": "Identifiant technique dans l’URL (slug) : {{slug}}",
+    "specWidth": "Largeur",
+    "specHeight": "Hauteur",
+    "specDiameter": "Diamètre (⌀)",
+    "specShape": "Forme"
+  },
+  "shop": {
+    "eyebrow": "Catalogue",
+    "title": "Tous les articles",
+    "searchIntro": "Recherche « {{query}} » :",
+    "oneResult": "résultat",
+    "manyResults": "résultats",
+    "ledeDefault": "Jusqu’à 200 pièces uniques en treize catégories. Images d’exemple (Unsplash)."
+  },
+  "collection": {
+    "notFoundTitle": "Collection introuvable",
+    "notFoundLink": "Voir tous les produits",
+    "heroEyebrow": "Collection",
+    "empty": "Aucun article dans cette collection pour le moment."
+  },
+  "about": {
+    "eyebrow": "À propos",
+    "title": "Olivo Unikat",
+    "p1": "Nous créons et vendons des pièces uniques en bois d’olivier — luminaires, vaisselle et accessoires.",
+    "p2": "Nous allions fonction et matière naturelle. Pour des volumes ou sur mesure : page Contact.",
+    "p3": "Site modèle — textes et images modifiables dans l’éditeur ou le code.",
+    "cta": "À la boutique"
+  },
+  "contact": {
+    "title": "Contact",
+    "p1": "Remplacez ce texte par vos coordonnées et formulaires.",
+    "linkShop": "Retour à la boutique"
+  },
+  "notFound": {
+    "title": "Page introuvable",
+    "linkHome": "Accueil"
+  },
+  "layout": {
+    "editorLauncher": "Modifier le site"
+  }
+}

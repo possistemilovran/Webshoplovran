@@ -1,0 +1,198 @@
+{
+  "lang": {
+    "picker": "Sprache",
+    "hr": "Kroatisch",
+    "en": "Englisch",
+    "de": "Deutsch",
+    "fr": "Französisch",
+    "it": "Italienisch",
+    "pl": "Polnisch",
+    "cs": "Tschechisch",
+    "sl": "Slowenisch"
+  },
+  "autoTranslate": {
+    "label": "Auto-Übersetzung",
+    "enable": "Seite übersetzen",
+    "enabling": "Übersetze…",
+    "disable": "Original (HR)",
+    "providerLabel": "Anbieter",
+    "providerMyMemory": "MyMemory (kostenlos)",
+    "errorGeneric": "Übersetzung fehlgeschlagen, bitte später versuchen.",
+    "warningQuota": "Tägliches Gratis-Übersetzungskontingent erreicht."
+  },
+  "nav": {
+    "home": "Start",
+    "shop": "Shop",
+    "contact": "Kontakt",
+    "about": "Über uns",
+    "blog": "Blog",
+    "allProducts": "Alle Artikel",
+    "drawerTitle": "Menü",
+    "searchPlaceholder": "Produkte suchen…",
+    "searchAria": "Suchen",
+    "closeMenuAria": "Menü schließen",
+    "closeSearchAria": "Suche schließen",
+    "shopSubmenuAria": "Shop-Unterkategorien",
+    "mainNav": "Hauptnavigation",
+    "announcements": "Shop-Hinweise"
+  },
+  "categories": {
+    "stolne-lampe": "Tischlampen",
+    "zdjele-za-voce": "Obstschalen",
+    "zdjelice-srednje": "Mittlere Schalen",
+    "zdjelice-male": "Kleine Schalen",
+    "daske": "Schneidebretter",
+    "kuhace": "Kochlöffel",
+    "kuhinjski-pribor": "Küchenutensilien",
+    "kutijice": "Döschen",
+    "svijecnjaci": "Kerzenhalter",
+    "stalci-za-case": "Gläser-Ständer",
+    "satovi": "Uhren",
+    "pladnjevi-posluzavnici": "Tabletts und Servierplatten",
+    "ostalo-maslinovo": "Weitere Unikate aus Olivenholz"
+  },
+  "announcement": {
+    "segments": [
+      "Handgearbeitetes Olivenholz — jedes Stück ein Unikat",
+      "Versand innerhalb Kroatiens",
+      "Bis zu 200 sorgfältig ausgewählte Artikel",
+      "Demo-Geschenk ab 150 € Bestellwert"
+    ],
+    "separator": " · "
+  },
+  "home": {
+    "eyebrow": "Olivenholz · Handarbeit",
+    "heroTitle": "Einzigartige Olivenholz-Stücke",
+    "heroLede": "Jedes Stück ist anders — die Wärme des Holzes, natürliche Maserung und Handwerk. Für Zuhause, Küche und Geschenke, die bleiben.",
+    "ctaPrimary": "Highlights ansehen",
+    "ctaSecondary": "Alle Artikel",
+    "sectionRecentTitle": "Ausgewählte Artikel",
+    "sectionRecentLink": "Kollektion Tischlampen",
+    "sectionMoreTitle": "Mehr aus unserer Werkstatt",
+    "sectionMoreLink": "Gesamter Katalog",
+    "storyEyebrow": "Unsere Geschichte",
+    "storyTitle": "Warum Olivenholz",
+    "storyP1": "Olivenholz behält lange seine Schönheit und hält dem Alltag stand. Wir arbeiten mit lokalem Holz und bearbeiten es von Hand, um Maserung und Charakter zu erhalten.",
+    "storyP2": "Wir sind auf einzigartige Stücke für Haus und Küche spezialisiert — von Lampen und Schalen bis zu kleinem Zubehör. Kontaktieren Sie uns für Sonderanfertigungen oder größere Mengen.",
+    "storyButton": "Mehr über uns",
+    "reviewsTitle": "Kundenstimmen",
+    "ctaTitle": "Neuigkeiten und Angebote",
+    "ctaMuted": "Demo-Formular — keine Daten werden gesendet. Später Newsletter anbinden.",
+    "newsletterPlaceholder": "ihre@email.de",
+    "newsletterButton": "Anmelden",
+    "newsletterLabel": "E-Mail",
+    "newsletterDemoAlert": "Demo — keine Datenübermittlung."
+  },
+  "reviews": [
+    { "quote": "Ein schönes kleines Stück, das Holz ist glatt und man spürt die Handarbeit.", "author": "Ana M.", "location": "Zagreb" },
+    { "quote": "Die Schale ist genau wie gewünscht — warme Holzfarbe und einzigartige Maserung.", "author": "Marko P.", "location": "Split" },
+    { "quote": "Schnelle Lieferung, Artikel wie abgebildet. Danke!", "author": "Ivana K.", "location": "Rijeka" },
+    { "quote": "Als Geschenk gekauft — begeisterte Reaktion.", "author": "Petra L.", "location": "Osijek" },
+    { "quote": "Kein Massenprodukt — der Charakter des Holzes kommt zur Geltung.", "author": "Tomislav B.", "location": "Zadar" },
+    { "quote": "Die Bretter nutze ich täglich, robust und pflegeleicht.", "author": "Maja S.", "location": "Pula" }
+  ],
+  "footer": {
+    "brand": "Olivo Unikat",
+    "muted": "Olivenholz, handgefertigt. Kontakt für Fragen und Bestellungen.",
+    "copyright": "Olivo Unikat",
+    "shopHeading": "Shop",
+    "aboutHeading": "Infos",
+    "linkLamps": "Tischlampen",
+    "linkAll": "Alle Artikel",
+    "linkAbout": "Über uns",
+    "linkContact": "Kontakt",
+    "editor": "Seite bearbeiten"
+  },
+  "cart": {
+    "giftTitle": "Kleiner Holzanhänger (Demo-Geschenk)",
+    "giftEligible": "Glückwunsch! Demo-Geschenk: {{gift}}.",
+    "giftBelow": "Demo-Geschenk bei Bestellungen über {{amount}}.",
+    "drawerTitle": "Warenkorb",
+    "emptyMessage": "Ihr Warenkorb ist leer.",
+    "checkoutButton": "Zur Kasse",
+    "clearButton": "Warenkorb leeren",
+    "subtotalLabel": "Zwischensumme",
+    "eachSuffix": "Stück",
+    "removeButton": "Entfernen",
+    "decreaseQtyAria": "Menge verringern",
+    "increaseQtyAria": "Menge erhöhen",
+    "closeCartAria": "Warenkorb schließen"
+  },
+  "checkout": {
+    "pageTitle": "Kasse",
+    "pageNote": "Demo-Bestellung: Formular ausfüllen und absenden. Zahlung nicht angebunden.",
+    "emptyTitle": "Kasse",
+    "emptyMessage": "Ihr Warenkorb ist leer.",
+    "browseButton": "Artikel ansehen",
+    "successTitle": "Danke — Demo-Bestellung eingegangen",
+    "successText": "Zahlung nicht verarbeitet. Für Produktion Stripe, PayPal o. Ä. anbinden.",
+    "continueButton": "Zurück zum Shop",
+    "contactLegend": "Kontakt",
+    "shippingLegend": "Versand",
+    "emailLabel": "E-Mail",
+    "nameLabel": "Vollständiger Name",
+    "addressLabel": "Adresse",
+    "cityLabel": "Stadt",
+    "zipLabel": "PLZ",
+    "countryLabel": "Land",
+    "submitButton": "Demo-Bestellung absenden",
+    "summaryTitle": "Bestellübersicht",
+    "giftIncluded": "Demo-Geschenk inklusive (Schwellenwert erreicht)."
+  },
+  "blog": {
+    "pageTitle": "Blog",
+    "pageIntro": "Hier Pflegetipps, Werkstattnews und Geschichten rund ums Handwerk veröffentlichen.",
+    "backHome": "Zur Startseite"
+  },
+  "product": {
+    "addToCart": "In den Warenkorb",
+    "soldOut": "Ausverkauft",
+    "soldOutShort": "Nicht vorrätig",
+    "fact1": "Versand innerhalb Kroatiens (Demo)",
+    "fact2": "Vor erstem Gebrauch leicht ölen",
+    "fact3": "Rückgabe: eigene Shop-Richtlinie",
+    "collectionsFallback": "Olivo Unikat",
+    "imageThumb": "Bild {{n}}",
+    "notFoundTitle": "Artikel nicht gefunden",
+    "notFoundLink": "Zurück zum Shop",
+    "slugAria": "Technische Kennung in der URL (Slug): {{slug}}",
+    "specWidth": "Breite",
+    "specHeight": "Höhe",
+    "specDiameter": "Durchmesser (⌀)",
+    "specShape": "Form"
+  },
+  "shop": {
+    "eyebrow": "Katalog",
+    "title": "Alle Artikel",
+    "searchIntro": "Suche nach „{{query}}”:",
+    "oneResult": "Ergebnis",
+    "manyResults": "Ergebnisse",
+    "ledeDefault": "Bis zu 200 einzigartige Olivenholz-Artikel in dreizehn Kategorien. Bilder sind Beispiele (Unsplash)."
+  },
+  "collection": {
+    "notFoundTitle": "Kollektion nicht gefunden",
+    "notFoundLink": "Alle Produkte ansehen",
+    "heroEyebrow": "Kollektion",
+    "empty": "In dieser Kollektion gibt es noch keine Artikel."
+  },
+  "about": {
+    "eyebrow": "Über uns",
+    "title": "Olivo Unikat",
+    "p1": "Wir stellen und verkaufen einzigartige Stücke aus Olivenholz — von Beleuchtung und Geschirr bis zu kleinem Küchenzubehör und Dekor.",
+    "p2": "Wir verbinden Funktion mit der Wärme natürlichen Materials. Für Mengen, Design oder Kooperation: Kontaktseite.",
+    "p3": "Diese Website ist eine Vorlage — Texte und Bilder im Editor oder Code anpassbar.",
+    "cta": "Zum Shop"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "p1": "Ersetzen Sie diesen Text durch E-Mail, Telefon oder Formulare für Ihre Produktion.",
+    "linkShop": "Zurück zum Shop"
+  },
+  "notFound": {
+    "title": "Seite nicht gefunden",
+    "linkHome": "Startseite"
+  },
+  "layout": {
+    "editorLauncher": "Seite bearbeiten"
+  }
+}

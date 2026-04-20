@@ -1,0 +1,207 @@
+{
+  "lang": {
+    "picker": "Jezik",
+    "hr": "Hrvaški",
+    "en": "Angleški",
+    "de": "Nemški",
+    "fr": "Francoski",
+    "it": "Italijanski",
+    "pl": "Poljski",
+    "cs": "Češki",
+    "sl": "Slovenščina"
+  },
+  "nav": {
+    "home": "Domov",
+    "shop": "Trgovina",
+    "contact": "Kontakt",
+    "about": "O nas",
+    "blog": "Blog",
+    "allProducts": "Vsi izdelki",
+    "drawerTitle": "Meni",
+    "searchPlaceholder": "Iskanje izdelkov…",
+    "searchAria": "Iskanje",
+    "closeMenuAria": "Zapri meni",
+    "closeSearchAria": "Zapri iskanje",
+    "shopSubmenuAria": "Podkategorije trgovine",
+    "mainNav": "Glavna navigacija",
+    "announcements": "Obvestila trgovine"
+  },
+  "categories": {
+    "stolne-lampe": "Namizne svetilke",
+    "zdjele-za-voce": "Sklede za sadje",
+    "zdjelice-srednje": "Srednje posodice",
+    "zdjelice-male": "Male posodice",
+    "daske": "Deske za rezanje",
+    "kuhace": "Kuhalnice",
+    "kuhinjski-pribor": "Kuhinjski pribor",
+    "kutijice": "Škatlice",
+    "svijecnjaci": "Svečniki",
+    "stalci-za-case": "Stojala za kozarce",
+    "satovi": "Ure",
+    "pladnjevi-posluzavnici": "Pladnji in servirni pladnji",
+    "ostalo-maslinovo": "Drugi unikatni izdelki iz oljčnega lesa"
+  },
+  "announcement": {
+    "segments": [
+      "Ročno izdelani izdelki iz oljčnega lesa — vsak kos je edinstven",
+      "Dostava po EU",
+      "Do 200 skrbno izbranih izdelkov",
+      "Darilo ob nakupu nad 150 €"
+    ],
+    "separator": " · "
+  },
+  "home": {
+    "eyebrow": "Oljčni les · ročna izdelava · Lunjski oljčniki",
+    "heroTitle": "Unikatni izdelki iz oljčnega lesa",
+    "heroLede": "Vsak kos je drugačen — toplina lesa, naravne žile in obrtniško delo. Izbor za dom, kuhinjo in darilo, ki traja.",
+    "ctaPrimary": "Poglej izpostavljeno",
+    "ctaSecondary": "Vsi izdelki",
+    "sectionRecentTitle": "Izpostavljeni izdelki",
+    "sectionRecentLink": "Zbirka namiznih svetilk",
+    "sectionMoreTitle": "Več iz naše delavnice",
+    "sectionMoreLink": "Celoten katalog",
+    "storyEyebrow": "Naša zgodba",
+    "storyTitle": "Zakaj oljčni les",
+    "storyP1": "Oljčni les dolgo ohranja svojo lepoto in je odporen na vsakodnevno uporabo. Delamo z lokalnim lesom in ročnimi obdelavami, da ohranimo naravni vzorec in značaj vsakega kosa.",
+    "storyP2": "Specializirali smo se za unikatne izdelke za dom in kuhinjo — od svetilk in skled do drobnega pribora. Za prilagoditve in večja naročila nas kontaktirajte.",
+    "storyButton": "Več o nas",
+    "showcaseEyebrow": "Naša dela",
+    "showcaseTitle": "Vsak kos pripoveduje svojo zgodbo — o lesu, rokah in času.",
+    "showcaseLede": "Sklede, deske za serviranje, žlice, krožniki, svečniki, možnarji — vse izrezljano iz naravno odpadlih vej in dreves Lunjskih oljčnikov. Brez dveh enakih kosov.",
+    "showcaseStat1N": "250+",
+    "showcaseStat1L": "Unikatov letno",
+    "showcaseStat2N": "100%",
+    "showcaseStat2L": "Ročna izdelava",
+    "showcaseStat3N": "EU",
+    "showcaseStat3L": "Dostava",
+    "reviewsTitle": "Kaj pravijo kupci",
+    "ctaTitle": "Novice in ponudbe",
+    "ctaMuted": "To je demo obrazec — podatki se ne pošiljajo. Kasneje povežite e-pošto ali storitev novic.",
+    "newsletterPlaceholder": "vas@naslov.si",
+    "newsletterButton": "Prijavi se",
+    "newsletterLabel": "E-pošta",
+    "newsletterDemoAlert": "Demo — brez pošiljanja podatkov."
+  },
+  "reviews": [
+    { "quote": "Čudovit kos, les je gladko obdelan in čuti se ročna izdelava. Priporočam.", "author": "Ana M.", "location": "Ljubljana" },
+    { "quote": "Skleda je natanko taka, kot sem iskala — topla barva lesa in edinstven vzorec.", "author": "Marko P.", "location": "Maribor" },
+    { "quote": "Hitra dostava, izdelek kot na sliki. Hvala!", "author": "Ivana K.", "location": "Koper" },
+    { "quote": "Kupila kot darilo, prejemnik je navdušen nad kakovostjo.", "author": "Petra L.", "location": "Celje" },
+    { "quote": "Všeč mi je, ker ni serijsko — vidi se značaj lesa.", "author": "Tomaž B.", "location": "Kranj" },
+    { "quote": "Deske uporabljam vsak dan, les je trden in se lepo umije.", "author": "Maja S.", "location": "Nova Gorica" }
+  ],
+  "footer": {
+    "brand": "Radionica Lun",
+    "muted": "Unikatni izdelki iz oljčnega lesa iz Lunjskih oljčnikov, otok Pag. Ročno izdelano. Kontaktirajte nas za vprašanja in naročila.",
+    "copyright": "Radionica Lun",
+    "shopHeading": "Trgovina",
+    "aboutHeading": "Informacije",
+    "linkLamps": "Namizne svetilke",
+    "linkAll": "Vsi izdelki",
+    "linkAbout": "O nas",
+    "linkContact": "Kontakt",
+    "editor": "Uredi stran"
+  },
+  "cart": {
+    "giftTitle": "Mali leseni obesek (demo darilo)",
+    "giftEligible": "Čestitamo! Odklenili ste demo darilo: {{gift}}.",
+    "giftBelow": "Demo darilo ob naročilu nad {{amount}}.",
+    "drawerTitle": "Košarica",
+    "emptyMessage": "Vaša košarica je prazna.",
+    "checkoutButton": "Na blagajno",
+    "clearButton": "Izprazni košarico",
+    "subtotalLabel": "Vmesna vsota",
+    "eachSuffix": "kos",
+    "removeButton": "Odstrani",
+    "decreaseQtyAria": "Zmanjšaj količino",
+    "increaseQtyAria": "Povečaj količino",
+    "closeCartAria": "Zapri košarico"
+  },
+  "checkout": {
+    "pageTitle": "Blagajna",
+    "pageNote": "Demo naročilo: izpolnite obrazec in potrdite za simulacijo nakupa. Plačilo ni povezano.",
+    "emptyTitle": "Blagajna",
+    "emptyMessage": "Vaša košarica je prazna.",
+    "browseButton": "Razišči izdelke",
+    "successTitle": "Hvala — demo naročilo prejeto",
+    "successText": "Plačilo ni bilo obdelano. Za produkcijo povežite Stripe, PayPal ali podobno.",
+    "continueButton": "Nazaj v trgovino",
+    "contactLegend": "Kontakt",
+    "shippingLegend": "Dostava",
+    "emailLabel": "E-pošta",
+    "nameLabel": "Ime in priimek",
+    "addressLabel": "Naslov",
+    "cityLabel": "Mesto",
+    "zipLabel": "Poštna številka",
+    "countryLabel": "Država",
+    "submitButton": "Oddaj demo naročilo",
+    "summaryTitle": "Povzetek naročila",
+    "giftIncluded": "Demo darilo vključeno (dosežen prag naročila)."
+  },
+  "blog": {
+    "pageTitle": "Blog",
+    "pageIntro": "Tukaj delite nasvete o negi lesa, novice iz delavnice in obrtniške zgodbe.",
+    "backHome": "Nazaj na domov"
+  },
+  "product": {
+    "addToCart": "Dodaj v košarico",
+    "soldOut": "Razprodano",
+    "soldOutShort": "Razprodano",
+    "fact1": "Dostava po EU (demo)",
+    "fact2": "Pred prvo uporabo priporočamo lahno mazanje z oljem",
+    "fact3": "Vračila: nastavite politiko trgovine",
+    "collectionsFallback": "Radionica Lun",
+    "imageThumb": "Slika {{n}}",
+    "notFoundTitle": "Izdelek ni najden",
+    "notFoundLink": "Nazaj v trgovino",
+    "slugAria": "Identifikator izdelka v URL (slug): {{slug}}",
+    "specWidth": "Širina",
+    "specHeight": "Višina",
+    "specDiameter": "Premer (⌀)",
+    "specShape": "Oblika"
+  },
+  "shop": {
+    "eyebrow": "Katalog",
+    "title": "Vsi izdelki",
+    "searchIntro": "Iskanje za „{{query}}”:",
+    "oneResult": "zadetek",
+    "manyResults": "zadetkov",
+    "ledeDefault": "Do 200 unikatnih izdelkov iz oljčnega lesa v trinajstih kategorijah."
+  },
+  "collection": {
+    "notFoundTitle": "Zbirka ni najdena",
+    "notFoundLink": "Poglej vse izdelke",
+    "heroEyebrow": "Zbirka",
+    "empty": "V tej zbirki še ni izdelkov."
+  },
+  "about": {
+    "eyebrow": "O nas",
+    "title": "Radionica Lun",
+    "p1": "Izdelujemo in prodajamo unikatne izdelke iz oljčnega lesa iz Lunjskih oljčnikov — botaničnega rezervata na otoku Pagu, enega od treh takih območij na svetu. Oljčni les je gost, dolgotrajen in vsak kos ima svoj vzorec žil, zato ni dveh enakih.",
+    "p2": "Prizadevamo si združiti funkcionalnost (kuhinja, miza, darila) s toplino naravnega materiala. Za večja naročila, prilagoditve ali sodelovanje uporabite stran Kontakt.",
+    "p3": "Ta stran je predloga trgovine: besedilo in slike lahko spreminjate v vgrajenem urejevalniku ali v izvorni kodi.",
+    "cta": "V trgovino"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "p1": "To besedilo zamenjajte s svojim e-naslovom, telefonom ali obrazci za vprašanja o izdelku, naročilu ali sodelovanju.",
+    "linkShop": "Nazaj v trgovino"
+  },
+  "notFound": {
+    "title": "Stran ni najdena",
+    "linkHome": "Domov"
+  },
+  "layout": {
+    "editorLauncher": "Uredi stran"
+  },
+  "autoTranslate": {
+    "label": "Samodejni prevod",
+    "enable": "Prevedi stran",
+    "enabling": "Prevajam…",
+    "disable": "Izvirno (HR)",
+    "providerLabel": "Ponudnik",
+    "providerMyMemory": "MyMemory (brezplačno)",
+    "errorGeneric": "Prevod ni uspel, poskusite kasneje.",
+    "warningQuota": "Dosežena dnevna brezplačna kvota prevodov."
+  }
+}

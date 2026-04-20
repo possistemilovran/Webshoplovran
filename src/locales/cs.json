@@ -1,0 +1,198 @@
+{
+  "lang": {
+    "picker": "Jazyk",
+    "hr": "Chorvatština",
+    "en": "Angličtina",
+    "de": "Němčina",
+    "fr": "Francouzština",
+    "it": "Italština",
+    "pl": "Polština",
+    "cs": "Čeština",
+    "sl": "Slovinština"
+  },
+  "autoTranslate": {
+    "label": "Automatický překlad",
+    "enable": "Přeložit stránku",
+    "enabling": "Překládám…",
+    "disable": "Originál (HR)",
+    "providerLabel": "Poskytovatel",
+    "providerMyMemory": "MyMemory (zdarma)",
+    "errorGeneric": "Překlad se nezdařil, zkuste to později.",
+    "warningQuota": "Byla dosažena denní bezplatná kvóta překladů."
+  },
+  "nav": {
+    "home": "Domů",
+    "shop": "Obchod",
+    "contact": "Kontakt",
+    "about": "O nás",
+    "blog": "Blog",
+    "allProducts": "Všechny výrobky",
+    "drawerTitle": "Menu",
+    "searchPlaceholder": "Hledat výrobky…",
+    "searchAria": "Hledat",
+    "closeMenuAria": "Zavřít menu",
+    "closeSearchAria": "Zavřít vyhledávání",
+    "shopSubmenuAria": "Podkategorie obchodu",
+    "mainNav": "Hlavní navigace",
+    "announcements": "Oznámení"
+  },
+  "categories": {
+    "stolne-lampe": "Stolní lampy",
+    "zdjele-za-voce": "Mísy na ovoce",
+    "zdjelice-srednje": "Střední misky",
+    "zdjelice-male": "Malé misky",
+    "daske": "Prkénka",
+    "kuhace": "Varešky",
+    "kuhinjski-pribor": "Kuchyňské náčiní",
+    "kutijice": "Krabičky",
+    "svijecnjaci": "Svícny",
+    "stalci-za-case": "Stojany na sklenice",
+    "satovi": "Hodiny",
+    "pladnjevi-posluzavnici": "Podnosy a tácy",
+    "ostalo-maslinovo": "Další jedinečné předměty z olivového dřeva"
+  },
+  "announcement": {
+    "segments": [
+      "Ruční práce z olivového dřeva — každý kus je jedinečný",
+      "Doprava v Chorvatsku",
+      "Až 200 pečlivě vybraných položek",
+      "Demo dárek nad 150 €"
+    ],
+    "separator": " · "
+  },
+  "home": {
+    "eyebrow": "Olivové dřevo · ruční práce",
+    "heroTitle": "Jedinečné předměty z olivového dřeva",
+    "heroLede": "Každý kus je jiný — teplo dřeva, přirozená kresba a řemeslo. Do domu, kuchyně a jako trvalý dárek.",
+    "ctaPrimary": "Vybrané kousky",
+    "ctaSecondary": "Všechny výrobky",
+    "sectionRecentTitle": "Vybrané položky",
+    "sectionRecentLink": "Kolekce stolních lamp",
+    "sectionMoreTitle": "Další z naší dílny",
+    "sectionMoreLink": "Celý katalog",
+    "storyEyebrow": "Náš příběh",
+    "storyTitle": "Proč olivové dřevo",
+    "storyP1": "Olivové dřevo dlouho zachovává krásu a vydrží každodenní použití. Pracujeme s místním dřevem ručně.",
+    "storyP2": "Specializujeme se na jedinečné kousky do domu a kuchyně. Kontaktujte nás pro větší objednávky.",
+    "storyButton": "Více o nás",
+    "reviewsTitle": "Co říkají zákazníci",
+    "ctaTitle": "Novinky a nabídky",
+    "ctaMuted": "Demo formulář — data se neodesílají. Později připojte newsletter.",
+    "newsletterPlaceholder": "vas@email.cz",
+    "newsletterButton": "Přihlásit se",
+    "newsletterLabel": "E-mail",
+    "newsletterDemoAlert": "Demo — žádné odeslání dat."
+  },
+  "reviews": [
+    { "quote": "Krásný malý předmět, dřevo hladké, je znát ruční práci.", "author": "Ana M.", "location": "Záhřeb" },
+    { "quote": "Miska přesně jak jsem chtěla.", "author": "Marko P.", "location": "Split" },
+    { "quote": "Rychlé dodání, jako na fotce.", "author": "Ivana K.", "location": "Rijeka" },
+    { "quote": "Jako dárek — nadšení z kvality.", "author": "Petra L.", "location": "Osijek" },
+    { "quote": "Ne sériová výroba — vyniká charakter dřeva.", "author": "Tomislav B.", "location": "Zadar" },
+    { "quote": "Prkénka používám denně, pevné dřevo.", "author": "Maja S.", "location": "Pula" }
+  ],
+  "footer": {
+    "brand": "Olivo Unikat",
+    "muted": "Předměty z olivového dřeva, ruční výroba. Kontakt pro objednávky.",
+    "copyright": "Olivo Unikat",
+    "shopHeading": "Obchod",
+    "aboutHeading": "Informace",
+    "linkLamps": "Stolní lampy",
+    "linkAll": "Všechny výrobky",
+    "linkAbout": "O nás",
+    "linkContact": "Kontakt",
+    "editor": "Upravit stránku"
+  },
+  "cart": {
+    "giftTitle": "Malá dřevěná klíčenka (demo dárek)",
+    "giftEligible": "Gratulujeme! Demo dárek: {{gift}}.",
+    "giftBelow": "Demo dárek u objednávek nad {{amount}}.",
+    "drawerTitle": "Košík",
+    "emptyMessage": "Košík je prázdný.",
+    "checkoutButton": "K pokladně",
+    "clearButton": "Vyprázdnit košík",
+    "subtotalLabel": "Mezisoučet",
+    "eachSuffix": "ks",
+    "removeButton": "Odebrat",
+    "decreaseQtyAria": "Snížit množství",
+    "increaseQtyAria": "Zvýšit množství",
+    "closeCartAria": "Zavřít košík"
+  },
+  "checkout": {
+    "pageTitle": "Pokladna",
+    "pageNote": "Demo objednávka: vyplňte formulář. Platba není připojena.",
+    "emptyTitle": "Pokladna",
+    "emptyMessage": "Košík je prázdný.",
+    "browseButton": "Prohlédnout výrobky",
+    "successTitle": "Děkujeme — demo objednávka přijata",
+    "successText": "Platba nezpracována. Připojte Stripe, PayPal apod.",
+    "continueButton": "Zpět do obchodu",
+    "contactLegend": "Kontakt",
+    "shippingLegend": "Doprava",
+    "emailLabel": "E-mail",
+    "nameLabel": "Jméno a příjmení",
+    "addressLabel": "Adresa",
+    "cityLabel": "Město",
+    "zipLabel": "PSČ",
+    "countryLabel": "Země",
+    "submitButton": "Odeslat demo objednávku",
+    "summaryTitle": "Shrnutí objednávky",
+    "giftIncluded": "Demo dárek v ceně (dosažen práh)."
+  },
+  "blog": {
+    "pageTitle": "Blog",
+    "pageIntro": "Zde publikujte tipy na péči o dřevo a novinky z dílny.",
+    "backHome": "Zpět na úvod"
+  },
+  "product": {
+    "addToCart": "Přidat do košíku",
+    "soldOut": "Vyprodáno",
+    "soldOutShort": "Není skladem",
+    "fact1": "Doprava v Chorvatsku (demo)",
+    "fact2": "Před prvním použitím lehce namazat olejem",
+    "fact3": "Vrácení: nastavte pravidla obchodu",
+    "collectionsFallback": "Olivo Unikat",
+    "imageThumb": "Obrázek {{n}}",
+    "notFoundTitle": "Výrobek nenalezen",
+    "notFoundLink": "Zpět do obchodu",
+    "slugAria": "Technický identifikátor v adrese (slug): {{slug}}",
+    "specWidth": "Šířka",
+    "specHeight": "Výška",
+    "specDiameter": "Průměr (⌀)",
+    "specShape": "Tvar"
+  },
+  "shop": {
+    "eyebrow": "Katalog",
+    "title": "Všechny výrobky",
+    "searchIntro": "Hledání „{{query}}“:",
+    "oneResult": "výsledek",
+    "manyResults": "výsledků",
+    "ledeDefault": "Až 200 jedinečných předmětů ve třinácti kategoriích. Obrázky jsou ukázky (Unsplash)."
+  },
+  "collection": {
+    "notFoundTitle": "Kolekce nenalezena",
+    "notFoundLink": "Zobrazit všechny produkty",
+    "heroEyebrow": "Kolekce",
+    "empty": "V této kolekci zatím nejsou žádné výrobky."
+  },
+  "about": {
+    "eyebrow": "O nás",
+    "title": "Olivo Unikat",
+    "p1": "Vyrábíme a prodáváme jedinečné předměty z olivového dřeva — osvětlení, nádobí a doplňky.",
+    "p2": "Spojujeme funkci s přírodním materiálem. Větší objednávky — stránka Kontakt.",
+    "p3": "Šablona webu — texty a obrázky v editoru nebo kódu.",
+    "cta": "Do obchodu"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "p1": "Nahraďte tento text e-mailem, telefonem nebo formuláři.",
+    "linkShop": "Zpět do obchodu"
+  },
+  "notFound": {
+    "title": "Stránka nenalezena",
+    "linkHome": "Domů"
+  },
+  "layout": {
+    "editorLauncher": "Upravit stránku"
+  }
+}

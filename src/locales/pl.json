@@ -1,0 +1,198 @@
+{
+  "lang": {
+    "picker": "Język",
+    "hr": "Chorwacki",
+    "en": "Angielski",
+    "de": "Niemiecki",
+    "fr": "Francuski",
+    "it": "Włoski",
+    "pl": "Polski",
+    "cs": "Czeski",
+    "sl": "Słoweński"
+  },
+  "autoTranslate": {
+    "label": "Tłumaczenie automatyczne",
+    "enable": "Przetłumacz stronę",
+    "enabling": "Tłumaczenie…",
+    "disable": "Oryginał (HR)",
+    "providerLabel": "Dostawca",
+    "providerMyMemory": "MyMemory (bezpłatnie)",
+    "errorGeneric": "Tłumaczenie nie powiodło się, spróbuj później.",
+    "warningQuota": "Osiągnięto dzienny bezpłatny limit tłumaczeń."
+  },
+  "nav": {
+    "home": "Strona główna",
+    "shop": "Sklep",
+    "contact": "Kontakt",
+    "about": "O nas",
+    "blog": "Blog",
+    "allProducts": "Wszystkie produkty",
+    "drawerTitle": "Menu",
+    "searchPlaceholder": "Szukaj produktów…",
+    "searchAria": "Szukaj",
+    "closeMenuAria": "Zamknij menu",
+    "closeSearchAria": "Zamknij wyszukiwarkę",
+    "shopSubmenuAria": "Podkategorie sklepu",
+    "mainNav": "Menu główne",
+    "announcements": "Ogłoszenia"
+  },
+  "categories": {
+    "stolne-lampe": "Lampy stołowe",
+    "zdjele-za-voce": "Misy na owoce",
+    "zdjelice-srednje": "Średnie miski",
+    "zdjelice-male": "Małe miski",
+    "daske": "Deski do krojenia",
+    "kuhace": "Łopatki",
+    "kuhinjski-pribor": "Przybory kuchenne",
+    "kutijice": "Pudełka",
+    "svijecnjaci": "Świeczniki",
+    "stalci-za-case": "Stojaki na szklanki",
+    "satovi": "Zegary",
+    "pladnjevi-posluzavnici": "Tace i półmiski",
+    "ostalo-maslinovo": "Inne unikalne przedmioty z drewna oliwnego"
+  },
+  "announcement": {
+    "segments": [
+      "Ręcznie robione drewno oliwne — każdy egzemplarz jest wyjątkowy",
+      "Wysyłka w Chorwacji",
+      "Do 200 starannie wybranych artykułów",
+      "Prezent demo przy zamówieniu powyżej 150 €"
+    ],
+    "separator": " · "
+  },
+  "home": {
+    "eyebrow": "Drewno oliwne · rękodzieło",
+    "heroTitle": "Unikalne przedmioty z drewna oliwnego",
+    "heroLede": "Każdy egzemplarz jest inny — ciepło drewna, naturalne słoje i rzemiosło. Do domu, kuchni i trwałych prezentów.",
+    "ctaPrimary": "Zobacz wyróżnione",
+    "ctaSecondary": "Wszystkie produkty",
+    "sectionRecentTitle": "Polecane artykuły",
+    "sectionRecentLink": "Kolekcja lamp stołowych",
+    "sectionMoreTitle": "Więcej z naszej pracowni",
+    "sectionMoreLink": "Pełny katalog",
+    "storyEyebrow": "Nasza historia",
+    "storyTitle": "Dlaczego drewno oliwne",
+    "storyP1": "Drewno oliwne długo zachowuje piękno i wytrzymuje codzienne użytkowanie. Pracujemy na lokalnym drewnie ręcznie, by zachować słoje.",
+    "storyP2": "Specjalizujemy się w unikalnych przedmiotach do domu i kuchni. Zapytaj o większe zamówienia lub personalizację.",
+    "storyButton": "Więcej o nas",
+    "reviewsTitle": "Opinie klientów",
+    "ctaTitle": "Nowości i oferty",
+    "ctaMuted": "Formularz demo — dane nie są wysyłane. Później podłącz newsletter.",
+    "newsletterPlaceholder": "twoj@email.pl",
+    "newsletterButton": "Zapisz się",
+    "newsletterLabel": "E-mail",
+    "newsletterDemoAlert": "Demo — brak wysyłki danych."
+  },
+  "reviews": [
+    { "quote": "Piękny mały przedmiot, drewno gładkie, czuć ręczną robotę.", "author": "Ana M.", "location": "Zagrzeb" },
+    { "quote": "Misa dokładnie taka, jakiej szukałam.", "author": "Marko P.", "location": "Split" },
+    { "quote": "Szybka dostawa, zgodnie ze zdjęciem.", "author": "Ivana K.", "location": "Rijeka" },
+    { "quote": "Kupione na prezent — zachwyt jakością.", "author": "Petra L.", "location": "Osijek" },
+    { "quote": "Nie jest z taśmy — widać charakter drewna.", "author": "Tomislav B.", "location": "Zadar" },
+    { "quote": "Desek używam codziennie, solidne drewno.", "author": "Maja S.", "location": "Pula" }
+  ],
+  "footer": {
+    "brand": "Olivo Unikat",
+    "muted": "Przedmioty z drewna oliwnego, ręcznie robione. Kontakt w sprawie zamówień.",
+    "copyright": "Olivo Unikat",
+    "shopHeading": "Sklep",
+    "aboutHeading": "Informacje",
+    "linkLamps": "Lampy stołowe",
+    "linkAll": "Wszystkie produkty",
+    "linkAbout": "O nas",
+    "linkContact": "Kontakt",
+    "editor": "Edytuj stronę"
+  },
+  "cart": {
+    "giftTitle": "Mała drewniana zawieszka (prezent demo)",
+    "giftEligible": "Gratulacje! Prezent demo: {{gift}}.",
+    "giftBelow": "Prezent demo przy zamówieniach powyżej {{amount}}.",
+    "drawerTitle": "Koszyk",
+    "emptyMessage": "Koszyk jest pusty.",
+    "checkoutButton": "Do kasy",
+    "clearButton": "Opróżnij koszyk",
+    "subtotalLabel": "Suma częściowa",
+    "eachSuffix": "szt.",
+    "removeButton": "Usuń",
+    "decreaseQtyAria": "Zmniejsz ilość",
+    "increaseQtyAria": "Zwiększ ilość",
+    "closeCartAria": "Zamknij koszyk"
+  },
+  "checkout": {
+    "pageTitle": "Kasa",
+    "pageNote": "Zamówienie demo: wypełnij formularz. Płatność niepodłączona.",
+    "emptyTitle": "Kasa",
+    "emptyMessage": "Koszyk jest pusty.",
+    "browseButton": "Przeglądaj produkty",
+    "successTitle": "Dziękujemy — zamówienie demo przyjęte",
+    "successText": "Płatność nieobsłużona. Podłącz Stripe, PayPal itp.",
+    "continueButton": "Wróć do sklepu",
+    "contactLegend": "Kontakt",
+    "shippingLegend": "Dostawa",
+    "emailLabel": "E-mail",
+    "nameLabel": "Imię i nazwisko",
+    "addressLabel": "Adres",
+    "cityLabel": "Miasto",
+    "zipLabel": "Kod pocztowy",
+    "countryLabel": "Kraj",
+    "submitButton": "Wyślij zamówienie demo",
+    "summaryTitle": "Podsumowanie",
+    "giftIncluded": "Prezent demo w zestawie (próg zamówienia)."
+  },
+  "blog": {
+    "pageTitle": "Blog",
+    "pageIntro": "Tutaj publikuj porady o pielęgnacji drewna i nowości z pracowni.",
+    "backHome": "Strona główna"
+  },
+  "product": {
+    "addToCart": "Dodaj do koszyka",
+    "soldOut": "Wyprzedane",
+    "soldOutShort": "Brak w magazynie",
+    "fact1": "Wysyłka w Chorwacji (demo)",
+    "fact2": "Przed pierwszym użyciem lekko naoliwić",
+    "fact3": "Zwroty: ustal politykę sklepu",
+    "collectionsFallback": "Olivo Unikat",
+    "imageThumb": "Zdjęcie {{n}}",
+    "notFoundTitle": "Nie znaleziono produktu",
+    "notFoundLink": "Wróć do sklepu",
+    "slugAria": "Techniczny identyfikator w adresie URL (slug): {{slug}}",
+    "specWidth": "Szerokość",
+    "specHeight": "Wysokość",
+    "specDiameter": "Średnica (⌀)",
+    "specShape": "Kształt"
+  },
+  "shop": {
+    "eyebrow": "Katalog",
+    "title": "Wszystkie produkty",
+    "searchIntro": "Szukaj „{{query}}”:",
+    "oneResult": "wynik",
+    "manyResults": "wyników",
+    "ledeDefault": "Do 200 unikalnych przedmiotów w trzynastu kategoriach. Zdjęcia przykładowe (Unsplash)."
+  },
+  "collection": {
+    "notFoundTitle": "Nie znaleziono kolekcji",
+    "notFoundLink": "Zobacz wszystkie produkty",
+    "heroEyebrow": "Kolekcja",
+    "empty": "Brak produktów w tej kolekcji."
+  },
+  "about": {
+    "eyebrow": "O nas",
+    "title": "Olivo Unikat",
+    "p1": "Tworzymy i sprzedajemy unikalne przedmioty z drewna oliwnego — oświetlenie, naczynia i akcesoria.",
+    "p2": "Łączymy funkcję z naturalnym materiałem. Większe zamówienia — strona Kontakt.",
+    "p3": "Szablon strony — teksty i zdjęcia w edytorze lub kodzie.",
+    "cta": "Do sklepu"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "p1": "Zamień ten tekst na e-mail, telefon lub formularze.",
+    "linkShop": "Wróć do sklepu"
+  },
+  "notFound": {
+    "title": "Strona nie znaleziona",
+    "linkHome": "Strona główna"
+  },
+  "layout": {
+    "editorLauncher": "Edytuj stronę"
+  }
+}

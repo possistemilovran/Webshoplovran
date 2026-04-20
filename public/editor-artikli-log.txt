@@ -1,0 +1,11 @@
+# Log unosa / izmjena / brisanja artikala
+# Svaki redak: [ISO-datum] slug | akcija | detalj
+[2026-04-18T22:19:35.554Z] KREIRAJ-KOLEKCIJU slug=test-kolekcija id=col-test-kolekcija title="Test Kolekcija"
+[2026-04-18T22:19:52.577Z] BRIŠI-KOLEKCIJU slug=test-kolekcija id=col-test-kolekcija (odvezano 0 art.)
+[2026-04-18T22:27:53.229Z] KREIRAJ-KOLEKCIJU slug=lampe id=col-lampe title="stolne lampe"
+[2026-04-18T22:32:07.857Z] USNIMI slug=lampe-komad-1 title="lampa stolna" images=5
+[2026-04-18T22:43:55.175Z] PREPRAVI slug=lampe-komad-1 title="lampa stolna" images=5
+[2026-04-18T22:50:36.850Z] PREPRAVI slug=lampe-komad-1 title="lampa stolna" images=5
+[2026-04-18T22:53:02.360Z] PREPRAVI slug=lampe-komad-1 title="lampa stolna" images=5
+[2026-04-18T22:56:28.235Z] PREPRAVI slug=lampe-komad-1 title="lampa stolna" images=5
+[2026-04-18T23:10:33.325Z] PREPRAVI slug=lampe-komad-1 title="lampa stolna" images=5

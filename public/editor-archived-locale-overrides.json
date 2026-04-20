@@ -1,0 +1,1206 @@
+{
+  "version": 1,
+  "overrides": {
+    "en": {
+      "nav": {
+        "home": "home",
+        "shop": "Store",
+        "contact": "Contact",
+        "about": "About Us",
+        "allProducts": "All Items",
+        "searchPlaceholder": "Search items…",
+        "searchAria": "Looking for",
+        "closeMenuAria": "Close menu",
+        "closeSearchAria": "Close the search",
+        "shopSubmenuAria": "Store subcategories",
+        "mainNav": "Main Menu",
+        "announcements": "Store Notifications"
+      },
+      "announcement": {
+        "segments": [
+          "Handmade from olive wood — each piece is unique",
+          "Delivery within Croatia",
+          "Up to 200 carefully selected items on offer",
+          "Gift with order over €150 (demo)"
+        ]
+      },
+      "home": {
+        "eyebrow": "Olive wood · handmade",
+        "heroTitle": "Unique items made of olive wood",
+        "heroLede": "Each piece is different — the warmth of wood, natural veins and artisanal work. A choice for home, kitchen, and a gift that lasts.",
+        "ctaPrimary": "View highlights",
+        "ctaSecondary": "All Items",
+        "sectionRecentTitle": "Featured items",
+        "sectionRecentLink": "Table lamp collection",
+        "sectionMoreTitle": "More from our workshop",
+        "sectionMoreLink": "Full Catalogue",
+        "storyEyebrow": "Our story",
+        "storyTitle": "Why olive tree",
+        "storyP1": "Olive wood retains its beauty for a long time and is resistant to everyday use. We work with local wood and handcrafts to preserve the natural pattern and character of each piece.",
+        "storyP2": "We specialize in unique items for the home and kitchen — from lamps and bowls to small utensils. You can contact us for customizations or larger orders.",
+        "storyButton": "Read more about us",
+        "reviewsTitle": "What customers are saying",
+        "ctaTitle": "News and offers",
+        "ctaMuted": "This is a demo form — data is not being sent. Please connect your email or newsletter service later.",
+        "newsletterButton": "Sign Up",
+        "newsletterLabel": "E-mail",
+        "newsletterDemoAlert": "No data sent, please link the newsletter later."
+      },
+      "reviews": [
+        {
+          "quote": "A beautiful little thing, the wood is smoothly worked and just feels handmade. I recommend it.",
+          "author": "Anna M."
+        },
+        {
+          "quote": "The bowl is exactly what I was looking for — warm wood color and a unique vein pattern."
+        },
+        {
+          "quote": "Fast delivery, just like the picture. Thanks!",
+          "author": "Ivana “K”"
+        },
+        {
+          "quote": "Bought as a gift, the recipient is delighted with the quality."
+        },
+        {
+          "quote": "I love that it is not a factory serial piece — you can see the character of the tree."
+        },
+        {
+          "quote": "I use the boards every day, the wood is sturdy and washes nicely."
+        }
+      ],
+      "footer": {
+        "muted": "Unique items made of olive wood from Lun olive groves, island of Pag. Handmade. Contact us for questions and orders.",
+        "copyright": "Olive wood art",
+        "shopHeading": "Store",
+        "aboutHeading": "Info",
+        "linkLamps": "Table lamps",
+        "linkAll": "All Items",
+        "linkAbout": "About Us",
+        "linkContact": "Contact",
+        "editor": "Edit this page."
+      },
+      "cart": {
+        "giftTitle": "Small wooden pendant (demo gift)",
+        "giftEligible": "Congrats on completing your {{gift}} demo.",
+        "giftBelow": "Demo gift with orders over {{amount}}.",
+        "drawerTitle": "Basket",
+        "emptyMessage": "No products in the cart.",
+        "checkoutButton": "Checkout",
+        "clearButton": "Empty your cart",
+        "subtotalLabel": "Subtotal",
+        "eachSuffix": "apiece",
+        "removeButton": "Remove",
+        "decreaseQtyAria": "Decrease quantity",
+        "increaseQtyAria": "Increment quantity",
+        "closeCartAria": "Close cart"
+      },
+      "checkout": {
+        "pageTitle": "Checkout",
+        "pageNote": "Demo order: Fill in the information and submit to simulate a purchase. Payment is not linked.",
+        "emptyTitle": "Checkout",
+        "emptyMessage": "No products in the cart.",
+        "browseButton": "Browse items",
+        "successTitle": "Thank you — demo order received",
+        "successText": "Your payment hasn't been processed. Please connect Stripe, PayPal, or a similar system to produce.",
+        "continueButton": "Back To Shop",
+        "contactLegend": "Contact",
+        "shippingLegend": "Shipping",
+        "emailLabel": "E-mail",
+        "nameLabel": "Full Name",
+        "addressLabel": "Register",
+        "cityLabel": "City",
+        "zipLabel": "Postcode$",
+        "countryLabel": "Country",
+        "submitButton": "Submit Demo Order",
+        "summaryTitle": "Review order",
+        "giftIncluded": "Demo gift included (order threshold met)."
+      },
+      "blog": {
+        "pageIntro": "You can post tree care tips, workshop updates, and craft stories here.",
+        "backHome": "Back to homepage"
+      },
+      "product": {
+        "addToCart": "Add to Cart",
+        "soldOut": "Sold out",
+        "soldOutShort": "Out of stock",
+        "fact1": "Delivery within Croatia (demo)",
+        "fact2": "Recommended mild oiling of wood before first use",
+        "fact3": "Refund: adjust merchant policy",
+        "collectionsFallback": "r",
+        "imageThumb": "Figure N",
+        "notFoundTitle": "Item not found",
+        "notFoundLink": "Back To Shop"
+      },
+      "shop": {
+        "eyebrow": "Catalogue",
+        "title": "All Items",
+        "searchIntro": "Search for \"{{query}}\":",
+        "oneResult": "Effect",
+        "manyResults": "results",
+        "ledeDefault": "Up to 200 unique olive wood items in thirteen categories. Images are examples (Unsplash); in production, replace with your own photos."
+      },
+      "collection": {
+        "notFoundTitle": "Collection not found",
+        "notFoundLink": "View all items",
+        "heroEyebrow": "Collect",
+        "empty": "There are currently no items in this collection."
+      },
+      "about": {
+        "eyebrow": "About Us",
+        "p1": "We are engaged in the production and sale of unique items made of olive wood from Lun olive groves — a botanical reserve on the island of Pag, one of three such sites in the world. Olive wood is dense, long-lasting and each piece has its own vein pattern, so no two are the same.",
+        "p2": "Our goal is to combine functionality (kitchen, table, gift) with the warmth of a natural material. If you need a larger quantity, special design or collaboration, please contact us through the Contact page.",
+        "p3": "This website is a store template: you can edit texts and images in the built-in editor or in the source code.",
+        "cta": "Shop Now"
+      },
+      "contact": {
+        "title": "Contact",
+        "p1": "For inquiries about items, orders, or collaboration, replace this text with your email address, phone, or forms used in production.",
+        "linkShop": "Back To Shop"
+      },
+      "notFound": {
+        "title": "Page not found",
+        "linkHome": "To Home"
+      },
+      "layout": {
+        "editorLauncher": "Edit this page."
+      },
+      "categories": {
+        "stolne-lampe": "Large fruit bowls",
+        "zdjele-za-voce": "Medium and small bowls and bowls",
+        "zdjelice-srednje": "Husbands and other kitchen items",
+        "zdjelice-male": "Spoons,spoons, etc.",
+        "daske": "Tops",
+        "kuhace": "Stands,brackets, etc.",
+        "kuhinjski-pribor": "Kitchen utensils",
+        "kutijice": "Boxes,decorations,openers, etc.",
+        "svijecnjaci": "Candlesticks,curbs,decoration",
+        "stalci-za-case": "Watches",
+        "satovi": "Trays,trays, etc.",
+        "pladnjevi-posluzavnici": "Other unique",
+        "ostalo-maslinovo": "Resale production services"
+      }
+    },
+    "de": {
+      "nav": {
+        "home": "Home",
+        "shop": "Lebensmittelgeschäft",
+        "about": "Über uns",
+        "allProducts": "alle Artikel",
+        "drawerTitle": "WAHLSCHALTER",
+        "searchPlaceholder": "Artikel suchen…",
+        "searchAria": "Suche",
+        "closeMenuAria": "Menü schließen",
+        "closeSearchAria": "Suche schließen",
+        "shopSubmenuAria": "Shop-Unterkategorien",
+        "mainNav": "Hauptmenü",
+        "announcements": "Store-Benachrichtigungen"
+      },
+      "announcement": {
+        "segments": [
+          "Handgefertigt aus Olivenholz — jedes Stück ein Unikat",
+          "Lieferung innerhalb Kroatiens",
+          "Bis zu 200 sorgfältig ausgewählte Artikel im Angebot",
+          "Geschenk bei Bestellung über 150 € (Demo)"
+        ]
+      },
+      "home": {
+        "eyebrow": "Olivenholz · handgefertigt",
+        "heroTitle": "Unikate aus Olivenholz",
+        "heroLede": "Jedes Stück ist anders — die Wärme von Holz, natürlichen Adern und handwerklicher Arbeit. Eine Wahl für Zuhause, Küche und ein Geschenk, das lange hält.",
+        "ctaPrimary": "Highlights anzeigen",
+        "ctaSecondary": "alle Artikel",
+        "sectionRecentTitle": "Hervorgehobene Artikel",
+        "sectionRecentLink": "Tischlampen-Kollektion",
+        "sectionMoreTitle": "Mehr aus unserer Werkstatt",
+        "sectionMoreLink": "Vollständiger Katalog",
+        "storyEyebrow": "Unsere Geschichte",
+        "storyTitle": "Warum Olivenbaum",
+        "storyP1": "Olivenholz behält lange seine Schönheit und ist alltagstauglich. Wir arbeiten mit lokalem Holz und Kunsthandwerk, um das natürliche Muster und den Charakter jedes Stücks zu bewahren.",
+        "storyP2": "Wir sind spezialisiert auf Unikate für Haus und Küche — von Lampen und Schüsseln bis hin zu kleinen Utensilien. Sie können uns für Anpassungen oder größere Bestellungen kontaktieren.",
+        "storyButton": "Mehr über uns",
+        "reviewsTitle": "Was Kunden sagen",
+        "ctaTitle": "Neuigkeiten und Angebote",
+        "ctaMuted": "Dies ist ein Demo-Formular — Daten werden nicht gesendet. Bitte verbinden Sie Ihren E-Mail- oder Newsletter-Service später.",
+        "newsletterButton": "Anmelden",
+        "newsletterLabel": "E-Mail",
+        "newsletterDemoAlert": "Keine Daten gesendet, bitte verlinken Sie den Newsletter später."
+      },
+      "reviews": [
+        {
+          "quote": "Ein schönes kleines Ding, das Holz ist geschmeidig verarbeitet und fühlt sich einfach handgemacht an. Ich empfehle es.",
+          "author": "Anna M."
+        },
+        {
+          "quote": "Die Schale ist genau das, was ich gesucht habe — warme Holzfarbe und ein einzigartiges Venenmuster."
+        },
+        {
+          "quote": "Schnelle Lieferung, genau wie auf dem Bild. Danke!"
+        },
+        {
+          "quote": "Als Geschenk gekauft, ist der Empfänger von der Qualität begeistert."
+        },
+        {
+          "quote": "Ich liebe es, dass es sich nicht um ein Werksserienstück handelt — Sie können den Charakter des Baumes sehen.",
+          "location": "Zadar, A. G. Matoša 40"
+        },
+        {
+          "quote": "Ich benutze die Dielen jeden Tag, das Holz ist robust und wäscht sich gut."
+        }
+      ],
+      "footer": {
+        "brand": "Olivenholzkunst von Ivan",
+        "muted": "Unikate aus Olivenholz von Lun Olivenhainen, Insel Pag. Handgefertigt. Kontaktieren Sie uns für Fragen und Bestellungen.",
+        "copyright": "Kunst aus Olivenholz",
+        "shopHeading": "Lebensmittelgeschäft",
+        "aboutHeading": "Information",
+        "linkLamps": "Tischlampen",
+        "linkAll": "alle Artikel",
+        "linkAbout": "Über uns",
+        "editor": "Seite bearbeiten"
+      },
+      "cart": {
+        "giftTitle": "Kleiner Holzanhänger (Demo-Geschenk)",
+        "giftEligible": "Herzlichen Glückwunsch zum Abschluss Ihrer {{gift}} -Demo.",
+        "giftBelow": "Demo-Geschenk mit Bestellungen über {{amount}}.",
+        "drawerTitle": "Warenkorb",
+        "emptyMessage": "Ihr Warenkorb ist leer.",
+        "checkoutButton": "Beitreibung",
+        "clearButton": "Warenkorb leeren",
+        "subtotalLabel": "Zwischensumme",
+        "eachSuffix": "pro Stück",
+        "removeButton": "Entfernt",
+        "decreaseQtyAria": "Menge verringern",
+        "increaseQtyAria": "Menge erhöhen",
+        "closeCartAria": "Warenkorb schließen"
+      },
+      "checkout": {
+        "pageTitle": "Beitreibung",
+        "pageNote": "Demo-Bestellung: Füllen Sie die Informationen aus und senden Sie sie ab, um einen Kauf zu simulieren. Die Zahlung ist nicht verknüpft.",
+        "emptyTitle": "Beitreibung",
+        "emptyMessage": "Ihr Warenkorb ist leer.",
+        "browseButton": "Artikel durchsuchen",
+        "successTitle": "Vielen Dank — Demo-Bestellung erhalten",
+        "successText": "Ihre Zahlung wurde nicht verarbeitet. Bitte verbinden Sie Stripe, PayPal oder ein ähnliches System, um zu produzieren.",
+        "continueButton": "Zurück zum Shop",
+        "shippingLegend": "Zustellungen",
+        "emailLabel": "E-Mail",
+        "nameLabel": "Vor- und Nachname",
+        "addressLabel": "Adresse",
+        "cityLabel": "Stadt",
+        "zipLabel": "PLZ",
+        "countryLabel": "Land",
+        "submitButton": "Demo-Bestellung absenden",
+        "summaryTitle": "Bestellübersicht",
+        "giftIncluded": "Demogeschenk inklusive (Bestellschwelle erreicht)."
+      },
+      "blog": {
+        "pageIntro": "Hier kannst du Tipps zur Baumpflege, Workshop-Updates und Bastelgeschichten posten.",
+        "backHome": "Zurück zur Startseite"
+      },
+      "product": {
+        "addToCart": "Zum Warenkorb hinzufügen…",
+        "soldOut": "Ausverkauft",
+        "soldOutShort": "Nicht vorrätig",
+        "fact1": "Lieferung innerhalb Kroatiens (Demo)",
+        "fact2": "Empfohlene milde Ölung des Holzes vor dem ersten Gebrauch",
+        "fact3": "Rückerstattung: Händlerrichtlinie anpassen",
+        "imageThumb": "Abbildung N",
+        "notFoundTitle": "Artikel nicht gefunden",
+        "notFoundLink": "Zurück zum Shop"
+      },
+      "shop": {
+        "eyebrow": "Versicherungs- und Rückversicherungsgeschäfte;",
+        "title": "alle Artikel",
+        "searchIntro": "Suche nach „{{query}}“:",
+        "oneResult": "Ergebnis",
+        "manyResults": "erstellen.",
+        "ledeDefault": "Bis zu 200 Unikate aus Olivenholz in dreizehn Kategorien. Bilder sind Beispiele (Unsplash), in der Produktion durch eigene Fotos ersetzen."
+      },
+      "collection": {
+        "notFoundTitle": "Sammlung nicht gefunden",
+        "notFoundLink": "Alle Artikel anzeigen",
+        "heroEyebrow": "Collection",
+        "empty": "Es gibt derzeit keine Artikel in dieser Sammlung."
+      },
+      "about": {
+        "eyebrow": "Über uns",
+        "title": "Olivenholzkunst von Lu",
+        "p1": "Wir beschäftigen uns mit der Herstellung und dem Verkauf von Unikaten aus Olivenholz aus Lun-Olivenhainen — einem botanischen Reservat auf der Insel Pag, einem von drei solchen Standorten weltweit. Olivenholz ist dicht, langlebig und jedes Stück hat sein eigenes Venenmuster, so dass keine zwei gleich sind.",
+        "p2": "Unser Ziel ist es, Funktionalität (Küche, Tisch, Geschenk) mit der Wärme eines natürlichen Materials zu verbinden. Wenn Sie eine größere Menge, ein spezielles Design oder eine Zusammenarbeit benötigen, kontaktieren Sie uns bitte über die Kontaktseite.",
+        "p3": "Diese Website ist eine Shop-Vorlage: Sie können Texte und Bilder im integrierten Editor oder im Quellcode bearbeiten.",
+        "cta": "Zum Shop"
+      },
+      "contact": {
+        "p1": "Bei Anfragen zu Artikeln, Bestellungen oder zur Zusammenarbeit ersetzen Sie diesen Text durch Ihre E-Mail-Adresse, Telefonnummer oder Formulare, die in der Produktion verwendet werden.",
+        "linkShop": "Zurück zum Shop"
+      },
+      "notFound": {
+        "title": "Seite nicht gefunden",
+        "linkHome": "Zur Startseite"
+      },
+      "layout": {
+        "editorLauncher": "Seite bearbeiten"
+      },
+      "categories": {
+        "stolne-lampe": "Große Obstschalen",
+        "zdjele-za-voce": "Mittlere und kleine Schalen und Schalen",
+        "zdjelice-srednje": "Ehemänner und andere Küchenartikel",
+        "zdjelice-male": "Löffel,Löffel, etc.",
+        "daske": "Bretter",
+        "kuhace": "Ständer,Halterungen usw.",
+        "kuhinjski-pribor": "Küchenutensilien",
+        "kutijice": "Kisten,Dekorationen,Öffner, etc.",
+        "svijecnjaci": "Kerzenständer,Bordsteine,Dekoration",
+        "stalci-za-case": "TAKTE",
+        "satovi": "Trays,Trays, etc.",
+        "pladnjevi-posluzavnici": "Sonstiges Unikat",
+        "ostalo-maslinovo": "Wiederverkaufsproduktionsdienstleistungen"
+      }
+    },
+    "fr": {
+      "nav": {
+        "home": "Page d'accueil",
+        "shop": "Commerce",
+        "contact": "Contacts",
+        "about": "- A notre propos.",
+        "allProducts": "Tous les articles",
+        "drawerTitle": "Sélecteur",
+        "searchPlaceholder": "Rechercher des éléments…",
+        "searchAria": "Rechercher",
+        "closeMenuAria": "Fermer le menu",
+        "closeSearchAria": "Fermer la recherche",
+        "shopSubmenuAria": "Sous-catégories du magasin",
+        "mainNav": "Menu principal",
+        "announcements": "Notifications de magasin"
+      },
+      "announcement": {
+        "segments": [
+          "Fabriqué à la main à partir de bois d'olivier — chaque pièce est unique",
+          "Livraison en Croatie",
+          "Jusqu'à 200 articles soigneusement sélectionnés sont proposés",
+          "Cadeau avec commande de plus de 150 € ( démo)"
+        ]
+      },
+      "home": {
+        "eyebrow": "Bois d'olivier · fait à la main",
+        "heroTitle": "Objets uniques en bois d'olivier",
+        "heroLede": "Chaque pièce est différente : la chaleur du bois, les veines naturelles et le travail artisanal. Un choix pour la maison, la cuisine et un cadeau qui dure.",
+        "ctaPrimary": "Afficher les points forts",
+        "ctaSecondary": "Tous les articles",
+        "sectionRecentTitle": "Éléments en vedette",
+        "sectionRecentLink": "Collection de lampes de table",
+        "sectionMoreTitle": "En savoir plus sur notre atelier",
+        "sectionMoreLink": "Catalogue complet",
+        "storyEyebrow": "- Notre histoire.",
+        "storyTitle": "Pourquoi olivier",
+        "storyP1": "Le bois d'olivier conserve longtemps sa beauté et résiste à un usage quotidien. Nous travaillons avec du bois et de l'artisanat locaux pour préserver le motif naturel et le caractère de chaque pièce.",
+        "storyP2": "Nous nous spécialisons dans les articles uniques pour la maison et la cuisine — des lampes et des bols aux petits ustensiles. Vous pouvez nous contacter pour des personnalisations ou des commandes plus importantes.",
+        "storyButton": "En savoir plus sur nous",
+        "reviewsTitle": "Ce que disent les clients",
+        "ctaTitle": "Actualités et offres",
+        "ctaMuted": "Ceci est un formulaire de démonstration — les données ne sont pas envoyées. Veuillez connecter votre service d'e-mail ou de newsletter plus tard.",
+        "newsletterButton": "S'inscrire",
+        "newsletterLabel": "Email",
+        "newsletterDemoAlert": "Aucune donnée envoyée, veuillez lier la newsletter plus tard."
+      },
+      "reviews": [
+        {
+          "quote": "Une belle petite chose, le bois est travaillé en douceur et se sent juste fait à la main. Je le recommande.",
+          "author": "Anna M.",
+          "location": "ZAGREB"
+        },
+        {
+          "quote": "Le bol est exactement ce que je cherchais : une couleur bois chaude et un motif veineux unique."
+        },
+        {
+          "quote": "Livraison rapide, comme sur la photo. Merci !",
+          "location": "Riviere"
+        },
+        {
+          "quote": "Acheté en cadeau, le destinataire se réjouit de la qualité."
+        },
+        {
+          "quote": "J'aime le fait que ce ne soit pas une pièce en série d'usine — vous pouvez voir le caractère de l'arbre."
+        },
+        {
+          "quote": "J'utilise les planches tous les jours, le bois est robuste et se lave bien."
+        }
+      ],
+      "footer": {
+        "brand": "Art en bois d'olivier par Ivan",
+        "muted": "Objets uniques en bois d'olivier provenant des oliveraies de Lun, île de Pag. Fait à la main. Contactez-nous pour toute question ou commande.",
+        "copyright": "Art sur bois d'olivier",
+        "shopHeading": "Commerce",
+        "aboutHeading": "Info",
+        "linkLamps": "Lampes de table",
+        "linkAll": "Tous les articles",
+        "linkAbout": "- A notre propos.",
+        "linkContact": "Contacts",
+        "editor": "Modifier la page"
+      },
+      "cart": {
+        "giftTitle": "Petit pendentif en bois (cadeau de démonstration)",
+        "giftEligible": "Félicitations, vous avez terminé votre démo de {{gift}}.",
+        "giftBelow": "Cadeau de démonstration pour les commandes de plus de {{amount}}.",
+        "drawerTitle": "Panne",
+        "emptyMessage": "Le panier est vide.",
+        "checkoutButton": "Revanche.",
+        "clearButton": "Panier vide",
+        "subtotalLabel": "Sous-total",
+        "eachSuffix": "Chacun.",
+        "removeButton": "Supprimer",
+        "decreaseQtyAria": "Diminuer la quantité",
+        "increaseQtyAria": "Augmenter la quantité",
+        "closeCartAria": "Fermer le panier"
+      },
+      "checkout": {
+        "pageTitle": "Revanche.",
+        "pageNote": "Commande de démonstration : remplissez les informations et soumettez-les pour simuler un achat. Le paiement n'est pas lié.",
+        "emptyTitle": "Revanche.",
+        "emptyMessage": "Le panier est vide.",
+        "browseButton": "Parcourir les articles",
+        "successTitle": "Merci — commande de démonstration reçue",
+        "successText": "Votre paiement n'a pas été traité. Veuillez connecter Stripe, PayPal ou un système similaire pour produire.",
+        "continueButton": "Je retourne au boulot.",
+        "contactLegend": "Contacts",
+        "shippingLegend": "Signification ci dosses",
+        "emailLabel": "Email",
+        "nameLabel": "Prénom - Nom de famille",
+        "addressLabel": "Adresse et autres",
+        "cityLabel": "Ville",
+        "zipLabel": "No. d'habitation",
+        "countryLabel": "État",
+        "submitButton": "Envoyer la commande de démonstration",
+        "summaryTitle": "Aperçu de la commande",
+        "giftIncluded": "Cadeau de démonstration inclus (seuil de commande atteint)."
+      },
+      "blog": {
+        "pageIntro": "Vous pouvez publier des conseils d'entretien des arbres, des mises à jour sur les ateliers et des histoires d'artisanat ici.",
+        "backHome": "Retour à l'accueil"
+      },
+      "product": {
+        "addToCart": "Ajouter au panier",
+        "soldOut": "- Vendus.",
+        "soldOutShort": "Rupture de stock",
+        "fact1": "Livraison en Croatie (démo)",
+        "fact2": "Huilage doux recommandé du bois avant la première utilisation",
+        "fact3": "Remboursement : ajuster la politique du commerçant",
+        "collectionsFallback": "sur",
+        "imageThumb": "Image {{n}}",
+        "notFoundTitle": "Article introuvable",
+        "notFoundLink": "Je retourne au boulot."
+      },
+      "shop": {
+        "eyebrow": "Catalogue",
+        "title": "Tous les articles",
+        "searchIntro": "Rechercher « {{query}} » :",
+        "oneResult": "Résultat",
+        "manyResults": "- La situation?",
+        "ledeDefault": "Jusqu'à 200 articles uniques en bois d'olivier dans treize catégories. Les images sont des exemples (Unsplash) ; en production, remplacez-les par vos propres photos."
+      },
+      "collection": {
+        "notFoundTitle": "Collection introuvable",
+        "notFoundLink": "Voir tous les articles",
+        "heroEyebrow": "Collection",
+        "empty": "Il n'y a actuellement aucun article dans cette collection."
+      },
+      "about": {
+        "eyebrow": "- A notre propos.",
+        "title": "Illustration sur bois d'olivier par Lu",
+        "p1": "Nous sommes engagés dans la production et la vente d'articles uniques en bois d'olivier provenant des oliveraies Lun — une réserve botanique sur l'île de Pag, l'un des trois sites de ce type dans le monde. Le bois d'olivier est dense, durable et chaque pièce a son propre motif de veine, il n'y en a donc pas deux identiques.",
+        "p2": "Notre objectif est de combiner la fonctionnalité (cuisine, table, cadeau) avec la chaleur d'un matériau naturel. Si vous avez besoin d'une plus grande quantité, d'un design spécial ou d'une collaboration, veuillez nous contacter via la page Contact.",
+        "p3": "Ce site Web est un modèle de magasin : vous pouvez modifier des textes et des images dans l'éditeur intégré ou dans le code source.",
+        "cta": "Au magasin qui vend des semences."
+      },
+      "contact": {
+        "title": "Contacts",
+        "p1": "Pour toute question concernant des articles, des commandes ou une collaboration, remplacez ce texte par votre adresse e-mail, votre téléphone ou les formulaires utilisés dans la production.",
+        "linkShop": "Je retourne au boulot."
+      },
+      "notFound": {
+        "title": "Page introuvable",
+        "linkHome": "Vers l'accueil"
+      },
+      "layout": {
+        "editorLauncher": "Modifier la page"
+      },
+      "categories": {
+        "stolne-lampe": "Grands bols de fruits",
+        "zdjele-za-voce": "Bols moyens et petits et bols",
+        "zdjelice-srednje": "Maris et autres articles de cuisine",
+        "zdjelice-male": "Cuillères,cuillères, etc.",
+        "daske": "Tableaux",
+        "kuhace": "Supports,supports, etc.",
+        "kuhinjski-pribor": "Ustensiles de cuisine",
+        "kutijice": "Boîtes,décorations,ouvreurs, etc.",
+        "svijecnjaci": "Chandeliers,bordures,décoration",
+        "stalci-za-case": "Barque !",
+        "satovi": "Plateaux,plateaux, etc.",
+        "pladnjevi-posluzavnici": "Autre unique",
+        "ostalo-maslinovo": "Services de production de revente"
+      }
+    },
+    "it": {
+      "nav": {
+        "home": "Iniziale",
+        "shop": "Supermercato",
+        "contact": "Contatto",
+        "about": "Chi siamo",
+        "allProducts": "Tutti gli articoli",
+        "drawerTitle": "Menù",
+        "searchPlaceholder": "Cerca articoli...",
+        "searchAria": "Ricerca",
+        "closeMenuAria": "Chiudi menu",
+        "closeSearchAria": "Chiudi ricerca",
+        "shopSubmenuAria": "Sottocategorie del negozio",
+        "mainNav": "Menù principale",
+        "announcements": "Notifiche del negozio"
+      },
+      "announcement": {
+        "segments": [
+          "Realizzato a mano in legno di ulivo — ogni pezzo è unico",
+          "Consegna in Croazia",
+          "Fino a 200 articoli accuratamente selezionati in offerta",
+          "Regalo con ordine superiore a €150 (demo)"
+        ]
+      },
+      "home": {
+        "eyebrow": "Legno di ulivo · fatto a mano",
+        "heroTitle": "Oggetti unici in legno di ulivo",
+        "heroLede": "Ogni pezzo è diverso: il calore del legno, le venature naturali e il lavoro artigianale. Una scelta per la casa, la cucina e un regalo che dura nel tempo.",
+        "ctaPrimary": "Visualizza i punti salienti",
+        "ctaSecondary": "Tutti gli articoli",
+        "sectionRecentTitle": "Articoli in evidenza",
+        "sectionRecentLink": "Collezione lampade DA tavolo",
+        "sectionMoreTitle": "Altro dalla nostra officina",
+        "sectionMoreLink": "Catalogo completo",
+        "storyEyebrow": "la nostra storia",
+        "storyTitle": "Perché l'olivo",
+        "storyP1": "Il legno di ulivo conserva a lungo la sua bellezza ed è resistente all'uso quotidiano. Lavoriamo con legno locale e artigianato per preservare il motivo naturale e il carattere di ogni pezzo.",
+        "storyP2": "Siamo specializzati in oggetti unici per la casa e la cucina — da lampade e ciotole a piccoli utensili. Puoi contattarci per personalizzazioni o ordini più grandi.",
+        "storyButton": "Scopri di più su di noi",
+        "reviewsTitle": "Cosa dicono i clienti",
+        "ctaTitle": "Novità e offerte",
+        "ctaMuted": "Questo è un modulo demo — i dati non vengono inviati. Collega la tua e-mail o il servizio di newsletter in un secondo momento.",
+        "newsletterButton": "Accedi",
+        "newsletterLabel": "Email",
+        "newsletterDemoAlert": "Nessun dato inviato, si prega di collegare la newsletter in seguito."
+      },
+      "reviews": [
+        {
+          "quote": "Una bella cosa, il legno è lavorato senza intoppi e sembra fatto a mano. Lo consiglio.",
+          "author": "Anna M.",
+          "location": "Zagabria"
+        },
+        {
+          "quote": "La ciotola è esattamente quello che stavo cercando: un caldo colore del legno e una venatura unica.",
+          "location": "Spalato"
+        },
+        {
+          "quote": "Consegna veloce, proprio come nella foto. Grazie!",
+          "location": "Fiume"
+        },
+        {
+          "quote": "Acquistato come regalo, il destinatario è deliziato dalla qualità."
+        },
+        {
+          "quote": "Adoro il fatto che non sia un pezzo seriale di fabbrica: puoi vedere il carattere dell'albero.",
+          "location": "Zara"
+        },
+        {
+          "quote": "Uso le assi ogni giorno, il legno è robusto e si lava bene.",
+          "location": "Pola"
+        }
+      ],
+      "footer": {
+        "brand": "Arte in legno di ulivo di Ivan",
+        "muted": "Oggetti unici in legno di ulivo provenienti dagli uliveti di Lun, isola di Pag. Fatto a mano. Contattaci per domande e ordini.",
+        "copyright": "Arte del legno d'ulivo",
+        "shopHeading": "Supermercato",
+        "aboutHeading": "info",
+        "linkLamps": "Lampade da tavolo",
+        "linkAll": "Tutti gli articoli",
+        "linkAbout": "Chi siamo",
+        "linkContact": "Contatto",
+        "editor": "Modifica pagina"
+      },
+      "cart": {
+        "giftTitle": "Piccolo ciondolo in legno (omaggio demo)",
+        "giftEligible": "Congratulazioni per aver completato la tua demo {{gift}}.",
+        "giftBelow": "Regalo dimostrativo con ordini superiori a {{amount}}.",
+        "drawerTitle": "Carrello",
+        "emptyMessage": "Il carrello è vuoto.",
+        "checkoutButton": "Pagamento",
+        "clearButton": "Vuota il carrello",
+        "subtotalLabel": "TOTALE parziale",
+        "eachSuffix": "per pezzo",
+        "removeButton": "Rimuovi",
+        "decreaseQtyAria": "Diminuisci quantità",
+        "increaseQtyAria": "Aumenta quantità",
+        "closeCartAria": "Chiudi carrello"
+      },
+      "checkout": {
+        "pageTitle": "Pagamento",
+        "pageNote": "Ordine demo: inserisci le informazioni e invia per simulare un acquisto. Il pagamento non è collegato.",
+        "emptyTitle": "Pagamento",
+        "emptyMessage": "Il carrello è vuoto.",
+        "browseButton": "Sfoglia gli articoli",
+        "successTitle": "Grazie — ordine demo ricevuto",
+        "successText": "Il tuo pagamento non è stato elaborato. Collega Stripe, PayPal o un sistema simile per produrre.",
+        "continueButton": "Torna allo shop",
+        "contactLegend": "Contatto",
+        "shippingLegend": "Consegna",
+        "emailLabel": "Email",
+        "nameLabel": "Nome Cognome",
+        "addressLabel": "Indirizzo",
+        "cityLabel": "Città",
+        "zipLabel": "Codice postale",
+        "countryLabel": "Country:",
+        "submitButton": "Invia ordine demo",
+        "summaryTitle": "Panoramica dell'ordine",
+        "giftIncluded": "Regalo demo incluso (soglia dell'ordine raggiunta)."
+      },
+      "blog": {
+        "pageIntro": "Puoi pubblicare consigli per la cura degli alberi, aggiornamenti sul laboratorio e storie di artigianato qui.",
+        "backHome": "Torna alla Home"
+      },
+      "product": {
+        "addToCart": "Aggiungi al carrello",
+        "soldOut": "Esaurito",
+        "soldOutShort": "Esaurito",
+        "fact1": "Consegna in Croazia (demo)",
+        "fact2": "Lubrificazione delicata consigliata del legno prima del primo utilizzo",
+        "fact3": "Rimborso: modifica la politica dell'esercente",
+        "imageThumb": "Immagine {{n}}",
+        "notFoundTitle": "Articolo non trovato",
+        "notFoundLink": "Torna allo shop"
+      },
+      "shop": {
+        "eyebrow": "Glossario",
+        "title": "Tutti gli articoli",
+        "searchIntro": "Cerca \"{{query}}\":",
+        "oneResult": "Risultato",
+        "manyResults": "risultati",
+        "ledeDefault": "Fino a 200 pezzi unici in legno di ulivo in tredici categorie. Le immagini sono esempi (Unsplash); in produzione, sostituiscile con le tue foto."
+      },
+      "collection": {
+        "notFoundTitle": "Raccolta non trovata",
+        "notFoundLink": "Visualizza tutti gli articoli",
+        "heroEyebrow": "Colleziona",
+        "empty": "Al momento non ci sono articoli in questa collezione."
+      },
+      "about": {
+        "eyebrow": "Chi siamo",
+        "title": "Arte in legno di ulivo di Lu",
+        "p1": "Ci occupiamo della produzione e della vendita di articoli unici realizzati in legno di ulivo proveniente dagli uliveti di Lun, una riserva botanica sull'isola di Pag, uno dei tre siti di questo tipo al mondo. Il legno di ulivo è denso, di lunga durata e ogni pezzo ha il suo motivo a vena, quindi non ce ne sono due uguali.",
+        "p2": "Il nostro obiettivo è coniugare la funzionalità (cucina, tavola, regalo) con il calore di un materiale naturale. Se hai bisogno di una quantità maggiore, di un design speciale o di una collaborazione, ti preghiamo di contattarci tramite la pagina Contatti.",
+        "p3": "Questo sito web è un modello di negozio: puoi modificare testi e immagini nell'editor integrato o nel codice sorgente.",
+        "cta": "Al negozio"
+      },
+      "contact": {
+        "title": "Contatto",
+        "p1": "Per domande su articoli, ordini o collaborazioni, sostituisci questo testo con il tuo indirizzo e-mail, telefono o moduli utilizzati nella produzione.",
+        "linkShop": "Torna allo shop"
+      },
+      "notFound": {
+        "title": "Pagina non disponibile",
+        "linkHome": "A casa"
+      },
+      "layout": {
+        "editorLauncher": "Modifica pagina"
+      },
+      "categories": {
+        "stolne-lampe": "Portafrutta grande",
+        "zdjele-za-voce": "Ciotole e ciotole medie e piccole",
+        "zdjelice-srednje": "Mariti e altri oggetti da cucina",
+        "zdjelice-male": "Cucchiai,cucchiai, ecc.",
+        "daske": "Tavole",
+        "kuhace": "Supporti,staffe, ecc.",
+        "kuhinjski-pribor": "Utensili da cucina",
+        "kutijice": "Scatole,decorazioni,apribottiglie, ecc.",
+        "svijecnjaci": "Candelieri,cordoli,decorazioni",
+        "stalci-za-case": "Orologi",
+        "satovi": "Vassoi,vassoi, ecc.",
+        "pladnjevi-posluzavnici": "Altro unico",
+        "ostalo-maslinovo": "Servizi di produzione rivendita"
+      }
+    },
+    "sl": {
+      "nav": {
+        "home": "Začetna",
+        "shop": "Shop",
+        "about": "O nas",
+        "allProducts": "Vsi artikli",
+        "drawerTitle": "izbirnik",
+        "searchPlaceholder": "Iskanje elementov…",
+        "searchAria": "Preglej",
+        "closeMenuAria": "Zapri meni",
+        "closeSearchAria": "Zapri iskanje",
+        "shopSubmenuAria": "Podkategorije trgovin",
+        "mainNav": "Glavni meni",
+        "announcements": "Obvestila trgovine"
+      },
+      "announcement": {
+        "segments": [
+          "Ročno izdelano iz oljčnega lesa — vsak kos je unikaten",
+          "Dostava znotraj Hrvaške",
+          "V ponudbi do 200 skrbno izbranih artiklov",
+          "Darilo z naročilom nad 150 € (demo)"
+        ]
+      },
+      "home": {
+        "eyebrow": "Oljčni les · ročno izdelan",
+        "heroTitle": "Unikatni predmeti iz oljčnega lesa",
+        "heroLede": "Vsak kos je drugačen — toplina lesa, naravne žile in obrtniško delo. Izbira za dom, kuhinjo in darilo, ki traja.",
+        "ctaPrimary": "Prikaži posebnosti",
+        "ctaSecondary": "Vsi artikli",
+        "sectionRecentTitle": "Izpostavljeni elementi",
+        "sectionRecentLink": "Kolekcija namiznih svetilk",
+        "sectionMoreTitle": "Več iz naše delavnice",
+        "sectionMoreLink": "Celoten katalog",
+        "storyEyebrow": "Naša zgodba",
+        "storyTitle": "Zakaj oljka",
+        "storyP1": "Oljčni les dolgo časa ohranja svojo lepoto in je odporen na vsakodnevno uporabo. Delamo z lokalnim lesom in obrtjo, da ohranimo naravni vzorec in značaj vsakega kosa.",
+        "storyP2": "Specializirani smo za unikatne predmete za dom in kuhinjo — od svetilk in skled do majhnih pripomočkov. Za prilagoditve ali večja naročila se lahko obrnete na nas.",
+        "storyButton": "Več o nas",
+        "reviewsTitle": "Kaj pravijo stranke",
+        "ctaTitle": "Novice in ponudbe",
+        "ctaMuted": "To je demo obrazec — podatki se ne pošiljajo. Pozneje povežite svoj e-poštni naslov ali storitev glasila.",
+        "newsletterLabel": "E-mail",
+        "newsletterDemoAlert": "Ni poslanih podatkov, prosimo, povežite novice kasneje."
+      },
+      "reviews": [
+        {
+          "quote": "Čudovita malenkost, les je gladko obdelan in se počuti ročno izdelan. Priporočam.",
+          "author": "Anna M."
+        },
+        {
+          "quote": "Skleda je točno to, kar sem iskala — topla barva lesa in edinstven vzorec žil."
+        },
+        {
+          "quote": "Hitra dostava, tako kot na sliki. Hvala!"
+        },
+        {
+          "quote": "Kupljen kot darilo, prejemnik je navdušen nad kakovostjo.",
+          "location": "OSIJEK"
+        },
+        {
+          "quote": "Všeč mi je, da ni tovarniški serijski kos — lahko vidite značaj drevesa.",
+          "location": "ZADAR"
+        },
+        {
+          "quote": "Deske uporabljam vsak dan, les je čvrst in se lepo umije.",
+          "location": "Pulj"
+        }
+      ],
+      "footer": {
+        "brand": "Umetnost iz oljčnega lesa Ivana",
+        "muted": "Unikatni predmeti iz oljčnega lesa iz lunskih oljčnih nasadov na otoku Pagu. Ročno izdelano. Za vprašanja in naročila nas kontaktirajte.",
+        "copyright": "Umetnost iz oljčnega lesa",
+        "shopHeading": "Shop",
+        "linkLamps": "Namizne svetilke",
+        "linkAll": "Vsi artikli",
+        "linkAbout": "O nas",
+        "editor": "Uredi stran"
+      },
+      "cart": {
+        "giftTitle": "Majhen lesen obesek (demo darilo)",
+        "giftEligible": "Čestitamo za dokončanje predstavitve {{gift}}.",
+        "giftBelow": "Demo darilo z naročili nad {{amount}}.",
+        "drawerTitle": "Košarica -",
+        "emptyMessage": "Nakupovalna košarica je prazna",
+        "checkoutButton": "Naplačilo",
+        "clearButton": "Izprazni košarico",
+        "subtotalLabel": "Vmesni seštevek",
+        "eachSuffix": "NA KOS",
+        "removeButton": "Odstrani",
+        "decreaseQtyAria": "Zmanjšaj količino",
+        "increaseQtyAria": "Povečanje količine",
+        "closeCartAria": "Zapri košarico"
+      },
+      "checkout": {
+        "pageTitle": "Naplačilo",
+        "pageNote": "Demo naročilo: Izpolnite podatke in oddajte za simulacijo nakupa. Plačilo ni povezano.",
+        "emptyTitle": "Naplačilo",
+        "emptyMessage": "Nakupovalna košarica je prazna",
+        "browseButton": "Prebrskaj artikle",
+        "successTitle": "Hvala — prejeto demo naročilo",
+        "successText": "Vaše plačilo ni bilo obdelano. Za izdelavo povežite Stripe, PayPal ali podoben sistem.",
+        "continueButton": "Nazaj na trgovino",
+        "emailLabel": "E-mail",
+        "nameLabel": "lme in priimek",
+        "addressLabel": "Naslov",
+        "cityLabel": "Mestna občina",
+        "zipLabel": "Poštna številka",
+        "submitButton": "Pošlji demo naročilo",
+        "summaryTitle": "Pregled naročila",
+        "giftIncluded": "Vključeno je demo darilo (dosežen prag naročila)."
+      },
+      "blog": {
+        "pageIntro": "Tukaj lahko objavite nasvete za nego dreves, posodobitve delavnic in zgodbe o izdelavi.",
+        "backHome": "Nazaj na Domov"
+      },
+      "product": {
+        "addToCart": "Dodaj v košarico",
+        "soldOut": "Razprodano je.",
+        "soldOutShort": "Ni na zalogi",
+        "fact1": "Dostava znotraj Hrvaške (demo)",
+        "fact2": "Priporočeno blago oljenje lesa pred prvo uporabo",
+        "fact3": "Vračilo denarja: prilagodite pravilnik trgovine",
+        "notFoundTitle": "Artikla ni mogoče najti",
+        "notFoundLink": "Nazaj na trgovino"
+      },
+      "shop": {
+        "eyebrow": "Slovar",
+        "title": "Vsi artikli",
+        "searchIntro": "Iskanje »{{query}}«:",
+        "oneResult": "Rezultat",
+        "ledeDefault": "Do 200 unikatnih izdelkov iz oljčnega lesa v trinajstih kategorijah. Slike so primeri (Unsplash); v produkciji jih nadomestite z lastnimi fotografijami."
+      },
+      "collection": {
+        "notFoundTitle": "Zbirke ni mogoče najti",
+        "notFoundLink": "Ogled vseh elementov",
+        "empty": "Trenutno v tej zbirki ni artiklov."
+      },
+      "about": {
+        "eyebrow": "O nas",
+        "title": "Umetnost iz oljčnega lesa Lu",
+        "p1": "Ukvarjamo se s proizvodnjo in prodajo unikatnih predmetov iz oljčnega lesa iz lunskih oljčnih nasadov — botaničnega rezervata na otoku Pagu, enega od treh tovrstnih lokacij na svetu. Oljčni les je gost, dolgotrajen in vsak kos ima svoj vzorec žil, zato nobena dva nista enaka.",
+        "p2": "Naš cilj je združiti funkcionalnost (kuhinja, miza, darilo) s toplino naravnega materiala. Če potrebujete večjo količino, poseben dizajn ali sodelovanje, se obrnite na nas preko Kontaktne strani.",
+        "p3": "Ta spletna stran je predloga trgovine: besedila in slike lahko urejate v vgrajenem urejevalniku ali v izvorni kodi.",
+        "cta": "V trgovino"
+      },
+      "contact": {
+        "p1": "Za poizvedbe o artiklih, naročilih ali sodelovanju to besedilo zamenjajte s svojim e-poštnim naslovom, telefonom ali obrazci, ki se uporabljajo v proizvodnji.",
+        "linkShop": "Nazaj na trgovino"
+      },
+      "notFound": {
+        "title": "Stran ni najdena",
+        "linkHome": "Na domačo stran"
+      },
+      "layout": {
+        "editorLauncher": "Uredi stran"
+      },
+      "categories": {
+        "stolne-lampe": "Velike sadne sklede",
+        "zdjele-za-voce": "Srednje in majhne sklede in sklede",
+        "zdjelice-srednje": "Možje in drugi kuhinjski pripomočki",
+        "zdjelice-male": "Žlice,žlice itd.",
+        "daske": "Plošče",
+        "kuhace": "Stojala,nosilci itd.",
+        "kuhinjski-pribor": "Pripomočki za kuhanje",
+        "kutijice": "Škatle,okraski,odpirači itd.",
+        "svijecnjaci": "Svečniki,robniki,dekoracija",
+        "stalci-za-case": "Ure",
+        "satovi": "Pladnji,pladnji itd.",
+        "pladnjevi-posluzavnici": "Drugi unikatni",
+        "ostalo-maslinovo": "Preprodajne proizvodne storitve"
+      }
+    },
+    "pl": {
+      "nav": {
+        "home": "Początkujący",
+        "shop": "pośrednictwo handlowe (merchanting)",
+        "about": "O nas",
+        "allProducts": "Wszystkie pozycje",
+        "drawerTitle": "Menu",
+        "searchPlaceholder": "Wyszukaj elementy…",
+        "searchAria": "Szukaj",
+        "closeMenuAria": "Zamknij menu",
+        "closeSearchAria": "Zamknij wyszukiwanie",
+        "shopSubmenuAria": "Podkategorie sklepów",
+        "mainNav": "Menu główne",
+        "announcements": "Powiadomienia sklepu"
+      },
+      "announcement": {
+        "segments": [
+          "Ręcznie robione z drewna oliwnego — każdy element jest wyjątkowy",
+          "Dostawa na terenie Chorwacji",
+          "Do 200 starannie wyselekcjonowanych produktów w ofercie",
+          "Prezent przy zamówieniu powyżej 150 € (demo)"
+        ]
+      },
+      "home": {
+        "eyebrow": "Drewno oliwne · ręcznie robione",
+        "heroTitle": "Wyjątkowe przedmioty z drewna oliwnego",
+        "heroLede": "Każda sztuka jest inna — ciepło drewna, naturalne żyły i dzieło rzemieślnicze. Wybór dla domu, kuchni i trwałego prezentu.",
+        "ctaPrimary": "Zobacz najciekawsze",
+        "ctaSecondary": "Wszystkie pozycje",
+        "sectionRecentTitle": "Wyróżnione elementy",
+        "sectionRecentLink": "Kolekcja lamp stołowych",
+        "sectionMoreTitle": "Więcej z naszego warsztatu",
+        "sectionMoreLink": "Pełny katalog",
+        "storyEyebrow": "Nasza historia",
+        "storyTitle": "Dlaczego drzewo oliwne",
+        "storyP1": "Drewno oliwne długo zachowuje urodę i jest odporne na codzienne użytkowanie. Współpracujemy z lokalnym drewnem i rękodziełem, aby zachować naturalny wzór i charakter każdego elementu.",
+        "storyP2": "Specjalizujemy się w unikalnych przedmiotach do domu i kuchni — od lamp i misek po drobne przybory. Możesz skontaktować się z nami w sprawie personalizacji lub większych zamówień.",
+        "storyButton": "Więcej o nas...",
+        "reviewsTitle": "Co mówią klienci",
+        "ctaTitle": "Aktualności i oferty",
+        "ctaMuted": "To jest formularz demonstracyjny — dane nie są wysyłane. Podłącz później swój e-mail lub usługę newslettera.",
+        "newsletterButton": "Zaloguj się",
+        "newsletterLabel": "E- mail",
+        "newsletterDemoAlert": "Nie wysłano żadnych danych, prosimy o późniejsze połączenie z newsletterem."
+      },
+      "reviews": [
+        {
+          "quote": "Piękna mała rzecz, drewno jest gładko obrobione i po prostu ręcznie robione. Polecam.",
+          "author": "Anna M.",
+          "location": "Zagrzeb"
+        },
+        {
+          "quote": "Miska jest dokładnie tym, czego szukałem — ciepłym kolorem drewna i unikalnym wzorem żył.",
+          "location": "Kozienice"
+        },
+        {
+          "quote": "Szybka dostawa, tak jak na zdjęciu. Dzięki!",
+          "location": "rzeka"
+        },
+        {
+          "quote": "Kupiony w prezencie odbiorca jest zachwycony jakością."
+        },
+        {
+          "quote": "Uwielbiam to, że nie jest to fabryczny serial — widać charakter drzewa."
+        },
+        {
+          "quote": "Używam desek codziennie, drewno jest wytrzymałe i ładnie się pierze."
+        }
+      ],
+      "footer": {
+        "brand": "Sztuka z drewna oliwnego autorstwa Ivana",
+        "muted": "Wyjątkowe przedmioty wykonane z drewna oliwnego z gajów oliwnych Lun, wyspa Pag. Ręcznie robione. Skontaktuj się z nami w przypadku pytań i zamówień.",
+        "copyright": "Drewno oliwne",
+        "shopHeading": "pośrednictwo handlowe (merchanting)",
+        "aboutHeading": "Informacja",
+        "linkLamps": "Lampy stołowe",
+        "linkAll": "Wszystkie pozycje",
+        "linkAbout": "O nas",
+        "editor": "Edytuj stronę"
+      },
+      "cart": {
+        "giftTitle": "Mały drewniany wisiorek (prezent demonstracyjny)",
+        "giftEligible": "Gratulujemy ukończenia demonstracji {{gift}}.",
+        "giftBelow": "Prezent demonstracyjny z zamówieniami powyżej {{amount}}.",
+        "drawerTitle": "Koszyk",
+        "emptyMessage": "Koszyk jest pusty",
+        "checkoutButton": "Rozliczenia",
+        "clearButton": "Pusty koszyk",
+        "subtotalLabel": "Podsuma",
+        "eachSuffix": "za sztukę",
+        "removeButton": "& Usuń",
+        "decreaseQtyAria": "Zmniejsz ilość",
+        "increaseQtyAria": "Zwiększ ilość",
+        "closeCartAria": "Zamknij koszyk"
+      },
+      "checkout": {
+        "pageTitle": "Rozliczenia",
+        "pageNote": "Zamówienie demonstracyjne: wypełnij informacje i prześlij, aby zasymulować zakup. Płatność nie jest powiązana.",
+        "emptyTitle": "Rozliczenia",
+        "emptyMessage": "Koszyk jest pusty",
+        "browseButton": "Przeglądaj pozycje",
+        "successTitle": "Dziękujemy — otrzymano zamówienie demonstracyjne",
+        "successText": "Twoja płatność nie została przetworzona. Połącz Stripe, PayPal lub podobny system, aby utworzyć.",
+        "continueButton": "Wróć do sklepu",
+        "shippingLegend": "Dostawa",
+        "emailLabel": "E- mail",
+        "nameLabel": "Imię i nazwisko",
+        "addressLabel": "Adres",
+        "zipLabel": "Kod pocztowy",
+        "countryLabel": "Prowincja",
+        "submitButton": "Prześlij zamówienie demonstracyjne",
+        "summaryTitle": "Przegląd zamówienia",
+        "giftIncluded": "Prezent demonstracyjny wliczony w cenę (osiągnięto próg zamówienia)."
+      },
+      "blog": {
+        "pageIntro": "Tutaj możesz zamieścić wskazówki dotyczące pielęgnacji drzew, aktualizacje warsztatów i tworzyć historie.",
+        "backHome": "Powrót do strony głównej"
+      },
+      "product": {
+        "addToCart": "Dodaj do koszyka",
+        "soldOut": "Wyprzedane",
+        "soldOutShort": "Brak w magazynie",
+        "fact1": "Dostawa na terenie Chorwacji (demo)",
+        "fact2": "Zalecane łagodne oliwienie drewna przed pierwszym użyciem",
+        "fact3": "Zwrot: dostosuj zasady sprzedawcy",
+        "collectionsFallback": "O",
+        "imageThumb": "Obraz {{n}}",
+        "notFoundTitle": "Nie znaleziono pozycji",
+        "notFoundLink": "Wróć do sklepu"
+      },
+      "shop": {
+        "eyebrow": "Słownik",
+        "title": "Wszystkie pozycje",
+        "searchIntro": "Wyszukaj „{{query}}”:",
+        "oneResult": "Domyślnie",
+        "manyResults": "wyniki",
+        "ledeDefault": "Do 200 unikalnych przedmiotów z drewna oliwnego w trzynastu kategoriach. Obrazy są przykładami (Unsplash); w produkcji zastąp je własnymi zdjęciami."
+      },
+      "collection": {
+        "notFoundTitle": "Nie znaleziono kolekcji",
+        "notFoundLink": "Zobacz wszystkie pozycje",
+        "heroEyebrow": "Kolekcja",
+        "empty": "Obecnie nie ma żadnych pozycji w tej kolekcji."
+      },
+      "about": {
+        "eyebrow": "O nas",
+        "title": "Sztuka z drewna oliwnego autorstwa Lu",
+        "p1": "Zajmujemy się produkcją i sprzedażą unikatowych przedmiotów wykonanych z drewna oliwnego z gajów oliwnych Lun — rezerwatu botanicznego na wyspie Pag, jednym z trzech takich miejsc na świecie. Drewno oliwne jest gęste, trwałe, a każdy kawałek ma swój własny wzór żył, więc nie ma dwóch takich samych.",
+        "p2": "Naszym celem jest połączenie funkcjonalności (kuchnia, stół, prezent) z ciepłem naturalnego materiału. Jeśli potrzebujesz większej ilości, specjalnego projektu lub współpracy, skontaktuj się z nami za pośrednictwem strony Kontakt.",
+        "p3": "Ta strona internetowa jest szablonem sklepu: możesz edytować teksty i obrazy we wbudowanym edytorze lub w kodzie źródłowym.",
+        "cta": "Do sklepu"
+      },
+      "contact": {
+        "p1": "W przypadku pytań dotyczących pozycji, zamówień lub współpracy zastąp ten tekst adresem e-mail, numerem telefonu lub formularzami używanymi w produkcji.",
+        "linkShop": "Wróć do sklepu"
+      },
+      "notFound": {
+        "title": "Nie znaleziono strony",
+        "linkHome": "Do pozycji wyjściowej"
+      },
+      "layout": {
+        "editorLauncher": "Edytuj stronę"
+      },
+      "categories": {
+        "stolne-lampe": "Duże miski na owoce",
+        "zdjele-za-voce": "Średnie i małe miski i miski",
+        "zdjelice-srednje": "Mężowie i inne przedmioty kuchenne",
+        "zdjelice-male": "Łyżki,łyżeczki itp.",
+        "daske": "Tablice",
+        "kuhace": "Stojaki,wsporniki itp.",
+        "kuhinjski-pribor": "Przybory kuchenne",
+        "kutijice": "Pudełka,dekoracje,otwieracze itp.",
+        "svijecnjaci": "Świeczniki,krawężniki,dekoracje",
+        "stalci-za-case": "Zegarki",
+        "satovi": "Tace,tace itp.",
+        "pladnjevi-posluzavnici": "Inne wyjątkowe",
+        "ostalo-maslinovo": "Usługi produkcji odsprzedaży"
+      }
+    },
+    "cs": {
+      "nav": {
+        "home": "Domů",
+        "shop": "Obchod",
+        "about": "O nás",
+        "allProducts": "Všechny položky",
+        "drawerTitle": "Menu",
+        "searchPlaceholder": "Hledat položky…",
+        "searchAria": "Hledat",
+        "closeMenuAria": "Zavřít nabídku",
+        "closeSearchAria": "Zavřít vyhledávání",
+        "shopSubmenuAria": "Podkategorie obchodu",
+        "mainNav": "Hlavní menu",
+        "announcements": "Upozornění obchodu"
+      },
+      "announcement": {
+        "segments": [
+          "Ručně vyrobené z olivového dřeva — každý kus je jedinečný",
+          "Doručení v rámci Chorvatska",
+          "Až 200 pečlivě vybraných položek v nabídce",
+          "Dárek k objednávce nad 150 € (demo)"
+        ]
+      },
+      "home": {
+        "eyebrow": "Olivové dřevo · ruční práce",
+        "heroTitle": "Jedinečné předměty z olivového dřeva",
+        "heroLede": "Každý kus je jiný — teplo dřeva, přírodní žíly a řemeslná práce. Volba domova, kuchyně a dárek, který vydrží.",
+        "ctaPrimary": "Zobrazit nejzajímavější body",
+        "ctaSecondary": "Všechny položky",
+        "sectionRecentTitle": "Doporučené položky",
+        "sectionRecentLink": "Kolekce stolních lamp",
+        "sectionMoreTitle": "Více z naší dílny",
+        "sectionMoreLink": "Úplný katalog",
+        "storyEyebrow": "Náš příběh",
+        "storyTitle": "Proč olivovník",
+        "storyP1": "Olivové dřevo si zachovává svou krásu po dlouhou dobu a je odolné vůči každodennímu použití. Pracujeme s místním dřevem a řemeslnými výrobky, abychom zachovali přirozený vzor a charakter každého kusu.",
+        "storyP2": "Specializujeme se na jedinečné předměty pro domácnost a kuchyni — od lamp a misek až po malé nádobí. Můžete nás kontaktovat pro přizpůsobení nebo větší objednávky.",
+        "storyButton": "Více o nás",
+        "reviewsTitle": "Co říkají zákazníci",
+        "ctaTitle": "Novinky a nabídky",
+        "ctaMuted": "Toto je demo formulář — data se neposílají. Připojte svůj e-mail nebo službu zasílání novinek později.",
+        "newsletterButton": "Přihlásit se",
+        "newsletterLabel": "Poštovní účet",
+        "newsletterDemoAlert": "Nebyly odeslány žádné údaje, propojte prosím newsletter později."
+      },
+      "reviews": [
+        {
+          "quote": "Krásná maličkost, dřevo je hladce opracované a jen působí ručně. Doporučuji.",
+          "author": "Anna M.",
+          "location": "Záhřeb"
+        },
+        {
+          "quote": "Mísa je přesně to, co jsem hledala — teplá barva dřeva a jedinečný vzor žíly."
+        },
+        {
+          "quote": "Rychlé dodání, stejně jako na obrázku. Díky!",
+          "location": "řeka"
+        },
+        {
+          "quote": "Kupovaný jako dárek, příjemce je potěšen kvalitou."
+        },
+        {
+          "quote": "Líbí se mi, že to není tovární sériový kus — můžete vidět charakter stromu."
+        },
+        {
+          "quote": "Desky používám každý den, dřevo je robustní a hezky se myje."
+        }
+      ],
+      "footer": {
+        "brand": "Umění olivového dřeva od Ivana",
+        "muted": "Unikátní předměty z olivového dřeva z olivových hájů Lun na ostrově Pag. Ruční práce. Kontaktujte nás pro dotazy a objednávky.",
+        "copyright": "Umění olivového dřeva",
+        "shopHeading": "Obchod",
+        "aboutHeading": "Informace",
+        "linkLamps": "Stolní lampy",
+        "linkAll": "Všechny položky",
+        "linkAbout": "O nás",
+        "editor": "Upravit stránku"
+      },
+      "cart": {
+        "giftTitle": "Malý dřevěný přívěsek (ukázkový dárek)"
+      },
+      "checkout": {
+        "emailLabel": "Poštovní účet"
+      },
+      "shop": {
+        "title": "Všechny položky"
+      },
+      "about": {
+        "eyebrow": "O nás"
+      },
+      "layout": {
+        "editorLauncher": "Upravit stránku"
+      }
+    },
+    "hr": {
+      "categories": {
+        "stolne-lampe": "Zdjele za voće velike",
+        "zdjele-za-voce": "Srednje i manje zdjele i zdjelice",
+        "zdjelice-srednje": "Mužari i ostali predmeti za kuhinju",
+        "zdjelice-male": "Kuhače,žlice itd..",
+        "daske": "Daske",
+        "kuhace": "Stalci,nosači i sl.",
+        "kuhinjski-pribor": "Kuhinjski pribor",
+        "kutijice": "Kutijice,ukrasi,otvarači itd..",
+        "svijecnjaci": "Svijećnjaci,rubnici,dekoracija",
+        "stalci-za-case": "Satovi",
+        "satovi": "Pladnjevi,poslužavnici i slično",
+        "pladnjevi-posluzavnici": "Ostali unikati",
+        "ostalo-maslinovo": "Usluge izrade daljnja prodaja"
+      },
+      "home": {
+        "newsletterPlaceholder": "possistemilovran@gmail.com",
+        "newsletterDemoAlert": "Nema slanja podataka. Povežite newsletter kasnije."
+      },
+      "footer": {
+        "brand": "Olive wood art by Ivan",
+        "copyright": "Olive wood Art"
+      },
+      "product": {
+        "collectionsFallback": "o"
+      },
+      "about": {
+        "title": "Olive wood art by Lu"
+      }
+    }
+  }
+}

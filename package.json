@@ -1,0 +1,38 @@
+{
+  "name": "radionica-lun-trgovina",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "dev:editor": "vite --port 5173 --strictPort",
+    "build": "tsc --noEmit && vite build",
+    "build:gh-pages": "tsc --noEmit && vite build --base=/Webshoplovran/",
+    "preview": "vite preview",
+    "sync:shopify": "node scripts/sync-shopify.mjs",
+    "sync:shopify:images": "node scripts/sync-shopify.mjs --download-images",
+    "rebuild:image-map": "node scripts/rebuild-image-map.mjs",
+    "sync:media-library": "node scripts/sync-media-library-uploads.mjs",
+    "catalog:olive": "node scripts/generate-olive-catalog.mjs",
+    "logo:build": "node scripts/build-logo.mjs",
+    "logo:transparent": "node scripts/build-logo.mjs"
+  },
+  "dependencies": {
+    "i18next": "^26.0.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-i18next": "^17.0.2",
+    "react-router-dom": "^6.28.0"
+  },
+  "devDependencies": {
+    "@imgly/background-removal-node": "^1.4.5",
+    "@types/node": "^22.9.0",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.3",
+    "jimp": "^1.6.1",
+    "sharp": "^0.34.5",
+    "typescript": "~5.6.2",
+    "vite": "^5.4.10"
+  }
+}

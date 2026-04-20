@@ -1,0 +1,198 @@
+{
+  "lang": {
+    "picker": "Lingua",
+    "hr": "Croato",
+    "en": "Inglese",
+    "de": "Tedesco",
+    "fr": "Francese",
+    "it": "Italiano",
+    "pl": "Polacco",
+    "cs": "Ceco",
+    "sl": "Sloveno"
+  },
+  "autoTranslate": {
+    "label": "Traduzione automatica",
+    "enable": "Traduci pagina",
+    "enabling": "Traduzione in corso…",
+    "disable": "Originale (HR)",
+    "providerLabel": "Fornitore",
+    "providerMyMemory": "MyMemory (gratuito)",
+    "errorGeneric": "Traduzione non riuscita, riprova più tardi.",
+    "warningQuota": "Raggiunta la quota giornaliera gratuita di traduzioni."
+  },
+  "nav": {
+    "home": "Home",
+    "shop": "Negozio",
+    "contact": "Contatti",
+    "about": "Chi siamo",
+    "blog": "Blog",
+    "allProducts": "Tutti gli articoli",
+    "drawerTitle": "Menu",
+    "searchPlaceholder": "Cerca articoli…",
+    "searchAria": "Cerca",
+    "closeMenuAria": "Chiudi menu",
+    "closeSearchAria": "Chiudi ricerca",
+    "shopSubmenuAria": "Sottocategorie",
+    "mainNav": "Navigazione principale",
+    "announcements": "Avvisi"
+  },
+  "categories": {
+    "stolne-lampe": "Lampade da tavolo",
+    "zdjele-za-voce": "Ciotole per frutta",
+    "zdjelice-srednje": "Ciotole medie",
+    "zdjelice-male": "Ciotole piccole",
+    "daske": "Taglieri",
+    "kuhace": "Mestoli",
+    "kuhinjski-pribor": "Utensili da cucina",
+    "kutijice": "Scatoline",
+    "svijecnjaci": "Portacandele",
+    "stalci-za-case": "Portabicchieri",
+    "satovi": "Orologi",
+    "pladnjevi-posluzavnici": "Vassoi e piatti da portata",
+    "ostalo-maslinovo": "Altri pezzi unici in legno d’ulivo"
+  },
+  "announcement": {
+    "segments": [
+      "Legno d’ulivo fatto a mano — ogni pezzo è unico",
+      "Spedizione in Croazia",
+      "Fino a 200 articoli selezionati",
+      "Regalo demo sopra i 150 €"
+    ],
+    "separator": " · "
+  },
+  "home": {
+    "eyebrow": "Legno d’ulivo · artigianato",
+    "heroTitle": "Pezzi unici in legno d’ulivo",
+    "heroLede": "Ogni pezzo è diverso — calore del legno, venatura naturale e lavoro artigiano. Per casa, cucina e regali che durano.",
+    "ctaPrimary": "Vedi in evidenza",
+    "ctaSecondary": "Tutti gli articoli",
+    "sectionRecentTitle": "Articoli in evidenza",
+    "sectionRecentLink": "Collezione lampade",
+    "sectionMoreTitle": "Altro dal nostro laboratorio",
+    "sectionMoreLink": "Catalogo completo",
+    "storyEyebrow": "La nostra storia",
+    "storyTitle": "Perché il legno d’ulivo",
+    "storyP1": "Il legno d’ulivo mantiene a lungo la bellezza e resiste all’uso quotidiano. Lavoriamo il legno locale a mano per preservare la venatura.",
+    "storyP2": "Ci specializziamo in pezzi unici per casa e cucina. Contattateci per personalizzazioni o ordini più grandi.",
+    "storyButton": "Scopri di più",
+    "reviewsTitle": "Dicono i clienti",
+    "ctaTitle": "Novità e offerte",
+    "ctaMuted": "Modulo demo — nessun invio dati. Collegate la newsletter in seguito.",
+    "newsletterPlaceholder": "tu@esempio.it",
+    "newsletterButton": "Iscriviti",
+    "newsletterLabel": "Email",
+    "newsletterDemoAlert": "Demo — nessun invio."
+  },
+  "reviews": [
+    { "quote": "Bellissimo pezzo, il legno è levigato e si sente il fatto a mano.", "author": "Ana M.", "location": "Zagabria" },
+    { "quote": "La ciotola è proprio come la cercavo.", "author": "Marko P.", "location": "Spalato" },
+    { "quote": "Consegna veloce, articolo come in foto.", "author": "Ivana K.", "location": "Fiume" },
+    { "quote": "Regalo molto apprezzato.", "author": "Petra L.", "location": "Osijek" },
+    { "quote": "Non è produzione di serie — si vede il carattere del legno.", "author": "Tomislav B.", "location": "Zara" },
+    { "quote": "Uso i taglieri ogni giorno, legno resistente.", "author": "Maja S.", "location": "Pola" }
+  ],
+  "footer": {
+    "brand": "Olivo Unikat",
+    "muted": "Pezzi in legno d’ulivo, fatti a mano. Contatti per ordini e domande.",
+    "copyright": "Olivo Unikat",
+    "shopHeading": "Negozio",
+    "aboutHeading": "Informazioni",
+    "linkLamps": "Lampade da tavolo",
+    "linkAll": "Tutti gli articoli",
+    "linkAbout": "Chi siamo",
+    "linkContact": "Contatti",
+    "editor": "Modifica sito"
+  },
+  "cart": {
+    "giftTitle": "Portachiavi in legno (regalo demo)",
+    "giftEligible": "Complimenti! Regalo demo: {{gift}}.",
+    "giftBelow": "Regalo demo per ordini sopra {{amount}}.",
+    "drawerTitle": "Carrello",
+    "emptyMessage": "Il carrello è vuoto.",
+    "checkoutButton": "Cassa",
+    "clearButton": "Svuota carrello",
+    "subtotalLabel": "Subtotale",
+    "eachSuffix": "cad.",
+    "removeButton": "Rimuovi",
+    "decreaseQtyAria": "Diminuisci quantità",
+    "increaseQtyAria": "Aumenta quantità",
+    "closeCartAria": "Chiudi carrello"
+  },
+  "checkout": {
+    "pageTitle": "Cassa",
+    "pageNote": "Ordine demo: compila il modulo. Pagamento non collegato.",
+    "emptyTitle": "Cassa",
+    "emptyMessage": "Il carrello è vuoto.",
+    "browseButton": "Sfoglia articoli",
+    "successTitle": "Grazie — ordine demo ricevuto",
+    "successText": "Pagamento non elaborato. Collega Stripe, PayPal, ecc.",
+    "continueButton": "Torna al negozio",
+    "contactLegend": "Contatto",
+    "shippingLegend": "Spedizione",
+    "emailLabel": "Email",
+    "nameLabel": "Nome e cognome",
+    "addressLabel": "Indirizzo",
+    "cityLabel": "Città",
+    "zipLabel": "CAP",
+    "countryLabel": "Paese",
+    "submitButton": "Invia ordine demo",
+    "summaryTitle": "Riepilogo ordine",
+    "giftIncluded": "Regalo demo incluso (soglia raggiunta)."
+  },
+  "blog": {
+    "pageTitle": "Blog",
+    "pageIntro": "Qui consigli sulla cura del legno, novità dal laboratorio e storie di artigianato.",
+    "backHome": "Torna alla home"
+  },
+  "product": {
+    "addToCart": "Aggiungi al carrello",
+    "soldOut": "Esaurito",
+    "soldOutShort": "Non disponibile",
+    "fact1": "Spedizione in Croazia (demo)",
+    "fact2": "Oliare leggermente prima del primo uso",
+    "fact3": "Resi: imposta la policy del negozio",
+    "collectionsFallback": "Olivo Unikat",
+    "imageThumb": "Immagine {{n}}",
+    "notFoundTitle": "Articolo non trovato",
+    "notFoundLink": "Torna al negozio",
+    "slugAria": "Identificativo tecnico nell’URL (slug): {{slug}}",
+    "specWidth": "Larghezza",
+    "specHeight": "Altezza",
+    "specDiameter": "Diametro (⌀)",
+    "specShape": "Forma"
+  },
+  "shop": {
+    "eyebrow": "Catalogo",
+    "title": "Tutti gli articoli",
+    "searchIntro": "Ricerca «{{query}}»:",
+    "oneResult": "risultato",
+    "manyResults": "risultati",
+    "ledeDefault": "Fino a 200 pezzi unici in tredici categorie. Immagini di esempio (Unsplash)."
+  },
+  "collection": {
+    "notFoundTitle": "Collezione non trovata",
+    "notFoundLink": "Vedi tutti i prodotti",
+    "heroEyebrow": "Collezione",
+    "empty": "Nessun articolo in questa collezione."
+  },
+  "about": {
+    "eyebrow": "Chi siamo",
+    "title": "Olivo Unikat",
+    "p1": "Realizziamo e vendiamo pezzi unici in legno d’ulivo — illuminazione, stoviglie e accessori.",
+    "p2": "Uniamo funzione e materiale naturale. Per volumi o personalizzazioni: pagina Contatti.",
+    "p3": "Sito modello — testi e immagini modificabili nell’editor o nel codice.",
+    "cta": "Al negozio"
+  },
+  "contact": {
+    "title": "Contatti",
+    "p1": "Sostituisci questo testo con email, telefono o moduli.",
+    "linkShop": "Torna al negozio"
+  },
+  "notFound": {
+    "title": "Pagina non trovata",
+    "linkHome": "Home"
+  },
+  "layout": {
+    "editorLauncher": "Modifica sito"
+  }
+}

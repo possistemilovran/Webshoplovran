@@ -1,0 +1,231 @@
+{
+  "lang": {
+    "picker": "Jezik",
+    "hr": "Hrvatski",
+    "en": "Engleski",
+    "de": "Njemački",
+    "fr": "Francuski",
+    "it": "Talijanski",
+    "pl": "Poljski",
+    "cs": "Češki",
+    "sl": "Slovenski"
+  },
+  "autoTranslate": {
+    "label": "Automatski prijevod",
+    "enable": "Prevedi stranicu",
+    "enabling": "Prevodim…",
+    "disable": "Izvorno (HR)",
+    "providerLabel": "Servis",
+    "providerMyMemory": "MyMemory (besplatno)",
+    "errorGeneric": "Prevođenje nije uspjelo, pokušajte kasnije.",
+    "warningQuota": "Dosegnuta dnevna besplatna kvota prijevoda."
+  },
+  "nav": {
+    "home": "Početna",
+    "shop": "Trgovina",
+    "contact": "Kontakt",
+    "about": "O nama",
+    "blog": "Blog",
+    "allProducts": "Svi artikli",
+    "drawerTitle": "Izbornik",
+    "searchPlaceholder": "Pretraži artikle…",
+    "searchAria": "Pretraži",
+    "closeMenuAria": "Zatvori izbornik",
+    "closeSearchAria": "Zatvori pretragu",
+    "shopSubmenuAria": "Podkategorije trgovine",
+    "mainNav": "Glavni izbornik",
+    "announcements": "Obavijesti trgovine"
+  },
+  "categories": {
+    "stolne-lampe": "Stolne lampe",
+    "zdjele-za-voce": "Zdjele za voće",
+    "zdjelice-srednje": "Zdjelice srednje",
+    "zdjelice-male": "Zdjelice male",
+    "daske": "Daske",
+    "kuhace": "Kuhače",
+    "kuhinjski-pribor": "Kuhinjski pribor",
+    "kutijice": "Kutijice",
+    "svijecnjaci": "Svijećnjaci",
+    "stalci-za-case": "Stalci za čaše",
+    "satovi": "Satovi",
+    "pladnjevi-posluzavnici": "Pladnjevi i poslužavnici",
+    "ostalo-maslinovo": "Ostali unikatni predmeti od maslinovog drveta"
+  },
+  "announcement": {
+    "segments": [
+      "Ručni rad od maslinovog drveta — svaki komad je jedinstven",
+      "Dostava unutar Hrvatske",
+      "Do 200 pažljivo odabranih artikala u ponudi",
+      "Poklon uz narudžbu iznad 150 € (demo)"
+    ],
+    "separator": " · "
+  },
+  "home": {
+    "eyebrow": "Maslinovo drvo · ručni rad",
+    "heroTitle": "Unikatni predmeti od maslinovog drveta",
+    "heroLede": "Svaki komad je drugačiji — toplina drveta, prirodno žilje i zanatlijski rad. Izbor za dom, kuhinju i dar koji traje.",
+    "ctaPrimary": "Pogledaj izdvojeno",
+    "ctaSecondary": "Svi artikli",
+    "sectionRecentTitle": "Izdvojeni artikli",
+    "sectionRecentLink": "Kolekcija stolnih lampi",
+    "sectionMoreTitle": "Još iz naše radionice",
+    "sectionMoreLink": "Cijeli katalog",
+    "storyEyebrow": "Naša priča",
+    "storyTitle": "Zašto maslinovo drvo",
+    "storyP1": "Maslinovo drvo dugo zadržava ljepotu i otporno je na svakodnevnu uporabu. Radimo s lokalnim drvom i ručnim obradama kako bismo sačuvali prirodni uzorak i karakter svakog komada.",
+    "storyP2": "Specijalizirani smo za unikatne predmete za dom i kuhinju — od lampi i zdjela do sitnog pribora. Možete nas kontaktirati za prilagodbe ili veće narudžbe.",
+    "storyButton": "Više o nama",
+    "showcaseEyebrow": "Naši radovi",
+    "showcaseTitle": "Svaki komad priča svoju priču — drva, ruku i vremena.",
+    "showcaseLede": "Zdjele, daske za serviranje, žlice, tanjuri, svijećnjaci, mužari — svi izrezbareni iz prirodno palih grana i stabala Lunjskih maslinika. Bez dva ista komada.",
+    "showcaseStat1N": "250+",
+    "showcaseStat1L": "Unikata godišnje",
+    "showcaseStat2N": "100%",
+    "showcaseStat2L": "Ručna izrada",
+    "showcaseStat3N": "EU",
+    "showcaseStat3L": "Dostava",
+    "reviewsTitle": "Što kažu kupci",
+    "ctaTitle": "Novosti i ponude",
+    "ctaMuted": "Ovo je demo obrazac — podaci se ne šalju. Kasnije povežite svoju e-poštu ili newsletter uslugu.",
+    "newsletterPlaceholder": "vasa@adresa.hr",
+    "newsletterButton": "Prijavi se",
+    "newsletterLabel": "E-pošta",
+    "newsletterDemoAlert": "Demo — nema slanja podataka. Povežite newsletter kasnije."
+  },
+  "reviews": [
+    {
+      "quote": "Predivna mala stvar, drvo je glatko obradeno i baš se osjeća da je ručni rad. Preporučujem.",
+      "author": "Ana M.",
+      "location": "Zagreb"
+    },
+    {
+      "quote": "Zdjela je točno onakva kakvu sam tražila — topla boja drveta i jedinstven uzorak žila.",
+      "author": "Marko P.",
+      "location": "Split"
+    },
+    {
+      "quote": "Brza dostava, predmet kao na slici. Hvala!",
+      "author": "Ivana K.",
+      "location": "Rijeka"
+    },
+    {
+      "quote": "Kupila kao dar, primatelj je oduševljen kvalitetom.",
+      "author": "Petra L.",
+      "location": "Osijek"
+    },
+    {
+      "quote": "Volim što nije tvornički serijski komad — vidi se karakter drveta.",
+      "author": "Tomislav B.",
+      "location": "Zadar"
+    },
+    {
+      "quote": "Daske koristim svaki dan, drvo je čvrsto i lijepo se pere.",
+      "author": "Maja S.",
+      "location": "Pula"
+    }
+  ],
+  "footer": {
+    "brand": "Radionica Lun",
+    "muted": "Unikatni predmeti od maslinovog drveta iz Lunjskih maslinika, otok Pag. Ručno izrađeno. Kontaktirajte nas za pitanja i narudžbe.",
+    "copyright": "Radionica Lun",
+    "shopHeading": "Trgovina",
+    "aboutHeading": "Informacije",
+    "linkLamps": "Stolne lampe",
+    "linkAll": "Svi artikli",
+    "linkAbout": "O nama",
+    "linkContact": "Kontakt",
+    "editor": "Uredi stranicu"
+  },
+  "cart": {
+    "giftTitle": "Mali drveni privjesak (demo poklon)",
+    "giftEligible": "Čestitamo! Ostvarili ste demo poklon: {{gift}}.",
+    "giftBelow": "Demo poklon uz narudžbe iznad {{amount}}.",
+    "drawerTitle": "Košarica",
+    "emptyMessage": "Košarica je prazna.",
+    "checkoutButton": "Naplata",
+    "clearButton": "Isprazni košaricu",
+    "subtotalLabel": "Međuzbroj",
+    "eachSuffix": "po komadu",
+    "removeButton": "Ukloni",
+    "decreaseQtyAria": "Smanji količinu",
+    "increaseQtyAria": "Povećaj količinu",
+    "closeCartAria": "Zatvori košaricu"
+  },
+  "checkout": {
+    "pageTitle": "Naplata",
+    "pageNote": "Demo narudžba: ispunite podatke i pošaljite kako biste simulirali kupnju. Plaćanje nije povezano.",
+    "emptyTitle": "Naplata",
+    "emptyMessage": "Košarica je prazna.",
+    "browseButton": "Pregledaj artikle",
+    "successTitle": "Hvala — demo narudžba zaprimljena",
+    "successText": "Plaćanje nije obrađeno. Za produkciju povežite Stripe, PayPal ili sličan sustav.",
+    "continueButton": "Natrag u trgovinu",
+    "contactLegend": "Kontakt",
+    "shippingLegend": "Dostava",
+    "emailLabel": "E-pošta",
+    "nameLabel": "Ime i prezime",
+    "addressLabel": "Adresa",
+    "cityLabel": "Grad",
+    "zipLabel": "Poštanski broj",
+    "countryLabel": "Država",
+    "submitButton": "Pošalji demo narudžbu",
+    "summaryTitle": "Pregled narudžbe",
+    "giftIncluded": "Demo poklon je uključen (prag narudžbe ostvaren)."
+  },
+  "blog": {
+    "pageTitle": "Blog",
+    "pageIntro": "Ovdje možete objavljivati savjete o njegi drveta, novosti iz radionice i priče o zanatu.",
+    "backHome": "Natrag na početnu"
+  },
+  "product": {
+    "addToCart": "Dodaj u košaricu",
+    "soldOut": "Rasprodano",
+    "soldOutShort": "Nema na zalihi",
+    "fact1": "Dostava unutar Hrvatske (demo)",
+    "fact2": "Prije prve uporabe preporučeno blago uljenje drveta",
+    "fact3": "Povrat: prilagodite politiku trgovine",
+    "collectionsFallback": "Radionica Lun",
+    "imageThumb": "Slika {{n}}",
+    "notFoundTitle": "Artikl nije pronađen",
+    "notFoundLink": "Natrag u trgovinu",
+    "slugAria": "Tehnička oznaka u adresi (slug): {{slug}}",
+    "specWidth": "Širina",
+    "specHeight": "Visina",
+    "specDiameter": "Promjer (⌀)",
+    "specShape": "Oblik"
+  },
+  "shop": {
+    "eyebrow": "Katalog",
+    "title": "Svi artikli",
+    "searchIntro": "Pretraga za „{{query}}”:",
+    "oneResult": "rezultat",
+    "manyResults": "rezultata",
+    "ledeDefault": "Do 200 unikatnih predmeta od maslinovog drveta u trinaest kategorija. Slike su primjeri (Unsplash); u produkciji zamijenite vlastitim fotografijama."
+  },
+  "collection": {
+    "notFoundTitle": "Kolekcija nije pronađena",
+    "notFoundLink": "Pregledaj sve artikle",
+    "heroEyebrow": "Kolekcija",
+    "empty": "U ovoj kolekciji trenutačno nema artikala."
+  },
+  "about": {
+    "eyebrow": "O nama",
+    "title": "Radionica Lun",
+    "p1": "Bavimo se izradom i prodajom unikatnih predmeta od maslinovog drveta iz Lunjskih maslinika — botaničkog rezervata na otoku Pagu, jednog od tri takva lokaliteta na svijetu. Maslinovo drvo je gusto, dugotrajno i svaki komad ima svoj uzorak žila, pa nisu dvije iste.",
+    "p2": "Cilj nam je spojiti funkcionalnost (kuhinja, stol, dar) s toplinom prirodnog materijala. Ako trebate veću količinu, poseban dizajn ili suradnju, javite se putem stranice Kontakt.",
+    "p3": "Ova web stranica je predložak trgovine: tekstove i slike možete mijenjati u ugrađenom uređivaču ili u izvornom kodu.",
+    "cta": "U trgovinu"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "p1": "Za upite o artiklima, narudžbama ili suradnji zamijenite ovaj tekst svojom adresom e-pošte, telefonom ili obrascima koje koristite u produkciji.",
+    "linkShop": "Natrag u trgovinu"
+  },
+  "notFound": {
+    "title": "Stranica nije pronađena",
+    "linkHome": "Na početnu"
+  },
+  "layout": {
+    "editorLauncher": "Uredi stranicu"
+  }
+}

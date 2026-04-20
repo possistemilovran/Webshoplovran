@@ -1,0 +1,231 @@
+{
+  "lang": {
+    "picker": "Language",
+    "hr": "Croatian",
+    "en": "English",
+    "de": "German",
+    "fr": "French",
+    "it": "Italian",
+    "pl": "Polish",
+    "cs": "Czech",
+    "sl": "Slovenian"
+  },
+  "autoTranslate": {
+    "label": "Auto translation",
+    "enable": "Translate page",
+    "enabling": "Translating…",
+    "disable": "Original (HR)",
+    "providerLabel": "Provider",
+    "providerMyMemory": "MyMemory (free)",
+    "errorGeneric": "Translation failed, please try again later.",
+    "warningQuota": "Daily free translation quota reached."
+  },
+  "nav": {
+    "home": "Home",
+    "shop": "Shop",
+    "contact": "Contact",
+    "about": "About",
+    "blog": "Blog",
+    "allProducts": "All products",
+    "drawerTitle": "Menu",
+    "searchPlaceholder": "Search products…",
+    "searchAria": "Search",
+    "closeMenuAria": "Close menu",
+    "closeSearchAria": "Close search",
+    "shopSubmenuAria": "Shop subcategories",
+    "mainNav": "Main navigation",
+    "announcements": "Store announcements"
+  },
+  "categories": {
+    "stolne-lampe": "Table lamps",
+    "zdjele-za-voce": "Fruit bowls",
+    "zdjelice-srednje": "Medium bowls",
+    "zdjelice-male": "Small bowls",
+    "daske": "Cutting boards",
+    "kuhace": "Spatulas",
+    "kuhinjski-pribor": "Kitchen utensils",
+    "kutijice": "Small boxes",
+    "svijecnjaci": "Candle holders",
+    "stalci-za-case": "Glass stands",
+    "satovi": "Clocks",
+    "pladnjevi-posluzavnici": "Trays and serving platters",
+    "ostalo-maslinovo": "Other unique olive wood items"
+  },
+  "announcement": {
+    "segments": [
+      "Handcrafted olive wood — every piece is unique",
+      "Shipping within Croatia",
+      "Up to 200 carefully selected items",
+      "Free gift demo on orders over €150"
+    ],
+    "separator": " · "
+  },
+  "home": {
+    "eyebrow": "Olive wood · handmade",
+    "heroTitle": "Unique olive wood pieces",
+    "heroLede": "Every piece is different — the warmth of wood, natural grain, and craft. For your home, kitchen, and gifts that last.",
+    "ctaPrimary": "See highlights",
+    "ctaSecondary": "All products",
+    "sectionRecentTitle": "Featured items",
+    "sectionRecentLink": "Table lamp collection",
+    "sectionMoreTitle": "More from our workshop",
+    "sectionMoreLink": "Full catalogue",
+    "storyEyebrow": "Our story",
+    "storyTitle": "Why olive wood",
+    "storyP1": "Olive wood keeps its beauty for a long time and stands up to daily use. We work with local wood and hand finishing to preserve the natural pattern and character of each piece.",
+    "storyP2": "We specialise in unique home and kitchen pieces — from lamps and bowls to small accessories. Contact us for custom work or larger orders.",
+    "storyButton": "More about us",
+    "showcaseEyebrow": "Our work",
+    "showcaseTitle": "Every piece tells its own story — of wood, hands, and time.",
+    "showcaseLede": "Bowls, serving boards, spoons, plates, candle holders, mortars — all carved from naturally fallen branches and trees of the Lun olive groves. No two pieces are alike.",
+    "showcaseStat1N": "250+",
+    "showcaseStat1L": "Unique pieces / year",
+    "showcaseStat2N": "100%",
+    "showcaseStat2L": "Hand made",
+    "showcaseStat3N": "EU",
+    "showcaseStat3L": "Shipping",
+    "reviewsTitle": "What customers say",
+    "ctaTitle": "News and offers",
+    "ctaMuted": "This is a demo form — no data is sent. Connect your email or newsletter service later.",
+    "newsletterPlaceholder": "you@example.com",
+    "newsletterButton": "Subscribe",
+    "newsletterLabel": "Email",
+    "newsletterDemoAlert": "Demo — no data sent. Connect your newsletter later."
+  },
+  "reviews": [
+    {
+      "quote": "A beautiful small piece, the wood is smoothly finished and you can feel it’s handmade. I recommend it.",
+      "author": "Ana M.",
+      "location": "Zagreb"
+    },
+    {
+      "quote": "The bowl is exactly what I was looking for — warm wood colour and a unique grain pattern.",
+      "author": "Marko P.",
+      "location": "Split"
+    },
+    {
+      "quote": "Fast delivery, item as pictured. Thank you!",
+      "author": "Ivana K.",
+      "location": "Rijeka"
+    },
+    {
+      "quote": "Bought as a gift — the recipient loved the quality.",
+      "author": "Petra L.",
+      "location": "Osijek"
+    },
+    {
+      "quote": "I love that it’s not a mass‑produced piece — the character of the wood shows.",
+      "author": "Tomislav B.",
+      "location": "Zadar"
+    },
+    {
+      "quote": "I use the boards every day; the wood is solid and easy to clean.",
+      "author": "Maja S.",
+      "location": "Pula"
+    }
+  ],
+  "footer": {
+    "brand": "Olivo Unikat",
+    "muted": "Olive wood pieces, handmade. Contact us for questions and orders.",
+    "copyright": "Olivo Unikat",
+    "shopHeading": "Shop",
+    "aboutHeading": "Information",
+    "linkLamps": "Table lamps",
+    "linkAll": "All products",
+    "linkAbout": "About",
+    "linkContact": "Contact",
+    "editor": "Edit site"
+  },
+  "cart": {
+    "giftTitle": "Small wooden keychain (demo gift)",
+    "giftEligible": "Congratulations! You unlocked the demo gift: {{gift}}.",
+    "giftBelow": "Demo gift on orders over {{amount}}.",
+    "drawerTitle": "Cart",
+    "emptyMessage": "Your cart is empty.",
+    "checkoutButton": "Checkout",
+    "clearButton": "Clear cart",
+    "subtotalLabel": "Subtotal",
+    "eachSuffix": "each",
+    "removeButton": "Remove",
+    "decreaseQtyAria": "Decrease quantity",
+    "increaseQtyAria": "Increase quantity",
+    "closeCartAria": "Close cart"
+  },
+  "checkout": {
+    "pageTitle": "Checkout",
+    "pageNote": "Demo order: fill in the form and submit to simulate a purchase. Payment is not connected.",
+    "emptyTitle": "Checkout",
+    "emptyMessage": "Your cart is empty.",
+    "browseButton": "Browse products",
+    "successTitle": "Thank you — demo order received",
+    "successText": "Payment was not processed. For production, connect Stripe, PayPal, or similar.",
+    "continueButton": "Back to shop",
+    "contactLegend": "Contact",
+    "shippingLegend": "Shipping",
+    "emailLabel": "Email",
+    "nameLabel": "Full name",
+    "addressLabel": "Address",
+    "cityLabel": "City",
+    "zipLabel": "Postal code",
+    "countryLabel": "Country",
+    "submitButton": "Submit demo order",
+    "summaryTitle": "Order summary",
+    "giftIncluded": "Demo gift included (order threshold met)."
+  },
+  "blog": {
+    "pageTitle": "Blog",
+    "pageIntro": "Share tips on wood care, workshop news, and craft stories here.",
+    "backHome": "Back to home"
+  },
+  "product": {
+    "addToCart": "Add to cart",
+    "soldOut": "Sold out",
+    "soldOutShort": "Out of stock",
+    "fact1": "Shipping within Croatia (demo)",
+    "fact2": "Light oiling recommended before first use",
+    "fact3": "Returns: set your shop policy",
+    "collectionsFallback": "Olivo Unikat",
+    "imageThumb": "Image {{n}}",
+    "notFoundTitle": "Product not found",
+    "notFoundLink": "Back to shop",
+    "slugAria": "URL product identifier (slug): {{slug}}",
+    "specWidth": "Width",
+    "specHeight": "Height",
+    "specDiameter": "Diameter (⌀)",
+    "specShape": "Shape"
+  },
+  "shop": {
+    "eyebrow": "Catalogue",
+    "title": "All products",
+    "searchIntro": "Search for “{{query}}”:",
+    "oneResult": "result",
+    "manyResults": "results",
+    "ledeDefault": "Up to 200 unique olive wood items in thirteen categories. Images are examples (Unsplash); replace with your own photos in production."
+  },
+  "collection": {
+    "notFoundTitle": "Collection not found",
+    "notFoundLink": "Browse all products",
+    "heroEyebrow": "Collection",
+    "empty": "There are no products in this collection yet."
+  },
+  "about": {
+    "eyebrow": "About us",
+    "title": "Olivo Unikat",
+    "p1": "We make and sell unique olive wood pieces — from lighting and tableware to small kitchen accessories and décor. Olive wood is dense and durable, and every piece has its own grain, so no two are alike.",
+    "p2": "We aim to combine function (kitchen, table, gifts) with the warmth of natural material. For larger quantities, custom designs, or collaboration, use the Contact page.",
+    "p3": "This site is a shop template: you can change text and images in the built‑in editor or in the source code.",
+    "cta": "Go to shop"
+  },
+  "contact": {
+    "title": "Contact",
+    "p1": "Replace this text with your email, phone, or forms you use in production for product, order, or partnership enquiries.",
+    "linkShop": "Back to shop"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "linkHome": "Home"
+  },
+  "layout": {
+    "editorLauncher": "Edit site"
+  }
+}
