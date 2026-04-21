@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "overrides": {
+    "lampe-komad-1": {
+      "translations": {
+        "en": {
+          "title": "table lamp",
+          "shortDescription": "unique lamp handmade",
+          "description": "this is a lamp made of olive wood",
+          "shape": "irregular shape of handmade"
+        },
+        "de": {
+          "title": "tischlampe",
+          "shortDescription": "einzigartige Lampe handgefertigt",
+          "description": "dies ist eine Lampe aus Olivenholz",
+          "shape": "unregelmäßige Form der handgefertigten"
+        },
+        "it": {
+          "title": "lampada da tavolo",
+          "shortDescription": "lampada unica fatta a mano",
+          "description": "questa è una lampada in legno di ulivo",
+          "shape": "forma irregolare di fatto a mano"
+        },
+        "fr": {
+          "title": "lampe de table",
+          "shortDescription": "lampe unique faite à la main",
+          "description": "il s'agit d'une lampe en bois d'olivier",
+          "shape": "forme irrégulière de la main"
+        },
+        "sl": {
+          "title": "namizna svetilka",
+          "shortDescription": "unikatna ročno izdelana svetilka",
+          "description": "to je svetilka iz oljčnega lesa",
+          "shape": "nepravilna oblika ročno izdelane"
+        },
+        "cs": {
+          "title": "stolní lampa",
+          "shortDescription": "unikátní lampa ručně vyráběná",
+          "description": "toto je lampa vyrobená z olivového dřeva",
+          "shape": "nepravidelný tvar ruční práce"
+        },
+        "pl": {
+          "title": "lampa stołowa",
+          "shortDescription": "wyjątkowa ręcznie robiona lampa",
+          "description": "to lampa wykonana z drewna oliwnego",
+          "shape": "nieregularny kształt ręcznie robionego"
+        }
+      }
+    }
+  }
+}
