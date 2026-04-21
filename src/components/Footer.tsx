@@ -59,9 +59,6 @@ export function Footer() {
         <span>
           © {new Date().getFullYear()} {t("footer.copyright")}
         </span>
-        <Link to="/editor" className="site-footer__editor-link">
-          {t("footer.editor")}
-        </Link>
       </div>
     </footer>
   );
