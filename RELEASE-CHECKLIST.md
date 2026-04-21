@@ -9,11 +9,12 @@
   - Košarica: dodaj/ukloni/provjeri subtotal
   - Logo i header/footer prikaz na mobilnom i desktopu
 
-## 2) Deploy (GitHub Pages)
-- Merge na `main` pokreće `.github/workflows/deploy-github-pages.yml`
-- GitHub Action koristi base putanju:
-  - `/${{ github.event.repository.name }}/`
-- Nakon deploya potvrditi da je workflow završio zeleno.
+## 2) Deploy (GitHub Pages — grana `gh-pages`)
+- **Jednokratno u repou:** Settings → Pages → **Build and deployment** → **Source:** **Deploy from a branch**
+  - **Branch:** `gh-pages` · **Folder:** `/ (root)` → Save
+- Merge / push na `main` pokreće `.github/workflows/deploy-github-pages.yml` (build + push `dist/` na granu `gh-pages`).
+- Base putanja u buildu: `/<ime-repa>/` (npr. `/Webshoplovran/` — iz CI varijable `github.event.repository.name`).
+- Nakon pusha potvrdi da je workflow završio zeleno, zatim otvori javni URL (vidi Settings → Pages).
 
 ## 3) Post-deploy smoke test (produkcija)
 - Otvori produkcijski URL i provjeri:

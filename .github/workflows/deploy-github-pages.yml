@@ -1,5 +1,8 @@
-# Deploy na GitHub Pages.
-# U GitHubu: Settings → Pages → Source: GitHub Actions.
+# Deploy na GitHub Pages preko grane gh-pages (klasični način).
+# Zaobilazi actions/deploy-pages koji vraća 404 dok Pages nije uključen na "GitHub Actions".
+#
+# U GitHubu: Settings → Pages → Build and deployment → Source: Deploy from a branch
+# Branch: gh-pages  ·  Folder: / (root)
 
 name: Deploy GitHub Pages
 
@@ -8,16 +11,14 @@ on:
     branches: ["main"]
 
 permissions:
-  contents: read
-  pages: write
-  id-token: write
+  contents: write
 
 concurrency:
   group: pages
   cancel-in-progress: true
 
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -37,16 +38,9 @@ jobs:
       - name: SPA fallback za GitHub Pages
         run: cp dist/index.html dist/404.html
 
-      - uses: actions/upload-pages-artifact@v3
+      - name: Push dist na granu gh-pages
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          path: dist
-
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - id: deployment
-        uses: actions/deploy-pages@v4
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          force_orphan: true

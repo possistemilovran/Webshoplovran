@@ -114,10 +114,13 @@ npm run build
 # rezultat: dist/ mapa — samo statika, hosta se bilo gdje
 ```
 
-Za GitHub Pages:
+Za GitHub Pages (lokalni build isti kao u CI):
 ```bash
 npm run build:gh-pages
 ```
+
+**Objava na GitHub Pages:** workflow gura `dist/` na granu `gh-pages`. U repou jednom postavi  
+**Settings → Pages → Source: Deploy from a branch** → branch **`gh-pages`**, folder **`/` (root)**.
 
 Brza provjera artefakta:
 ```bash
