@@ -1,6 +1,59 @@
 {
   "version": 1,
   "overrides": {
+    "hr": {
+      "categories": {
+        "stolne-lampe": "Zdjele za voće velike",
+        "zdjele-za-voce": "Srednje i manje zdjele i zdjelice",
+        "zdjelice-srednje": "Mužari i ostali predmeti za kuhinju",
+        "zdjelice-male": "Kuhače,žlice itd..",
+        "daske": "Daske",
+        "kuhace": "Stalci,nosači i sl.",
+        "kuhinjski-pribor": "Kuhinjski pribor",
+        "kutijice": "Kutijice,ukrasi,otvarači itd..",
+        "svijecnjaci": "Svijećnjaci,rubnici,dekoracija",
+        "stalci-za-case": "Satovi",
+        "satovi": "Pladnjevi,poslužavnici i slično",
+        "pladnjevi-posluzavnici": "Ostali unikati",
+        "ostalo-maslinovo": "Usluge izrade i daljnja prodaja"
+      },
+      "home": {
+        "newsletterPlaceholder": "possistemilovran@gmail.com",
+        "newsletterDemoAlert": "Nema slanja podataka. Povežite newsletter kasnije.",
+        "heroLede": "Jedinstvenost, toplina i ljepota masline utkani su u svaki naš rad. Ručnom obradom ističemo ono najljepše iz prirode, stvarajući dekoracije koje vašem prostoru daju poseban karakter.",
+        "storyP1": "Naši su proizvodi stvoreni da traju – maslina zadržava svoju ljepotu godinama, čak i uz svakodnevno korištenje. Radimo isključivo s domaćim drvom koje obrađujemo ručno, pazeći da svaki god i prirodni detalj ostane sačuvan u svom punom sjaju.",
+        "storyP2": "Specijalizirani smo za izradu unikatnih predmeta za dom i kuhinju – od ambijentalnih lampi i zdjela do profinjenog sitnog pribora. Maslinovo drvo biramo zbog njegove dugovječnosti i otpornosti, a rad s lokalnim materijalom i ručna obrada omogućuju nam da sačuvamo prirodni uzorak i karakter svakog komada. Našim dodirom drvo dobiva novu dimenziju, unoseći toplinu i ljepotu prirode u vaš prostor. Otvoreni smo za sve vaše želje, prilagodbe i veće narudžbe"
+      },
+      "footer": {
+        "brand": "",
+        "copyright": "Olive wood Art"
+      },
+      "product": {
+        "collectionsFallback": "o"
+      },
+      "about": {
+        "title": "Olive wood Art ",
+        "p1": "U svakom komadu naše Oblice utkan je djelić povijesti s otoka Paga. Koristeći drvo iz botaničkog rezervata Lunjskih maslinika, jednog od tri takva mjesta na svijetu, stvaramo predmete koji traju generacijama. Nevjerojatna gustoća i jedinstveni uzorci čine svaku našu lampu ili zdjelu umjetničkim djelom prirode. Unesite u svoj prostor energiju stabala koja stoljećima prkose buri i suncu.",
+        "p3": "Naš brend nosi ime po Oblici, kraljici naših maslinika. Ova autohtona sorta cijenjena je u Primorju zbog svog bujnog rasta i krupnog ploda, ali za nas ona predstavlja savršen materijal. Njezina otpornost na sušu i hladnoću te snažna struktura drveta čine je idealnom za obradu. Karakteristični tamnozeleni listovi i gusta, kuglasta krošnja koju pažljivo orezujemo, daruju nam drvo visoke kvalitete iz kojeg ručno oblikujemo vaše unikatne predmete."
+      },
+      "announcement": {
+        "segments": [
+          "Ručni rad od maslinovog drveta — svaki komad je jedinstven",
+          "Dostava unutar Hrvatske",
+          "Zbirka pažljivo odabranih artikala u ponudi",
+          "Poklon uz narudžbu iznad 150 €"
+        ]
+      },
+      "reviews": [
+        {},
+        {
+          "quote": "Zdjela je točno onakva kakvu sam tražila — topla boja drveta i jedinstven uzorak goda."
+        }
+      ],
+      "cart": {
+        "giftTitle": "Mali drveni privjesak "
+      }
+    },
     "en": {
       "nav": {
         "home": "home",
@@ -20,14 +73,14 @@
         "segments": [
           "Handmade from olive wood — each piece is unique",
           "Delivery within Croatia",
-          "Up to 200 carefully selected items on offer",
-          "Gift with order over €150 (demo)"
+          "A collection of carefully selected items",
+          "Gift with order over €150"
         ]
       },
       "home": {
         "eyebrow": "Olive wood · handmade",
         "heroTitle": "Unique items made of olive wood",
-        "heroLede": "Each piece is different — the warmth of wood, natural veins and artisanal work. A choice for home, kitchen, and a gift that lasts.",
+        "heroLede": "The uniqueness, warmth and beauty of the olive are woven into each of our work. We hand-craft the most beautiful things from nature, creating decorations that give your space a special character.",
         "ctaPrimary": "View highlights",
         "ctaSecondary": "All Items",
         "sectionRecentTitle": "Featured items",
@@ -36,8 +89,8 @@
         "sectionMoreLink": "Full Catalogue",
         "storyEyebrow": "Our story",
         "storyTitle": "Why olive tree",
-        "storyP1": "Olive wood retains its beauty for a long time and is resistant to everyday use. We work with local wood and handcrafts to preserve the natural pattern and character of each piece.",
-        "storyP2": "We specialize in unique items for the home and kitchen — from lamps and bowls to small utensils. You can contact us for customizations or larger orders.",
+        "storyP1": "Our products are designed to last – olives retain their beauty for years, even with daily use. We work exclusively with homemade wood that we process by hand, making sure that every natural detail is preserved in its full splendor.",
+        "storyP2": "We specialize in making unique items for the home and kitchen – from ambient lamps and bowls to sophisticated small utensils. We choose olive wood for its longevity and resistance, and working with local material and manual processing allow us to preserve the natural pattern and character of each piece. With our touch, wood takes on a new dimension, bringing the warmth and beauty of nature into your space. We are open to all your wishes, customizations and larger orders",
         "storyButton": "Read more about us",
         "reviewsTitle": "What customers are saying",
         "ctaTitle": "News and offers",
@@ -52,7 +105,7 @@
           "author": "Anna M."
         },
         {
-          "quote": "The bowl is exactly what I was looking for — warm wood color and a unique vein pattern."
+          "quote": "The bowl is exactly what I was looking for — warm wood color and a unique God pattern."
         },
         {
           "quote": "Fast delivery, just like the picture. Thanks!",
@@ -80,7 +133,7 @@
         "editor": "Edit this page."
       },
       "cart": {
-        "giftTitle": "Small wooden pendant (demo gift)",
+        "giftTitle": "Small wooden pendant",
         "giftEligible": "Congrats on completing your {{gift}} demo.",
         "giftBelow": "Demo gift with orders over {{amount}}.",
         "drawerTitle": "Basket",
@@ -147,9 +200,10 @@
       },
       "about": {
         "eyebrow": "About Us",
-        "p1": "We are engaged in the production and sale of unique items made of olive wood from Lun olive groves — a botanical reserve on the island of Pag, one of three such sites in the world. Olive wood is dense, long-lasting and each piece has its own vein pattern, so no two are the same.",
+        "title": "Olive wood art",
+        "p1": "In every piece of our Oblica, a piece of history from the island of Pag is woven. Using wood from the Lun olive groves botanical reserve, one of three such places in the world, we create objects that last for generations. Incredible density and unique patterns make each of our lamps or bowls a work of nature. Bring to your space the energy of trees that have defied the storm and sun for centuries.",
         "p2": "Our goal is to combine functionality (kitchen, table, gift) with the warmth of a natural material. If you need a larger quantity, special design or collaboration, please contact us through the Contact page.",
-        "p3": "This website is a store template: you can edit texts and images in the built-in editor or in the source code.",
+        "p3": "Our brand is named after the Shape, the queen of our olive groves. This autochthonous variety is appreciated in the Littoral for its lush growth and large fruit, but for us it is the perfect material. Its drought and cold resistance and strong wood structure make it ideal for processing. Characteristic dark green leaves and a dense, spherical canopy that we carefully prune, give us a high quality tree from which we manually shape your unique objects.",
         "cta": "Shop Now"
       },
       "contact": {
@@ -177,7 +231,7 @@
         "stalci-za-case": "Watches",
         "satovi": "Trays,trays, etc.",
         "pladnjevi-posluzavnici": "Other unique",
-        "ostalo-maslinovo": "Resale production services"
+        "ostalo-maslinovo": "Manufacturing and resale services"
       }
     },
     "de": {
@@ -199,14 +253,14 @@
         "segments": [
           "Handgefertigt aus Olivenholz — jedes Stück ein Unikat",
           "Lieferung innerhalb Kroatiens",
-          "Bis zu 200 sorgfältig ausgewählte Artikel im Angebot",
-          "Geschenk bei Bestellung über 150 € (Demo)"
+          "Eine Sammlung sorgfältig ausgewählter Artikel",
+          "Geschenk bei Bestellung über 150 €"
         ]
       },
       "home": {
         "eyebrow": "Olivenholz · handgefertigt",
         "heroTitle": "Unikate aus Olivenholz",
-        "heroLede": "Jedes Stück ist anders — die Wärme von Holz, natürlichen Adern und handwerklicher Arbeit. Eine Wahl für Zuhause, Küche und ein Geschenk, das lange hält.",
+        "heroLede": "Die Einzigartigkeit, Wärme und Schönheit der Olive sind in jedes unserer Werke eingewoben. Wir fertigen die schönsten Dinge aus der Natur in Handarbeit und kreieren Dekorationen, die Ihrem Raum einen besonderen Charakter verleihen.",
         "ctaPrimary": "Highlights anzeigen",
         "ctaSecondary": "alle Artikel",
         "sectionRecentTitle": "Hervorgehobene Artikel",
@@ -215,8 +269,8 @@
         "sectionMoreLink": "Vollständiger Katalog",
         "storyEyebrow": "Unsere Geschichte",
         "storyTitle": "Warum Olivenbaum",
-        "storyP1": "Olivenholz behält lange seine Schönheit und ist alltagstauglich. Wir arbeiten mit lokalem Holz und Kunsthandwerk, um das natürliche Muster und den Charakter jedes Stücks zu bewahren.",
-        "storyP2": "Wir sind spezialisiert auf Unikate für Haus und Küche — von Lampen und Schüsseln bis hin zu kleinen Utensilien. Sie können uns für Anpassungen oder größere Bestellungen kontaktieren.",
+        "storyP1": "Unsere Produkte sind auf Langlebigkeit ausgelegt – Oliven behalten ihre Schönheit auch bei täglicher Anwendung über Jahre hinweg. Wir arbeiten ausschließlich mit hausgemachtem Holz, das wir von Hand verarbeiten, um sicherzustellen, dass jedes natürliche Detail in seiner vollen Pracht erhalten bleibt.",
+        "storyP2": "Wir sind darauf spezialisiert, einzigartige Artikel für Haus und Küche herzustellen – von Ambiente-Lampen und Schüsseln bis hin zu anspruchsvollen kleinen Utensilien. Wir wählen Olivenholz wegen seiner Langlebigkeit und Widerstandsfähigkeit, und die Arbeit mit lokalem Material und manueller Verarbeitung ermöglicht es uns, das natürliche Muster und den Charakter jedes Stücks zu bewahren. Mit unserem Touch erhält Holz eine neue Dimension und bringt die Wärme und Schönheit der Natur in Ihren Raum. Wir sind offen für alle Ihre Wünsche, Anpassungen und größeren Bestellungen",
         "storyButton": "Mehr über uns",
         "reviewsTitle": "Was Kunden sagen",
         "ctaTitle": "Neuigkeiten und Angebote",
@@ -231,7 +285,7 @@
           "author": "Anna M."
         },
         {
-          "quote": "Die Schale ist genau das, was ich gesucht habe — warme Holzfarbe und ein einzigartiges Venenmuster."
+          "quote": "Die Schale ist genau das, was ich gesucht habe — warme Holzfarbe und ein einzigartiges Gottesmuster."
         },
         {
           "quote": "Schnelle Lieferung, genau wie auf dem Bild. Danke!"
@@ -248,7 +302,6 @@
         }
       ],
       "footer": {
-        "brand": "Olivenholzkunst von Ivan",
         "muted": "Unikate aus Olivenholz von Lun Olivenhainen, Insel Pag. Handgefertigt. Kontaktieren Sie uns für Fragen und Bestellungen.",
         "copyright": "Kunst aus Olivenholz",
         "shopHeading": "Lebensmittelgeschäft",
@@ -259,7 +312,7 @@
         "editor": "Seite bearbeiten"
       },
       "cart": {
-        "giftTitle": "Kleiner Holzanhänger (Demo-Geschenk)",
+        "giftTitle": "Kleiner Holzanhänger",
         "giftEligible": "Herzlichen Glückwunsch zum Abschluss Ihrer {{gift}} -Demo.",
         "giftBelow": "Demo-Geschenk mit Bestellungen über {{amount}}.",
         "drawerTitle": "Warenkorb",
@@ -324,10 +377,10 @@
       },
       "about": {
         "eyebrow": "Über uns",
-        "title": "Olivenholzkunst von Lu",
-        "p1": "Wir beschäftigen uns mit der Herstellung und dem Verkauf von Unikaten aus Olivenholz aus Lun-Olivenhainen — einem botanischen Reservat auf der Insel Pag, einem von drei solchen Standorten weltweit. Olivenholz ist dicht, langlebig und jedes Stück hat sein eigenes Venenmuster, so dass keine zwei gleich sind.",
+        "title": "Kunst aus Olivenholz",
+        "p1": "In jedem Stück unserer Oblica ist ein Stück Geschichte von der Insel Pag eingewoben. Mit Holz aus dem botanischen Reservat Lun, einem von drei solchen Orten auf der Welt, schaffen wir Objekte, die Generationen überdauern. Unglaubliche Dichte und einzigartige Muster machen jede unserer Lampen oder Schalen zu einem Naturwerk. Bringen Sie die Energie von Bäumen in Ihren Raum, die dem Sturm und der Sonne seit Jahrhunderten trotzen.",
         "p2": "Unser Ziel ist es, Funktionalität (Küche, Tisch, Geschenk) mit der Wärme eines natürlichen Materials zu verbinden. Wenn Sie eine größere Menge, ein spezielles Design oder eine Zusammenarbeit benötigen, kontaktieren Sie uns bitte über die Kontaktseite.",
-        "p3": "Diese Website ist eine Shop-Vorlage: Sie können Texte und Bilder im integrierten Editor oder im Quellcode bearbeiten.",
+        "p3": "Unsere Marke ist nach der Shape, der Königin unserer Olivenhaine, benannt. Diese autochthone Sorte wird im Küstenland wegen ihres üppigen Wachstums und der großen Früchte geschätzt, aber für uns ist sie das perfekte Material. Seine Trockenheit und Kältebeständigkeit sowie seine starke Holzstruktur machen es ideal für die Verarbeitung. Charakteristische dunkelgrüne Blätter und ein dichtes, kugelförmiges Vordach, das wir sorgfältig beschneiden, geben uns einen hochwertigen Baum, aus dem wir Ihre einzigartigen Objekte manuell formen.",
         "cta": "Zum Shop"
       },
       "contact": {
@@ -354,7 +407,7 @@
         "stalci-za-case": "TAKTE",
         "satovi": "Trays,Trays, etc.",
         "pladnjevi-posluzavnici": "Sonstiges Unikat",
-        "ostalo-maslinovo": "Wiederverkaufsproduktionsdienstleistungen"
+        "ostalo-maslinovo": "Herstellungs- und Wiederverkaufsdienstleistungen"
       }
     },
     "fr": {
@@ -377,14 +430,14 @@
         "segments": [
           "Fabriqué à la main à partir de bois d'olivier — chaque pièce est unique",
           "Livraison en Croatie",
-          "Jusqu'à 200 articles soigneusement sélectionnés sont proposés",
-          "Cadeau avec commande de plus de 150 € ( démo)"
+          "Une collection d'articles soigneusement sélectionnés",
+          "Cadeau avec commande de plus de 150 €"
         ]
       },
       "home": {
         "eyebrow": "Bois d'olivier · fait à la main",
         "heroTitle": "Objets uniques en bois d'olivier",
-        "heroLede": "Chaque pièce est différente : la chaleur du bois, les veines naturelles et le travail artisanal. Un choix pour la maison, la cuisine et un cadeau qui dure.",
+        "heroLede": "L'unicité, la chaleur et la beauté de l'olive sont tissées dans chacune de nos œuvres. Nous fabriquons à la main les plus belles choses de la nature, en créant des décorations qui donnent à votre espace un caractère spécial.",
         "ctaPrimary": "Afficher les points forts",
         "ctaSecondary": "Tous les articles",
         "sectionRecentTitle": "Éléments en vedette",
@@ -393,8 +446,8 @@
         "sectionMoreLink": "Catalogue complet",
         "storyEyebrow": "- Notre histoire.",
         "storyTitle": "Pourquoi olivier",
-        "storyP1": "Le bois d'olivier conserve longtemps sa beauté et résiste à un usage quotidien. Nous travaillons avec du bois et de l'artisanat locaux pour préserver le motif naturel et le caractère de chaque pièce.",
-        "storyP2": "Nous nous spécialisons dans les articles uniques pour la maison et la cuisine — des lampes et des bols aux petits ustensiles. Vous pouvez nous contacter pour des personnalisations ou des commandes plus importantes.",
+        "storyP1": "Nos produits sont conçus pour durer – les olives conservent leur beauté pendant des années, même avec une utilisation quotidienne. Nous travaillons exclusivement avec du bois fait maison que nous traitons à la main, en veillant à ce que chaque détail naturel soit préservé dans toute sa splendeur.",
+        "storyP2": "Nous nous spécialisons dans la fabrication d'articles uniques pour la maison et la cuisine – des lampes et des bols ambiants aux petits ustensiles sophistiqués. Nous choisissons le bois d'olivier pour sa longévité et sa résistance, et le travail avec des matériaux locaux et le traitement manuel nous permettent de préserver le motif naturel et le caractère de chaque pièce. Avec notre touche, le bois prend une nouvelle dimension, apportant la chaleur et la beauté de la nature dans votre espace. Nous sommes ouverts à tous vos souhaits, personnalisations et commandes plus importantes",
         "storyButton": "En savoir plus sur nous",
         "reviewsTitle": "Ce que disent les clients",
         "ctaTitle": "Actualités et offres",
@@ -410,7 +463,7 @@
           "location": "ZAGREB"
         },
         {
-          "quote": "Le bol est exactement ce que je cherchais : une couleur bois chaude et un motif veineux unique."
+          "quote": "Le bol est exactement ce que je cherchais : une couleur bois chaude et un motif God unique."
         },
         {
           "quote": "Livraison rapide, comme sur la photo. Merci !",
@@ -427,7 +480,6 @@
         }
       ],
       "footer": {
-        "brand": "Art en bois d'olivier par Ivan",
         "muted": "Objets uniques en bois d'olivier provenant des oliveraies de Lun, île de Pag. Fait à la main. Contactez-nous pour toute question ou commande.",
         "copyright": "Art sur bois d'olivier",
         "shopHeading": "Commerce",
@@ -439,7 +491,7 @@
         "editor": "Modifier la page"
       },
       "cart": {
-        "giftTitle": "Petit pendentif en bois (cadeau de démonstration)",
+        "giftTitle": "Petit pendentif en bois",
         "giftEligible": "Félicitations, vous avez terminé votre démo de {{gift}}.",
         "giftBelow": "Cadeau de démonstration pour les commandes de plus de {{amount}}.",
         "drawerTitle": "Panne",
@@ -506,10 +558,10 @@
       },
       "about": {
         "eyebrow": "- A notre propos.",
-        "title": "Illustration sur bois d'olivier par Lu",
-        "p1": "Nous sommes engagés dans la production et la vente d'articles uniques en bois d'olivier provenant des oliveraies Lun — une réserve botanique sur l'île de Pag, l'un des trois sites de ce type dans le monde. Le bois d'olivier est dense, durable et chaque pièce a son propre motif de veine, il n'y en a donc pas deux identiques.",
+        "title": "Art sur bois d'olivier",
+        "p1": "Dans chaque morceau de notre Oblica, un morceau d'histoire de l'île de Pag est tissé. En utilisant du bois provenant de la réserve botanique des oliveraies de Lun, l'un des trois endroits de ce type dans le monde, nous créons des objets qui durent des générations. Une densité incroyable et des motifs uniques font de chacune de nos lampes ou bols une œuvre de la nature. Apportez à votre espace l'énergie des arbres qui ont défié la tempête et le soleil pendant des siècles.",
         "p2": "Notre objectif est de combiner la fonctionnalité (cuisine, table, cadeau) avec la chaleur d'un matériau naturel. Si vous avez besoin d'une plus grande quantité, d'un design spécial ou d'une collaboration, veuillez nous contacter via la page Contact.",
-        "p3": "Ce site Web est un modèle de magasin : vous pouvez modifier des textes et des images dans l'éditeur intégré ou dans le code source.",
+        "p3": "Notre marque porte le nom de la Forme, la reine de nos oliveraies. Cette variété autochtone est appréciée dans le Littoral pour sa croissance luxuriante et ses gros fruits, mais pour nous, c'est la matière parfaite. Sa résistance à la sécheresse et au froid et sa structure en bois solide le rendent idéal pour le traitement. Des feuilles vert foncé caractéristiques et une canopée dense et sphérique que nous taillons soigneusement nous donnent un arbre de haute qualité à partir duquel nous façonnons manuellement vos objets uniques.",
         "cta": "Au magasin qui vend des semences."
       },
       "contact": {
@@ -537,7 +589,7 @@
         "stalci-za-case": "Barque !",
         "satovi": "Plateaux,plateaux, etc.",
         "pladnjevi-posluzavnici": "Autre unique",
-        "ostalo-maslinovo": "Services de production de revente"
+        "ostalo-maslinovo": "Services de fabrication et de revente"
       }
     },
     "it": {
@@ -560,14 +612,14 @@
         "segments": [
           "Realizzato a mano in legno di ulivo — ogni pezzo è unico",
           "Consegna in Croazia",
-          "Fino a 200 articoli accuratamente selezionati in offerta",
-          "Regalo con ordine superiore a €150 (demo)"
+          "Una collezione di articoli accuratamente selezionati",
+          "Regalo con ordine superiore a €150"
         ]
       },
       "home": {
         "eyebrow": "Legno di ulivo · fatto a mano",
         "heroTitle": "Oggetti unici in legno di ulivo",
-        "heroLede": "Ogni pezzo è diverso: il calore del legno, le venature naturali e il lavoro artigianale. Una scelta per la casa, la cucina e un regalo che dura nel tempo.",
+        "heroLede": "L'unicità, il calore e la bellezza dell'oliva si intrecciano in ogni nostro lavoro. Realizziamo a mano le cose più belle della natura, creando decorazioni che donano al tuo spazio un carattere speciale.",
         "ctaPrimary": "Visualizza i punti salienti",
         "ctaSecondary": "Tutti gli articoli",
         "sectionRecentTitle": "Articoli in evidenza",
@@ -576,8 +628,8 @@
         "sectionMoreLink": "Catalogo completo",
         "storyEyebrow": "la nostra storia",
         "storyTitle": "Perché l'olivo",
-        "storyP1": "Il legno di ulivo conserva a lungo la sua bellezza ed è resistente all'uso quotidiano. Lavoriamo con legno locale e artigianato per preservare il motivo naturale e il carattere di ogni pezzo.",
-        "storyP2": "Siamo specializzati in oggetti unici per la casa e la cucina — da lampade e ciotole a piccoli utensili. Puoi contattarci per personalizzazioni o ordini più grandi.",
+        "storyP1": "I nostri prodotti sono progettati per durare nel tempo: le olive mantengono la loro bellezza per anni, anche con l'uso quotidiano. Lavoriamo esclusivamente legno fatto in casa che lavoriamo a mano, facendo in modo che ogni dettaglio naturale sia preservato nel suo pieno splendore.",
+        "storyP2": "Siamo specializzati nella realizzazione di oggetti unici per la casa e la cucina, da lampade e ciotole a sofisticati piccoli utensili. Scegliamo il legno di ulivo per la sua longevità e resistenza, e la lavorazione con materiali locali e la lavorazione manuale ci permettono di preservare il motivo naturale e il carattere di ogni pezzo. Con il nostro tocco, il legno assume una nuova dimensione, portando il calore e la bellezza della natura nel tuo spazio. Siamo aperti a tutti i tuoi desideri, personalizzazioni e ordini più grandi",
         "storyButton": "Scopri di più su di noi",
         "reviewsTitle": "Cosa dicono i clienti",
         "ctaTitle": "Novità e offerte",
@@ -593,7 +645,7 @@
           "location": "Zagabria"
         },
         {
-          "quote": "La ciotola è esattamente quello che stavo cercando: un caldo colore del legno e una venatura unica.",
+          "quote": "La ciotola è esattamente quello che stavo cercando: un caldo colore del legno e un motivo unico di Dio.",
           "location": "Spalato"
         },
         {
@@ -613,7 +665,6 @@
         }
       ],
       "footer": {
-        "brand": "Arte in legno di ulivo di Ivan",
         "muted": "Oggetti unici in legno di ulivo provenienti dagli uliveti di Lun, isola di Pag. Fatto a mano. Contattaci per domande e ordini.",
         "copyright": "Arte del legno d'ulivo",
         "shopHeading": "Supermercato",
@@ -625,7 +676,7 @@
         "editor": "Modifica pagina"
       },
       "cart": {
-        "giftTitle": "Piccolo ciondolo in legno (omaggio demo)",
+        "giftTitle": "Piccolo ciondolo in legno",
         "giftEligible": "Congratulazioni per aver completato la tua demo {{gift}}.",
         "giftBelow": "Regalo dimostrativo con ordini superiori a {{amount}}.",
         "drawerTitle": "Carrello",
@@ -691,10 +742,10 @@
       },
       "about": {
         "eyebrow": "Chi siamo",
-        "title": "Arte in legno di ulivo di Lu",
-        "p1": "Ci occupiamo della produzione e della vendita di articoli unici realizzati in legno di ulivo proveniente dagli uliveti di Lun, una riserva botanica sull'isola di Pag, uno dei tre siti di questo tipo al mondo. Il legno di ulivo è denso, di lunga durata e ogni pezzo ha il suo motivo a vena, quindi non ce ne sono due uguali.",
+        "title": "Arte del legno d'ulivo",
+        "p1": "In ogni pezzo della nostra Oblica si intreccia un pezzo di storia dell'isola di Pag. Usando il legno della riserva botanica degli uliveti di Lun, uno dei tre luoghi al mondo, creiamo oggetti che durano per generazioni. Densità incredibile e motivi unici rendono ognuna delle nostre lampade o ciotole un'opera della natura. Porta nel tuo spazio l'energia degli alberi che hanno sfidato la tempesta e il sole per secoli.",
         "p2": "Il nostro obiettivo è coniugare la funzionalità (cucina, tavola, regalo) con il calore di un materiale naturale. Se hai bisogno di una quantità maggiore, di un design speciale o di una collaborazione, ti preghiamo di contattarci tramite la pagina Contatti.",
-        "p3": "Questo sito web è un modello di negozio: puoi modificare testi e immagini nell'editor integrato o nel codice sorgente.",
+        "p3": "Il nostro marchio prende il nome dalla Forma, la regina dei nostri oliveti. Questa varietà autoctona è apprezzata nel Litorale per la sua crescita rigogliosa e i grandi frutti, ma per noi è il materiale perfetto. La sua resistenza alla siccità e al freddo e la robusta struttura in legno lo rendono ideale per la lavorazione. Caratteristiche foglie verde scuro e un fitto baldacchino sferico che potiamo con cura, ci danno un albero di alta qualità da cui modelliamo manualmente i tuoi oggetti unici.",
         "cta": "Al negozio"
       },
       "contact": {
@@ -722,7 +773,7 @@
         "stalci-za-case": "Orologi",
         "satovi": "Vassoi,vassoi, ecc.",
         "pladnjevi-posluzavnici": "Altro unico",
-        "ostalo-maslinovo": "Servizi di produzione rivendita"
+        "ostalo-maslinovo": "Servizi di produzione e rivendita"
       }
     },
     "sl": {
@@ -744,14 +795,14 @@
         "segments": [
           "Ročno izdelano iz oljčnega lesa — vsak kos je unikaten",
           "Dostava znotraj Hrvaške",
-          "V ponudbi do 200 skrbno izbranih artiklov",
-          "Darilo z naročilom nad 150 € (demo)"
+          "Zbirka skrbno izbranih artiklov",
+          "Darilo z naročilom nad 150 €"
         ]
       },
       "home": {
         "eyebrow": "Oljčni les · ročno izdelan",
         "heroTitle": "Unikatni predmeti iz oljčnega lesa",
-        "heroLede": "Vsak kos je drugačen — toplina lesa, naravne žile in obrtniško delo. Izbira za dom, kuhinjo in darilo, ki traja.",
+        "heroLede": "Edinstvenost, toplina in lepota oljk so vtkane v vsako naše delo. Ročno izdelujemo najlepše stvari iz narave in ustvarjamo okraske, ki dajejo vašemu prostoru poseben značaj.",
         "ctaPrimary": "Prikaži posebnosti",
         "ctaSecondary": "Vsi artikli",
         "sectionRecentTitle": "Izpostavljeni elementi",
@@ -760,8 +811,8 @@
         "sectionMoreLink": "Celoten katalog",
         "storyEyebrow": "Naša zgodba",
         "storyTitle": "Zakaj oljka",
-        "storyP1": "Oljčni les dolgo časa ohranja svojo lepoto in je odporen na vsakodnevno uporabo. Delamo z lokalnim lesom in obrtjo, da ohranimo naravni vzorec in značaj vsakega kosa.",
-        "storyP2": "Specializirani smo za unikatne predmete za dom in kuhinjo — od svetilk in skled do majhnih pripomočkov. Za prilagoditve ali večja naročila se lahko obrnete na nas.",
+        "storyP1": "Naši izdelki so zasnovani tako, da trajajo – oljke ohranjajo svojo lepoto več let, tudi ob vsakodnevni uporabi. Delamo izključno z domačim lesom, ki ga obdelujemo ročno, pri čemer pazimo, da je vsaka naravna podrobnost ohranjena v polnem sijaju.",
+        "storyP2": "Specializirani smo za izdelavo unikatnih predmetov za dom in kuhinjo – od ambientalnih svetilk in skled do prefinjenih manjših pripomočkov. Izberemo oljčni les zaradi njegove dolgoživosti in odpornosti, delo z lokalnim materialom in ročna obdelava pa nam omogočata, da ohranimo naravni vzorec in značaj vsakega kosa. Z našim dotikom les dobi novo dimenzijo in v vaš prostor prinese toplino in lepoto narave. Odprti smo za vse vaše želje, prilagoditve in večja naročila",
         "storyButton": "Več o nas",
         "reviewsTitle": "Kaj pravijo stranke",
         "ctaTitle": "Novice in ponudbe",
@@ -775,7 +826,7 @@
           "author": "Anna M."
         },
         {
-          "quote": "Skleda je točno to, kar sem iskala — topla barva lesa in edinstven vzorec žil."
+          "quote": "Skleda je točno to, kar sem iskala — topla barva lesa in unikaten God vzorec."
         },
         {
           "quote": "Hitra dostava, tako kot na sliki. Hvala!"
@@ -794,7 +845,6 @@
         }
       ],
       "footer": {
-        "brand": "Umetnost iz oljčnega lesa Ivana",
         "muted": "Unikatni predmeti iz oljčnega lesa iz lunskih oljčnih nasadov na otoku Pagu. Ročno izdelano. Za vprašanja in naročila nas kontaktirajte.",
         "copyright": "Umetnost iz oljčnega lesa",
         "shopHeading": "Shop",
@@ -804,7 +854,7 @@
         "editor": "Uredi stran"
       },
       "cart": {
-        "giftTitle": "Majhen lesen obesek (demo darilo)",
+        "giftTitle": "Majhen lesen obesek",
         "giftEligible": "Čestitamo za dokončanje predstavitve {{gift}}.",
         "giftBelow": "Demo darilo z naročili nad {{amount}}.",
         "drawerTitle": "Košarica -",
@@ -864,10 +914,10 @@
       },
       "about": {
         "eyebrow": "O nas",
-        "title": "Umetnost iz oljčnega lesa Lu",
-        "p1": "Ukvarjamo se s proizvodnjo in prodajo unikatnih predmetov iz oljčnega lesa iz lunskih oljčnih nasadov — botaničnega rezervata na otoku Pagu, enega od treh tovrstnih lokacij na svetu. Oljčni les je gost, dolgotrajen in vsak kos ima svoj vzorec žil, zato nobena dva nista enaka.",
+        "title": "Umetnost iz oljčnega lesa",
+        "p1": "V vsakem koščku naše Oblice je vtkan košček zgodovine otoka Paga. Z lesom iz botaničnega rezervata Lunjskih oljčnih nasadov, enega od treh takih krajev na svetu, ustvarjamo predmete, ki trajajo več generacij. Zaradi neverjetne gostote in edinstvenih vzorcev je vsaka naša svetilka ali skleda naravno delo. V svoj prostor prinesite energijo dreves, ki že stoletja kljubujejo nevihti in soncu.",
         "p2": "Naš cilj je združiti funkcionalnost (kuhinja, miza, darilo) s toplino naravnega materiala. Če potrebujete večjo količino, poseben dizajn ali sodelovanje, se obrnite na nas preko Kontaktne strani.",
-        "p3": "Ta spletna stran je predloga trgovine: besedila in slike lahko urejate v vgrajenem urejevalniku ali v izvorni kodi.",
+        "p3": "Naša blagovna znamka je poimenovana po Shape, kraljici naših oljčnih nasadov. Ta avtohtona sorta je na Primorskem cenjena zaradi bujne rasti in velikega sadja, za nas pa je popoln material. Zaradi svoje odpornosti proti suši in mrazu ter močne lesene strukture je idealen za predelavo. Značilni temno zeleni listi in gosta, okrogla kroglasta krošnja, ki jo skrbno obrezujemo, nam dajo visokokakovostno drevo, iz katerega ročno oblikujemo vaše unikatne predmete.",
         "cta": "V trgovino"
       },
       "contact": {
@@ -894,7 +944,7 @@
         "stalci-za-case": "Ure",
         "satovi": "Pladnji,pladnji itd.",
         "pladnjevi-posluzavnici": "Drugi unikatni",
-        "ostalo-maslinovo": "Preprodajne proizvodne storitve"
+        "ostalo-maslinovo": "Proizvodne in preprodajne storitve"
       }
     },
     "pl": {
@@ -916,14 +966,14 @@
         "segments": [
           "Ręcznie robione z drewna oliwnego — każdy element jest wyjątkowy",
           "Dostawa na terenie Chorwacji",
-          "Do 200 starannie wyselekcjonowanych produktów w ofercie",
-          "Prezent przy zamówieniu powyżej 150 € (demo)"
+          "Kolekcja starannie wyselekcjonowanych przedmiotów",
+          "Prezent przy zamówieniu powyżej 150 €"
         ]
       },
       "home": {
         "eyebrow": "Drewno oliwne · ręcznie robione",
         "heroTitle": "Wyjątkowe przedmioty z drewna oliwnego",
-        "heroLede": "Każda sztuka jest inna — ciepło drewna, naturalne żyły i dzieło rzemieślnicze. Wybór dla domu, kuchni i trwałego prezentu.",
+        "heroLede": "Wyjątkowość, ciepło i piękno oliwek są wplecione w każdą z naszych prac. Wykonujemy ręcznie najpiękniejsze rzeczy z natury, tworząc dekoracje, które nadadzą Twojej przestrzeni wyjątkowego charakteru.",
         "ctaPrimary": "Zobacz najciekawsze",
         "ctaSecondary": "Wszystkie pozycje",
         "sectionRecentTitle": "Wyróżnione elementy",
@@ -932,8 +982,8 @@
         "sectionMoreLink": "Pełny katalog",
         "storyEyebrow": "Nasza historia",
         "storyTitle": "Dlaczego drzewo oliwne",
-        "storyP1": "Drewno oliwne długo zachowuje urodę i jest odporne na codzienne użytkowanie. Współpracujemy z lokalnym drewnem i rękodziełem, aby zachować naturalny wzór i charakter każdego elementu.",
-        "storyP2": "Specjalizujemy się w unikalnych przedmiotach do domu i kuchni — od lamp i misek po drobne przybory. Możesz skontaktować się z nami w sprawie personalizacji lub większych zamówień.",
+        "storyP1": "Nasze produkty są zaprojektowane tak, aby były trwałe – oliwki zachowują swoje piękno przez lata, nawet przy codziennym użytkowaniu. Pracujemy wyłącznie z domowym drewnem, które przetwarzamy ręcznie, dbając o to, aby każdy naturalny detal zachował się w swoim pełnym przepychu.",
+        "storyP2": "Specjalizujemy się w wykonywaniu unikalnych przedmiotów do domu i kuchni – od lamp i misek ambientowych po wyrafinowane drobne przybory. Wybieramy drewno oliwne ze względu na jego trwałość i odporność, a praca z lokalnym materiałem i obróbka ręczna pozwalają nam zachować naturalny wzór i charakter każdego elementu. Dzięki naszemu dotykowi drewno nabiera nowego wymiaru, wnosząc ciepło i piękno natury do Twojej przestrzeni. Jesteśmy otwarci na wszystkie Twoje życzenia, dostosowania i większe zamówienia",
         "storyButton": "Więcej o nas...",
         "reviewsTitle": "Co mówią klienci",
         "ctaTitle": "Aktualności i oferty",
@@ -949,7 +999,7 @@
           "location": "Zagrzeb"
         },
         {
-          "quote": "Miska jest dokładnie tym, czego szukałem — ciepłym kolorem drewna i unikalnym wzorem żył.",
+          "quote": "Miska jest dokładnie tym, czego szukałem — ciepłym kolorem drewna i unikalnym wzorem Boga.",
           "location": "Kozienice"
         },
         {
@@ -967,7 +1017,6 @@
         }
       ],
       "footer": {
-        "brand": "Sztuka z drewna oliwnego autorstwa Ivana",
         "muted": "Wyjątkowe przedmioty wykonane z drewna oliwnego z gajów oliwnych Lun, wyspa Pag. Ręcznie robione. Skontaktuj się z nami w przypadku pytań i zamówień.",
         "copyright": "Drewno oliwne",
         "shopHeading": "pośrednictwo handlowe (merchanting)",
@@ -978,7 +1027,7 @@
         "editor": "Edytuj stronę"
       },
       "cart": {
-        "giftTitle": "Mały drewniany wisiorek (prezent demonstracyjny)",
+        "giftTitle": "Mały drewniany wisiorek",
         "giftEligible": "Gratulujemy ukończenia demonstracji {{gift}}.",
         "giftBelow": "Prezent demonstracyjny z zamówieniami powyżej {{amount}}.",
         "drawerTitle": "Koszyk",
@@ -1043,10 +1092,10 @@
       },
       "about": {
         "eyebrow": "O nas",
-        "title": "Sztuka z drewna oliwnego autorstwa Lu",
-        "p1": "Zajmujemy się produkcją i sprzedażą unikatowych przedmiotów wykonanych z drewna oliwnego z gajów oliwnych Lun — rezerwatu botanicznego na wyspie Pag, jednym z trzech takich miejsc na świecie. Drewno oliwne jest gęste, trwałe, a każdy kawałek ma swój własny wzór żył, więc nie ma dwóch takich samych.",
+        "title": "Drewno oliwne",
+        "p1": "W każdym kawałku naszej Oblicy tkany jest kawałek historii z wyspy Pag. Wykorzystując drewno z rezerwatu botanicznego gajów oliwnych Lun, jednego z trzech takich miejsc na świecie, tworzymy obiekty, które trwają przez pokolenia. Niesamowita gęstość i niepowtarzalne wzory sprawiają, że każda z naszych lamp czy misek jest dziełem natury. Wnieś do swojej przestrzeni energię drzew, które przez wieki przeciwstawiały się burzy i słońcu.",
         "p2": "Naszym celem jest połączenie funkcjonalności (kuchnia, stół, prezent) z ciepłem naturalnego materiału. Jeśli potrzebujesz większej ilości, specjalnego projektu lub współpracy, skontaktuj się z nami za pośrednictwem strony Kontakt.",
-        "p3": "Ta strona internetowa jest szablonem sklepu: możesz edytować teksty i obrazy we wbudowanym edytorze lub w kodzie źródłowym.",
+        "p3": "Nasza marka została nazwana na cześć Shape, królowej naszych gajów oliwnych. Ta autochtoniczna odmiana jest ceniona w Littoral za bujny wzrost i duże owoce, ale dla nas jest idealnym materiałem. Jego odporność na suszę i zimno oraz mocna drewniana struktura sprawiają, że idealnie nadaje się do obróbki. Charakterystyczne ciemnozielone liście i gęsty, kulisty baldachim, który starannie przycinamy, dają nam wysokiej jakości drzewo, z którego ręcznie kształtujemy Twoje wyjątkowe obiekty.",
         "cta": "Do sklepu"
       },
       "contact": {
@@ -1073,7 +1122,7 @@
         "stalci-za-case": "Zegarki",
         "satovi": "Tace,tace itp.",
         "pladnjevi-posluzavnici": "Inne wyjątkowe",
-        "ostalo-maslinovo": "Usługi produkcji odsprzedaży"
+        "ostalo-maslinovo": "Usługi produkcyjne i odsprzedażowe"
       }
     },
     "cs": {
@@ -1095,14 +1144,14 @@
         "segments": [
           "Ručně vyrobené z olivového dřeva — každý kus je jedinečný",
           "Doručení v rámci Chorvatska",
-          "Až 200 pečlivě vybraných položek v nabídce",
-          "Dárek k objednávce nad 150 € (demo)"
+          "Kolekce pečlivě vybraných položek",
+          "Dárek k objednávce nad 150 €"
         ]
       },
       "home": {
         "eyebrow": "Olivové dřevo · ruční práce",
         "heroTitle": "Jedinečné předměty z olivového dřeva",
-        "heroLede": "Každý kus je jiný — teplo dřeva, přírodní žíly a řemeslná práce. Volba domova, kuchyně a dárek, který vydrží.",
+        "heroLede": "Jedinečnost, teplo a krása oliv jsou vetkány do každé naší práce. Ručně vyrábíme ty nejkrásnější věci z přírody a vytváříme dekorace, které dodají vašemu prostoru zvláštní charakter.",
         "ctaPrimary": "Zobrazit nejzajímavější body",
         "ctaSecondary": "Všechny položky",
         "sectionRecentTitle": "Doporučené položky",
@@ -1111,8 +1160,8 @@
         "sectionMoreLink": "Úplný katalog",
         "storyEyebrow": "Náš příběh",
         "storyTitle": "Proč olivovník",
-        "storyP1": "Olivové dřevo si zachovává svou krásu po dlouhou dobu a je odolné vůči každodennímu použití. Pracujeme s místním dřevem a řemeslnými výrobky, abychom zachovali přirozený vzor a charakter každého kusu.",
-        "storyP2": "Specializujeme se na jedinečné předměty pro domácnost a kuchyni — od lamp a misek až po malé nádobí. Můžete nás kontaktovat pro přizpůsobení nebo větší objednávky.",
+        "storyP1": "Naše produkty jsou navrženy tak, aby vydržely – olivy si zachovávají svou krásu po celá léta, a to i při každodenním používání. Pracujeme výhradně s domácím dřevem, které zpracováváme ručně, a dbáme na to, aby byl každý přírodní detail zachován v plné kráse.",
+        "storyP2": "Specializujeme se na výrobu jedinečných předmětů pro domácnost a kuchyni – od ambientních lamp a misek až po sofistikované malé nádobí. Vybíráme olivové dřevo pro jeho dlouhou životnost a odolnost a práce s místním materiálem a ruční zpracování nám umožňují zachovat přirozený vzor a charakter každého kusu. Díky našemu doteku dostává dřevo novou dimenzi a přináší do vašeho prostoru teplo a krásu přírody. Jsme otevřeni všem vašim přáním, úpravám a větším objednávkám",
         "storyButton": "Více o nás",
         "reviewsTitle": "Co říkají zákazníci",
         "ctaTitle": "Novinky a nabídky",
@@ -1128,7 +1177,7 @@
           "location": "Záhřeb"
         },
         {
-          "quote": "Mísa je přesně to, co jsem hledala — teplá barva dřeva a jedinečný vzor žíly."
+          "quote": "Mísa je přesně to, co jsem hledala — teplá barva dřeva a jedinečný vzor God."
         },
         {
           "quote": "Rychlé dodání, stejně jako na obrázku. Díky!",
@@ -1145,7 +1194,6 @@
         }
       ],
       "footer": {
-        "brand": "Umění olivového dřeva od Ivana",
         "muted": "Unikátní předměty z olivového dřeva z olivových hájů Lun na ostrově Pag. Ruční práce. Kontaktujte nás pro dotazy a objednávky.",
         "copyright": "Umění olivového dřeva",
         "shopHeading": "Obchod",
@@ -1156,50 +1204,99 @@
         "editor": "Upravit stránku"
       },
       "cart": {
-        "giftTitle": "Malý dřevěný přívěsek (ukázkový dárek)"
+        "giftTitle": "Malý dřevěný přívěsek",
+        "giftEligible": "Gratulujeme k dokončení ukázky {{gift}}.",
+        "giftBelow": "Demo dárek k objednávkám nad {{amount}}.",
+        "drawerTitle": "Košík",
+        "emptyMessage": "Váš nákupní košík je prázdný.",
+        "checkoutButton": "Fakturace",
+        "clearButton": "Prázdný košík",
+        "subtotalLabel": "Mezisoučet",
+        "eachSuffix": "za kus",
+        "removeButton": "Odstranit",
+        "decreaseQtyAria": "Snížit množství",
+        "increaseQtyAria": "Zvýšit množství",
+        "closeCartAria": "Zavřít košík"
       },
       "checkout": {
-        "emailLabel": "Poštovní účet"
+        "pageTitle": "Fakturace",
+        "pageNote": "Demo objednávka: Vyplňte informace a odešlete pro simulaci nákupu. Platba není propojena.",
+        "emptyTitle": "Fakturace",
+        "emptyMessage": "Váš nákupní košík je prázdný.",
+        "browseButton": "Procházet položky",
+        "successTitle": "Děkujeme — demo objednávka přijata",
+        "successText": "Vaše platba nebyla zpracována. Pro vytvoření prosím připojte Stripe, PayPal nebo podobný systém.",
+        "continueButton": "Zpět do obchodu",
+        "shippingLegend": "Dopravné",
+        "emailLabel": "Poštovní účet",
+        "nameLabel": "Jméno a příjmení",
+        "cityLabel": "Velkoměsto",
+        "zipLabel": "PSČ",
+        "countryLabel": "Země",
+        "submitButton": "Odeslat demo objednávku",
+        "summaryTitle": "Přehled objednávek",
+        "giftIncluded": "Demo dárek v ceně (limit objednávky splněn)."
+      },
+      "blog": {
+        "pageIntro": "Zde můžete zveřejnit tipy na péči o stromy, aktualizace workshopů a příběhy řemeslníků.",
+        "backHome": "Zpět na domovskou stránku"
+      },
+      "product": {
+        "addToCart": "Přidat do košíku",
+        "soldOut": "Vyprodáno",
+        "soldOutShort": "Není skladem",
+        "fact1": "Doručení v rámci Chorvatska (demo)",
+        "fact2": "Doporučené jemné olejování dřeva před prvním použitím",
+        "fact3": "Vrácení peněz: úprava podmínek pro obchodníky",
+        "collectionsFallback": "O",
+        "imageThumb": "Obrázek {{n}}",
+        "notFoundTitle": "Položka nenalezena",
+        "notFoundLink": "Zpět do obchodu"
       },
       "shop": {
-        "title": "Všechny položky"
+        "eyebrow": "Glosář",
+        "title": "Všechny položky",
+        "searchIntro": "Hledat „{{query}}“:",
+        "oneResult": "Výsledek",
+        "manyResults": "výsledky",
+        "ledeDefault": "Až 200 unikátních položek z olivového dřeva ve třinácti kategoriích. Obrázky jsou příklady (Unsplash); ve výrobě je nahraďte vlastními fotografiemi."
+      },
+      "collection": {
+        "notFoundTitle": "Kolekce nenalezena",
+        "notFoundLink": "Zobrazit všechny položky",
+        "heroEyebrow": "Kolekce",
+        "empty": "V této sbírce momentálně nejsou žádné položky."
       },
       "about": {
-        "eyebrow": "O nás"
+        "eyebrow": "O nás",
+        "title": "Umění olivového dřeva",
+        "p2": "Naším cílem je spojit funkčnost (kuchyň, stůl, dárek) s teplem přírodního materiálu. Pokud potřebujete větší množství, speciální design nebo spolupráci, kontaktujte nás prostřednictvím stránky Kontakt.",
+        "cta": "Do obchodu"
+      },
+      "contact": {
+        "p1": "Pokud máte dotazy týkající se položek, objednávek nebo spolupráce, nahraďte tento text svou e-mailovou adresou, telefonem nebo formuláři používanými ve výrobě.",
+        "linkShop": "Zpět do obchodu"
+      },
+      "notFound": {
+        "title": "Stránka nenalezena",
+        "linkHome": "Na domovskou stránku"
       },
       "layout": {
         "editorLauncher": "Upravit stránku"
-      }
-    },
-    "hr": {
+      },
       "categories": {
-        "stolne-lampe": "Zdjele za voće velike",
-        "zdjele-za-voce": "Srednje i manje zdjele i zdjelice",
-        "zdjelice-srednje": "Mužari i ostali predmeti za kuhinju",
-        "zdjelice-male": "Kuhače,žlice itd..",
-        "daske": "Daske",
-        "kuhace": "Stalci,nosači i sl.",
-        "kuhinjski-pribor": "Kuhinjski pribor",
-        "kutijice": "Kutijice,ukrasi,otvarači itd..",
-        "svijecnjaci": "Svijećnjaci,rubnici,dekoracija",
-        "stalci-za-case": "Satovi",
-        "satovi": "Pladnjevi,poslužavnici i slično",
-        "pladnjevi-posluzavnici": "Ostali unikati",
-        "ostalo-maslinovo": "Usluge izrade daljnja prodaja"
-      },
-      "home": {
-        "newsletterPlaceholder": "possistemilovran@gmail.com",
-        "newsletterDemoAlert": "Nema slanja podataka. Povežite newsletter kasnije."
-      },
-      "footer": {
-        "brand": "Olive wood art by Ivan",
-        "copyright": "Olive wood Art"
-      },
-      "product": {
-        "collectionsFallback": "o"
-      },
-      "about": {
-        "title": "Olive wood art by Lu"
+        "stolne-lampe": "Velké misky na ovoce",
+        "zdjele-za-voce": "Střední a malé misky a misky",
+        "zdjelice-srednje": "Manželé a ostatní kuchyňské potřeby",
+        "zdjelice-male": "Lžíce,lžíce atd.",
+        "daske": "Tabule",
+        "kuhace": "Stojany,držáky atd.",
+        "kuhinjski-pribor": "Kuchyňské nádobí",
+        "kutijice": "Krabice,ozdoby,otvíráky atd.",
+        "svijecnjaci": "Svíčky,obrubníky,dekorace",
+        "stalci-za-case": "Hodinky",
+        "satovi": "Zásobníky,podnosy atd.",
+        "pladnjevi-posluzavnici": "Jiné jedinečné"
       }
     }
   }

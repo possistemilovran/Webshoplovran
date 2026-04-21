@@ -125,9 +125,9 @@
     }
   ],
   "footer": {
-    "brand": "Olivo Unikat",
+    "brand": "Radionica Lun",
     "muted": "Olive wood pieces, handmade. Contact us for questions and orders.",
-    "copyright": "Olivo Unikat",
+    "copyright": "Radionica Lun",
     "shopHeading": "Shop",
     "aboutHeading": "Information",
     "linkLamps": "Table lamps",
@@ -184,7 +184,7 @@
     "fact1": "Shipping within Croatia (demo)",
     "fact2": "Light oiling recommended before first use",
     "fact3": "Returns: set your shop policy",
-    "collectionsFallback": "Olivo Unikat",
+    "collectionsFallback": "Radionica Lun",
     "imageThumb": "Image {{n}}",
     "notFoundTitle": "Product not found",
     "notFoundLink": "Back to shop",
@@ -210,7 +210,7 @@
   },
   "about": {
     "eyebrow": "About us",
-    "title": "Olivo Unikat",
+    "title": "Radionica Lun",
     "p1": "We make and sell unique olive wood pieces — from lighting and tableware to small kitchen accessories and décor. Olive wood is dense and durable, and every piece has its own grain, so no two are alike.",
     "p2": "We aim to combine function (kitchen, table, gifts) with the warmth of natural material. For larger quantities, custom designs, or collaboration, use the Contact page.",
     "p3": "This site is a shop template: you can change text and images in the built‑in editor or in the source code.",

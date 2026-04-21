@@ -92,9 +92,9 @@
     { "quote": "Uso i taglieri ogni giorno, legno resistente.", "author": "Maja S.", "location": "Pola" }
   ],
   "footer": {
-    "brand": "Olivo Unikat",
+    "brand": "Radionica Lun",
     "muted": "Pezzi in legno d’ulivo, fatti a mano. Contatti per ordini e domande.",
-    "copyright": "Olivo Unikat",
+    "copyright": "Radionica Lun",
     "shopHeading": "Negozio",
     "aboutHeading": "Informazioni",
     "linkLamps": "Lampade da tavolo",
@@ -151,7 +151,7 @@
     "fact1": "Spedizione in Croazia (demo)",
     "fact2": "Oliare leggermente prima del primo uso",
     "fact3": "Resi: imposta la policy del negozio",
-    "collectionsFallback": "Olivo Unikat",
+    "collectionsFallback": "Radionica Lun",
     "imageThumb": "Immagine {{n}}",
     "notFoundTitle": "Articolo non trovato",
     "notFoundLink": "Torna al negozio",
@@ -177,7 +177,7 @@
   },
   "about": {
     "eyebrow": "Chi siamo",
-    "title": "Olivo Unikat",
+    "title": "Radionica Lun",
     "p1": "Realizziamo e vendiamo pezzi unici in legno d’ulivo — illuminazione, stoviglie e accessori.",
     "p2": "Uniamo funzione e materiale naturale. Per volumi o personalizzazioni: pagina Contatti.",
     "p3": "Sito modello — testi e immagini modificabili nell’editor o nel codice.",

@@ -92,9 +92,9 @@
     { "quote": "Desek używam codziennie, solidne drewno.", "author": "Maja S.", "location": "Pula" }
   ],
   "footer": {
-    "brand": "Olivo Unikat",
+    "brand": "Radionica Lun",
     "muted": "Przedmioty z drewna oliwnego, ręcznie robione. Kontakt w sprawie zamówień.",
-    "copyright": "Olivo Unikat",
+    "copyright": "Radionica Lun",
     "shopHeading": "Sklep",
     "aboutHeading": "Informacje",
     "linkLamps": "Lampy stołowe",
@@ -151,7 +151,7 @@
     "fact1": "Wysyłka w Chorwacji (demo)",
     "fact2": "Przed pierwszym użyciem lekko naoliwić",
     "fact3": "Zwroty: ustal politykę sklepu",
-    "collectionsFallback": "Olivo Unikat",
+    "collectionsFallback": "Radionica Lun",
     "imageThumb": "Zdjęcie {{n}}",
     "notFoundTitle": "Nie znaleziono produktu",
     "notFoundLink": "Wróć do sklepu",
@@ -177,7 +177,7 @@
   },
   "about": {
     "eyebrow": "O nas",
-    "title": "Olivo Unikat",
+    "title": "Radionica Lun",
     "p1": "Tworzymy i sprzedajemy unikalne przedmioty z drewna oliwnego — oświetlenie, naczynia i akcesoria.",
     "p2": "Łączymy funkcję z naturalnym materiałem. Większe zamówienia — strona Kontakt.",
     "p3": "Szablon strony — teksty i zdjęcia w edytorze lub kodzie.",

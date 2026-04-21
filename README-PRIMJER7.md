@@ -14,8 +14,7 @@ primjer-7/
 ├── vite.config.ts                     ← dev server na portu 5173
 ├── public/
 │   └── brand/
-│       ├── logo-primjer7.png          ← novi logo (tvoj ovalni pečat)
-│       ├── logo-handmade-olive.png    ← stari logo (kompatibilnost)
+│       ├── logo-primjer7.png          ← aktivni logo (transparent PNG)
 │       ├── lun-hero.jpg               ← hero: stablo staro 1600 god. (Wikimedia)
 │       ├── lun-story.jpg              ← „naša priča": panorama maslinika
 │       └── showcase-proizvodi.jpg     ← fotografija stvarnih proizvoda
@@ -119,6 +118,18 @@ Za GitHub Pages:
 ```bash
 npm run build:gh-pages
 ```
+
+Brza provjera artefakta:
+```bash
+npm run smoke:dist
+```
+
+Kompletni brzi QA prije release-a:
+```bash
+npm run qa:quick
+```
+
+Detaljna release procedura: `RELEASE-CHECKLIST.md`.
 
 ## Gdje dalje mijenjati dizajn
 

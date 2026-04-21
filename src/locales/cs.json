@@ -92,9 +92,9 @@
     { "quote": "Prkénka používám denně, pevné dřevo.", "author": "Maja S.", "location": "Pula" }
   ],
   "footer": {
-    "brand": "Olivo Unikat",
+    "brand": "Radionica Lun",
     "muted": "Předměty z olivového dřeva, ruční výroba. Kontakt pro objednávky.",
-    "copyright": "Olivo Unikat",
+    "copyright": "Radionica Lun",
     "shopHeading": "Obchod",
     "aboutHeading": "Informace",
     "linkLamps": "Stolní lampy",
@@ -151,7 +151,7 @@
     "fact1": "Doprava v Chorvatsku (demo)",
     "fact2": "Před prvním použitím lehce namazat olejem",
     "fact3": "Vrácení: nastavte pravidla obchodu",
-    "collectionsFallback": "Olivo Unikat",
+    "collectionsFallback": "Radionica Lun",
     "imageThumb": "Obrázek {{n}}",
     "notFoundTitle": "Výrobek nenalezen",
     "notFoundLink": "Zpět do obchodu",
@@ -177,7 +177,7 @@
   },
   "about": {
     "eyebrow": "O nás",
-    "title": "Olivo Unikat",
+    "title": "Radionica Lun",
     "p1": "Vyrábíme a prodáváme jedinečné předměty z olivového dřeva — osvětlení, nádobí a doplňky.",
     "p2": "Spojujeme funkci s přírodním materiálem. Větší objednávky — stránka Kontakt.",
     "p3": "Šablona webu — texty a obrázky v editoru nebo kódu.",

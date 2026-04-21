@@ -1,8 +1,5 @@
-# Deploy na GitHub Pages: https://possistemilovran.github.io/Webshoplovran/
-# Repozitorij: https://github.com/possistemilovran/Webshoplovran
-#
+# Deploy na GitHub Pages.
 # U GitHubu: Settings → Pages → Source: GitHub Actions.
-# Grana: main (prilagodi ako koristiš master).
 
 name: Deploy GitHub Pages
 
@@ -32,7 +29,9 @@ jobs:
 
       - run: npm ci
 
-      - name: Build (base /Webshoplovran/)
+      - name: Build (repo-aware GitHub Pages base)
+        env:
+          GH_PAGES_BASE: /${{ github.event.repository.name }}/
         run: npm run build:gh-pages
 
       - name: SPA fallback za GitHub Pages

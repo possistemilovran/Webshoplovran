@@ -92,9 +92,9 @@
     { "quote": "J’utilise les planches tous les jours, bois solide.", "author": "Maja S.", "location": "Pula" }
   ],
   "footer": {
-    "brand": "Olivo Unikat",
+    "brand": "Radionica Lun",
     "muted": "Pièces en bois d’olivier, fait main. Contact pour commandes et questions.",
-    "copyright": "Olivo Unikat",
+    "copyright": "Radionica Lun",
     "shopHeading": "Boutique",
     "aboutHeading": "Informations",
     "linkLamps": "Lampes de table",
@@ -151,7 +151,7 @@
     "fact1": "Livraison en Croatie (démo)",
     "fact2": "Huiler légèrement avant la première utilisation",
     "fact3": "Retours : définissez votre politique",
-    "collectionsFallback": "Olivo Unikat",
+    "collectionsFallback": "Radionica Lun",
     "imageThumb": "Image {{n}}",
     "notFoundTitle": "Article introuvable",
     "notFoundLink": "Retour à la boutique",
@@ -177,7 +177,7 @@
   },
   "about": {
     "eyebrow": "À propos",
-    "title": "Olivo Unikat",
+    "title": "Radionica Lun",
     "p1": "Nous créons et vendons des pièces uniques en bois d’olivier — luminaires, vaisselle et accessoires.",
     "p2": "Nous allions fonction et matière naturelle. Pour des volumes ou sur mesure : page Contact.",
     "p3": "Site modèle — textes et images modifiables dans l’éditeur ou le code.",
