@@ -3,7 +3,6 @@ import { AnnouncementBar } from "./AnnouncementBar";
 import { Header } from "./Header";
 import { Footer } from "./Footer";
 import { CartDrawer } from "./CartDrawer";
-import { AutoTranslateButton } from "./AutoTranslateButton";
 
 export function Layout() {
   return (
@@ -15,7 +14,6 @@ export function Layout() {
       </main>
       <Footer />
       <CartDrawer />
-      <AutoTranslateButton />
     </div>
   );
 }
